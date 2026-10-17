@@ -1,0 +1,6 @@
+{
+  "proxy": true,
+  "ws_host": "live.browser.run",
+  "steps": [],
+  "ws": "failed: ws http 403"
+}

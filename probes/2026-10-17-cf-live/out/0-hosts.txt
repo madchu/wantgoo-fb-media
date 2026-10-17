@@ -1,0 +1,10 @@
+== live.browser.run
+< HTTP/1.1 403 Forbidden
+curl: (56) CONNECT tunnel failed, response 403
+http=000
+== api.cloudflare.com
+< HTTP/1.1 200 Connection Established
+*  subject: CN=api.cloudflare.com
+*  issuer: CN=CCR agent-proxy interception CA (production) 2026-08; O=Anthropic
+< HTTP/1.1 301 Moved Permanently
+http=301
