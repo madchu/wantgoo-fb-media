@@ -1,0 +1,27 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "lane": "fb_daily_growth",
+  "test_only": true,
+  "content_type": "FIRST_PARTY_DATA",
+  "publication_risk": "GREEN",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/index/0000",
+      "role": "primary",
+      "data_as_of": "2026-10-16"
+    },
+    {
+      "url": "https://money.udn.com/money/story/12509/9819105",
+      "role": "supporting"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.index.technical",
+    "params": {
+      "code": "0000"
+    },
+    "selection_reason": "加權指數頁的報價區塊同時顯示加權指數與大盤扣除台積電，支撐本文的對照"
+  },
+  "text": "「台積電收黑，大盤卻收紅」——10/16 的盤面，讓不少人看得一頭霧水：權王都跌了，加權指數怎麼還漲？\n\n答案在台積電以外的股票。\n\n10/16 加權指數收 47,111.26 點，上漲 141.39 點，漲幅 0.3%。玩股網加權指數頁另外提供「大盤扣除台積電」的指數，同一天上漲 301.36 點，漲幅 1.1%。\n\n扣掉台積電之後，漲幅反而更大，代表那天台積電是拖累指數的一方，其他股票整體表現更強。依經濟日報當天的收盤報導，上市股票上漲家數是下跌家數的兩倍以上；航運、生技、電腦週邊、金融等族群收紅，半導體類股則小跌。\n\n台積電在加權指數的權重很高，一檔的漲跌就可能左右指數方向。所以當台積電和多數股票走勢分歧時，只看加權指數，容易看錯市場的溫度。\n\n下次看到大盤小漲或小跌，可以多看兩件事：\n・大盤扣除台積電的漲跌幅\n・上漲與下跌家數\n這兩項能幫你分辨，是多數股票都在漲，還是少數權值股在撐場。\n\n玩股網加權指數頁：https://www.wantgoo.com/index/0000"
+}
