@@ -1,0 +1,159 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-17T14:25:55.103Z",
+  "work_item_id": "fb_app:2026-10-18:e2e",
+  "draft_sha256": "fe042cf0c33015dae7baa76a06942022e97c18ecb4750ce9178b20821006b01d",
+  "captures": {},
+  "explorer": {
+    "exp_20261017_221132_324": {
+      "tool": "fb-pipeline/explorer-fetch@1",
+      "channel": "C0C3Y04MPUK",
+      "thread_ts": "1792246291.638409",
+      "job_id": "exp_20261017_221132_324",
+      "fetched_at": "2026-10-17T14:25:55.098Z",
+      "status": "done",
+      "app_version": "3.3.7",
+      "logged_in": false,
+      "feature": {
+        "title": "三大法人詳細頁：列表看每日買賣超、圖表把外資買賣超和加權指數疊在一起看",
+        "member_only": false,
+        "is_new": true
+      },
+      "data_context": {
+        "captured_at": "2026-10-17T22:13:02+08:00",
+        "market_state": "盤後（週六休市，資料日期為 10/16）"
+      },
+      "screenshots": [
+        {
+          "file": "01-三大法人列表.png",
+          "order": 1,
+          "screen": "三大法人詳細頁－上市－列表模式",
+          "visible_text": [
+            "三大法人",
+            "上市",
+            "上櫃",
+            "期貨",
+            "選擇權",
+            "日期",
+            "外資",
+            "投信",
+            "自營",
+            "合計",
+            "近5日 -5,862.29 881.24 -2,119.78 -7,1（合計欄被裁切）",
+            "10/16 -461.47 110.48 -334.14 -68（合計欄被裁切）",
+            "10/15 -3,025.55 292.83 -958.23 -3,6（合計欄被裁切）",
+            "10/14 -200.37 160.27 -114.7 -15（合計欄被裁切）",
+            "10/13 -1,652.91 246.25 -569.76 -1,9（合計欄被裁切）",
+            "10/12 -521.98 71.41 -142.94 -59（合計欄被裁切）",
+            "10/08 -758.52 30.09 -187.31 -9（合計欄被裁切）",
+            "10/07 -130.44 -33.23 -77.96 -24（合計欄被裁切）",
+            "10/06 -66.57 -142.65 17.21 -19（合計欄被裁切）",
+            "10/05 718.97 -52.93 109.48 77（合計欄被裁切）",
+            "10/02 26.22 57.69 20.26 10（合計欄被裁切）",
+            "10/01 219.37 58.65 16.59 29（合計欄被裁切）",
+            "09/30 308.57 82.91 12.4 40（合計欄被裁切）",
+            "09/29 -625.83 5.79 -164.03 -78（合計欄被裁切）"
+          ],
+          "slack_file_id": "F0CAW3ZHP24",
+          "ok": true,
+          "sha256": "ac0af2ba021466efd9121050b935033c8f53277395e804189dca46f3c819d1cf",
+          "bytes": 338910,
+          "width": 1206,
+          "height": 2622,
+          "slack_name": "01-三大法人列表.png"
+        },
+        {
+          "file": "02-三大法人圖表.png",
+          "order": 2,
+          "screen": "三大法人詳細頁－上市－圖表模式",
+          "visible_text": [
+            "三大法人",
+            "上市",
+            "上櫃",
+            "期貨",
+            "選擇權",
+            "加權 2026/10/16 47,111.26 ▲141.39 0.3%",
+            "開 46,995.03 高 47,520.6 低 46,995.03",
+            "49968.92",
+            "39384.85",
+            "51028",
+            "47852",
+            "44677",
+            "41501",
+            "38326",
+            "07-24",
+            "08-17",
+            "09-08",
+            "10-02",
+            "外資買賣超(億元) -461.47",
+            "981",
+            "-39",
+            "-1K",
+            "-2K",
+            "-3K",
+            "投信買賣超(億元) 110.48",
+            "370",
+            "231",
+            "91",
+            "-48",
+            "-188",
+            "自營商買賣超(億元) -334.14",
+            "267",
+            "-45",
+            "-357",
+            "-669",
+            "-982",
+            "法人合計買賣超(億元) -685.14",
+            "1K",
+            "22",
+            "-1K",
+            "-2K"
+          ],
+          "slack_file_id": "F0C9ZPNU39C",
+          "ok": true,
+          "sha256": "8ae824c3462bd450321913ac2b3774910d90d23ac93d82d58a919c4fccb422b8",
+          "bytes": 290129,
+          "width": 1206,
+          "height": 2622,
+          "slack_name": "02-三大法人圖表.png"
+        }
+      ]
+    }
+  },
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "DRY_RUN",
+  "approval_version": "92e454c8eff55a2860f80d646e2a87f208ccf137d16a9580776fcc5333925d42",
+  "image_sha256": "8ae824c3462bd450321913ac2b3774910d90d23ac93d82d58a919c4fccb422b8",
+  "effective_risk": "GREEN",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    },
+    {
+      "code": "EXPLORER_TRUST",
+      "message": "App Explorer screenshots go live only after the owner accepts their trust model"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": true,
+    "profiles": [],
+    "data_claims": [
+      "47,111.26 點",
+      "461.47 億",
+      "110.48 億",
+      "334.14 億",
+      "685.14 億"
+    ],
+    "first_party_links": [],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  }
+}
