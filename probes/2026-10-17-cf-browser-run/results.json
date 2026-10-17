@@ -1,0 +1,41 @@
+{
+  "account_suffix": "617b",
+  "endpoint_base": "browser-run",
+  "api_calls": 7,
+  "calls": [
+    {
+      "step": 2,
+      "file": "margin-1.png",
+      "endpoint": "screenshot",
+      "http": 200,
+      "ms_used": 9171.09,
+      "sha256": "e85339ae311cb460fab3dc47744b493b3a670765484dddc157f6cc87e30fc980",
+      "size": "2148x2132"
+    },
+    {
+      "step": 3,
+      "file": "margin-scrape.json",
+      "endpoint": "scrape",
+      "http": 200,
+      "ms_used": 3399.83
+    },
+    {
+      "step": 4,
+      "file": "margin-2.png",
+      "endpoint": "screenshot",
+      "http": "429 (rate limit 2001) then 200 on retry after 25s",
+      "ms_used": 25982.79,
+      "sha256": "8a50be50e5b2ccb0aa44a0c85bdd378da9adf8cb8a50bde33a7713190150ed61",
+      "size": "2148x2132"
+    },
+    {
+      "step": 5,
+      "file": "tsmc-k.png",
+      "endpoint": "screenshot",
+      "http": "429 (rate limit 2001) then 200 on retry after 25s",
+      "ms_used": 26357.63,
+      "sha256": "1a7db3e099751c2d285e4579be3560336b34c736a6820c099c273b302fc30888",
+      "size": "2216x1600"
+    }
+  ]
+}
