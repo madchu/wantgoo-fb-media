@@ -1,0 +1,10 @@
+{
+ "schema":"wantgoo.fb_post.v1",
+ "work_item_id":"fb_daily_growth:2026-10-17:slack_1792239354_570599",
+ "lane":"fb_daily_growth","test_only":true,
+ "scheduled_at":"2026-10-17T23:30:00+08:00",
+ "content_type":"CONCEPT_EDUCATION","publication_risk":"GREEN",
+ "evidence":[],"research":{"first_party_candidates":[]},
+ "visual":{"source":"AI_ILLUSTRATION","conceptual_only":true,"no_fabricated_facts":true,"selection_reason":"純觀念文，抽象插圖，不含數據"},
+ "text":"「等到退休再好好生活」聽起來很合理，但它有一個藏起來的假設：退休那天，時間、健康與資金會同時到位。\n\n這三樣東西的保存期限並不一樣。資金可以靠複利慢慢累積，時間與體力卻不會等你。同一筆錢，在體力好的年紀能換到登山、旅行、陪孩子長大；延後到很多年之後，可能只換得到一張安穩的帳面數字。\n\n所以延後享受，真正的成本不是少花了一筆錢，而是把「只在某個年紀才有的選擇」一起延後了。\n\n但這不代表要把錢花光。比較可行的做法，是把「幸福」也當成需要提撥的預算：\n\n一、先決定退休資金的底線，這筆錢不動。\n二、扣掉底線後，每年固定留一小份給「現在就想做的事」，寫下名稱與金額。\n三、每年檢查一次：這份預算有沒有真的用掉？沒用掉，代表只是又延期了一年。\n\n退休規劃與現在的生活不是二選一，而是同一份資產負債表的兩側。長期投資的複利要靠紀律，生活品質也一樣需要有計畫地分配。\n\n以上為一般性的理財觀念，不針對任何標的，也不構成投資建議。"
+}
