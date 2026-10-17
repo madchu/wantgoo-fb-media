@@ -1,0 +1,10 @@
+{"brand":{"id":6948585,"label":"就是愛玩股 Wantgoo","facebookData":"129479581841","timezone":"Asia/Taipei","ok":true},
+ "query":{"from":"2026-10-17T00:00:00+08:00","to":"2026-10-19T23:59:59+08:00","extendedRange":true},
+ "posts":[
+  {"id":397322593,"network":"threads","status":"PUBLISHED","publicationDate":"2026-10-16T09:10:00","text30":"大跌後，「大盤融資維持率」常被看成全市場的斷頭倒數。"},
+  {"id":397322688,"network":"facebook","status":"PUBLISHED","publicationDate":"2026-10-16T10:00:00","text30":"大盤重挫後，看到「大盤融資維持率」往下，很多人第一個反應是："},
+  {"id":398233456,"network":"facebook","status":"PUBLISHED","publicationDate":"2026-10-17T08:50:00","text30":"這週台股從 49,313 點跌到 47,111 點，五個交易日跌了約 4.5%，","fb_id":"1598488755654660"}],
+ "first_post_count":1,"dryrun_text_used":false,
+ "visible_publish_tools":["createScheduledPost","createScheduledPostForReview","sendScheduledPostForReview","updateScheduledPost"],
+ "publish_tools_called":false,
+ "other_tools":["getBrandSettings","getScheduledPosts","getAnalyticsAvailableMetrics","getAnalyticsDataByMetrics","getBestTimeToPostByNetwork"]}

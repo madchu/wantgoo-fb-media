@@ -1,0 +1,83 @@
+{
+  "tool": "fb-pipeline/capture@2",
+  "profile": "wantgoo.margin.taiex",
+  "work_item_id": "fb_daily_growth:2026-10-17:dryrun",
+  "url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+  "final_url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+  "http_status": 200,
+  "captured_at": "2026-10-17T06:01:43.936Z",
+  "data_as_of": "2026-10-16",
+  "extracted": {
+    "newest_row": "10/16 6455.94 -8.22 183.39% 233602 4452 2.45 47111.26 0.3 9,379"
+  },
+  "checks": [
+    {
+      "selector": "#transactionTable tbody tr",
+      "min": 5,
+      "actual": 30,
+      "pass": true
+    },
+    {
+      "selector": "#taiexMarginChart svg path",
+      "min": 50,
+      "actual": 193,
+      "pass": true
+    },
+    {
+      "selector": "#taiexMarginChart .highcharts-line-series path.highcharts-graph",
+      "min": 3,
+      "actual": 3,
+      "pass": true
+    },
+    {
+      "selector": "series:加權指數",
+      "min": ">= 2026-10-16 - 4d",
+      "actual": "2026-10-16",
+      "pass": true
+    },
+    {
+      "selector": "series:大盤融資維持率",
+      "min": ">= 2026-10-16 - 4d",
+      "actual": "2026-10-16",
+      "pass": true
+    },
+    {
+      "selector": "series:融資餘額(億)",
+      "min": ">= 2026-10-16 - 4d",
+      "actual": "2026-10-16",
+      "pass": true
+    },
+    {
+      "selector": "series:融券餘額(張)",
+      "min": ">= 2026-10-16 - 4d",
+      "actual": "2026-10-16",
+      "pass": true
+    },
+    {
+      "selector": "series:借券賣出餘額變化(張)",
+      "min": ">= 2026-10-16 - 4d",
+      "actual": "2026-10-16",
+      "pass": true
+    },
+    {
+      "selector": "series:金額(億)",
+      "min": ">= 2026-10-16 - 4d",
+      "actual": "2026-10-16",
+      "pass": true
+    },
+    {
+      "selector": "series:外資買賣超(億)",
+      "min": ">= 2026-10-16 - 4d",
+      "actual": "2026-10-16",
+      "pass": true
+    }
+  ],
+  "stable_frames": 2,
+  "selector": "#taiexMarginChart",
+  "title": "資券進出行情 - 融資融券 - 台股｜玩股網",
+  "file": "evidence.png",
+  "bytes": 212490,
+  "width": 2148,
+  "height": 2132,
+  "sha256": "216105653c802d341cccfd4534b185ba576f336c65d52165c9335c500adc48b0"
+}

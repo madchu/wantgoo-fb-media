@@ -1,0 +1,22 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-10-17:dryrun",
+ "lane": "fb_daily_growth",
+ "test_only": true,
+ "scheduled_at": "2026-10-17T14:35:00+08:00",
+ "content_type": "FIRST_PARTY_DATA",
+ "publication_risk": "GREEN",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+   "role": "primary",
+   "data_as_of": "2026-10-16"
+  }
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.margin.taiex",
+  "selection_reason": "截圖呈現資券進出行情表，最新列含融資餘額與維持率，直接支撐文中兩個數字"
+ },
+ "text": "融資水位最近常被拿出來討論，先看資券進出行情頁面怎麼說。\n\n10/16 大盤融資餘額 6,455.94 億，融資維持率 183.39%。\n\n維持率是看槓桿安全邊際的指標之一，常見的規則數字是 130%。融資餘額高，代表市場槓桿水位高，維持率則反映這些部位離風險線還有多少距離。\n\n兩個數字放一起看，比單看餘額更完整。完整頁面：https://www.wantgoo.com/stock/margin-trading/market-price/taiex"
+}
