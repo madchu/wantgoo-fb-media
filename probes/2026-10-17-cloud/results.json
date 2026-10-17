@@ -1,0 +1,35 @@
+[
+  {
+    "name": "margin-1",
+    "url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+    "at": "2026-10-17T03:17:16.610Z",
+    "status": 403,
+    "title": "Just a moment...",
+    "ready": false,
+    "title_after": "請稍候...",
+    "final_url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+    "failure_file": "margin-1.failure.png"
+  },
+  {
+    "name": "margin-2-reload",
+    "url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+    "at": "2026-10-17T03:18:17.732Z",
+    "status": 403,
+    "title": "Just a moment...",
+    "ready": false,
+    "title_after": "請稍候...",
+    "final_url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex?__cf_chl_rt_tk=gDXxaiTZ5v9HKVgHYLKnxXUfDxFH0DtwuQtf7JrrWiA-1792207097-1.0.1.1-Bi7eK.xqzmDAjq0V9HCX0uef5PgWZNv8sbrRV1m48Ac",
+    "failure_file": "margin-2-reload.failure.png"
+  },
+  {
+    "name": "tsmc-k",
+    "url": "https://www.wantgoo.com/stock/2330/technical-chart",
+    "at": "2026-10-17T03:19:18.271Z",
+    "status": 403,
+    "title": "Just a moment...",
+    "ready": false,
+    "title_after": "請稍候...",
+    "final_url": "https://www.wantgoo.com/stock/2330/technical-chart",
+    "failure_file": "tsmc-k.failure.png"
+  }
+]
