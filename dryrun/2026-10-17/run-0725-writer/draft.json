@@ -1,0 +1,33 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "lane": "fb_daily_growth",
+  "test_only": true,
+  "content_type": "FIRST_PARTY_DATA",
+  "publication_risk": "GREEN",
+  "work_item_id": "fb_daily_growth:2026-10-17:dryrun5",
+  "scheduled_at": "2026-10-17T16:00:00+08:00",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/index/0000",
+      "role": "primary",
+      "data_as_of": "2026-10-16"
+    },
+    {
+      "url": "https://udn.com/news/story/7251/9819068",
+      "role": "supporting"
+    },
+    {
+      "url": "https://udn.com/news/story/7251/9819309",
+      "role": "supporting"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.index.technical",
+    "params": {
+      "code": "0000"
+    },
+    "selection_reason": "加權指數頁報價區塊同時顯示開盤、最高、最低與離季線，支撐本文的判讀"
+  },
+  "text": "一週重挫之後，週五終於收紅——這算反彈嗎？\n\n先看 10/16 加權指數頁的數字：昨收 46,969.87 點，開盤 46,995.03 點，最低 46,995.03 點，最高 47,520.60 點，收 47,111.26 點，上漲 141.39 點，漲幅 0.3%。\n\n開盤就是全天最低，盤中一度拉高到 47,520.60 點，收盤時漲幅比盤中高點收斂不少。依經濟日報當天的報導，這天被歸類為技術性反彈；中央社也提到盤中漲幅一度擴大、之後收斂。\n\n玩股網加權指數頁同時顯示「離季線 1,085.36 點（2.36%）」。這是收盤價與季線的距離，不是預測，只是告訴你：這根紅 K 之後，指數和季線之間還隔著多遠。\n\n所以看到大跌後的紅 K，可以拆成兩個問題：\n・收盤相對盤中最高點，是收在高處還是漲幅收斂？\n・離季線還有多少距離？\n前者看當天的力道，後者看整段走勢的位置。單日收紅只能回答第一個問題，第二個還得看之後幾天的收盤。\n\n玩股網加權指數頁：https://www.wantgoo.com/index/0000"
+}
