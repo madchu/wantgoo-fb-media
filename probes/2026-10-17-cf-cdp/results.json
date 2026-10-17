@@ -1,0 +1,5 @@
+{"status":"connect_failed","account_suffix":"7b","attempts":[
+{"n":1,"base":"browser-rendering","env":"default","error":"getaddrinfo ENOTFOUND api.cloudflare.com"},
+{"n":2,"base":"browser-rendering","env":"NODE_USE_ENV_PROXY=1","error":"getaddrinfo ENOTFOUND api.cloudflare.com"},
+{"n":3,"base":"browser-run","env":"default","error":"getaddrinfo ENOTFOUND api.cloudflare.com"}],
+"screenshots":0}
