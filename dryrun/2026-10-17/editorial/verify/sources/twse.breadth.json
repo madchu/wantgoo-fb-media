@@ -1,0 +1,17 @@
+{
+  "source": "twse.breadth",
+  "name": "證交所 每日收盤行情 大盤統計資訊（漲跌證券數合計）",
+  "publisher": [
+    "證交所",
+    "證券交易所"
+  ],
+  "params": {
+    "date": "20261016"
+  },
+  "url": "https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?date=20261016&type=MS&response=json",
+  "final_url": "https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?date=20261016&type=MS&response=json",
+  "http_status": 200,
+  "sha256": "e0b70ed600c27bde575046f45983b246b8cdf8ac265a0e041a6fce4edd587c47",
+  "data_date": "2026-10-16",
+  "fetched_at": "2026-10-17T08:18:50.637Z"
+}

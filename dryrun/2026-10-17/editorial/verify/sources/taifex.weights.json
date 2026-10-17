@@ -1,0 +1,17 @@
+{
+  "source": "taifex.weights",
+  "name": "期交所 臺灣證券交易所發行量加權股價指數成分股暨市值比重",
+  "publisher": [
+    "期交所",
+    "期貨交易所"
+  ],
+  "params": {},
+  "url": "https://www.taifex.com.tw/cht/9/futuresQADetail",
+  "final_url": "https://www.taifex.com.tw/cht/9/futuresQADetail",
+  "http_status": 200,
+  "sha256": "37ae1245507c65d4429340a15e2001f3e35288f8dceb420a2b6f5c280959b008",
+  "data_date": "2026-09-30",
+  "constituents": 1071,
+  "weight_total": 100.0001,
+  "fetched_at": "2026-10-17T08:18:51.089Z"
+}

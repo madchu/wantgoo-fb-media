@@ -1,0 +1,262 @@
+{
+  "verified": true,
+  "test_only": true,
+  "sources": [
+    {
+      "source": "twse.breadth",
+      "name": "證交所 每日收盤行情 大盤統計資訊（漲跌證券數合計）",
+      "publisher": [
+        "證交所",
+        "證券交易所"
+      ],
+      "params": {
+        "date": "20261016"
+      },
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?date=20261016&type=MS&response=json",
+      "final_url": "https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?date=20261016&type=MS&response=json",
+      "http_status": 200,
+      "sha256": "e0b70ed600c27bde575046f45983b246b8cdf8ac265a0e041a6fce4edd587c47",
+      "data_date": "2026-10-16",
+      "fetched_at": "2026-10-17T08:18:50.637Z"
+    },
+    {
+      "source": "taifex.weights",
+      "name": "期交所 臺灣證券交易所發行量加權股價指數成分股暨市值比重",
+      "publisher": [
+        "期交所",
+        "期貨交易所"
+      ],
+      "params": {},
+      "url": "https://www.taifex.com.tw/cht/9/futuresQADetail",
+      "final_url": "https://www.taifex.com.tw/cht/9/futuresQADetail",
+      "http_status": 200,
+      "sha256": "37ae1245507c65d4429340a15e2001f3e35288f8dceb420a2b6f5c280959b008",
+      "data_date": "2026-09-30",
+      "constituents": 1071,
+      "weight_total": 100.0001,
+      "fetched_at": "2026-10-17T08:18:51.089Z"
+    }
+  ],
+  "claims": [
+    {
+      "claim": "0.3%",
+      "at": 13,
+      "ok": true,
+      "kind": "capture",
+      "capture": "wantgoo.index.technical {\"code\":\"0000\"}",
+      "series": "main",
+      "field": "change_pct",
+      "label": "漲",
+      "value": 0.3,
+      "data_date": "2026-10-16",
+      "sha256": "2dc34f05d055750ec6e995aa2edf75c779f26a1328058f149591196d4170ddf3"
+    },
+    {
+      "claim": "0.3%",
+      "at": 51,
+      "ok": true,
+      "kind": "capture",
+      "capture": "wantgoo.index.technical {\"code\":\"0000\"}",
+      "series": "main",
+      "field": "change_pct",
+      "label": "上漲",
+      "value": 0.3,
+      "data_date": "2026-10-16",
+      "sha256": "2dc34f05d055750ec6e995aa2edf75c779f26a1328058f149591196d4170ddf3"
+    },
+    {
+      "claim": "1.1%",
+      "at": 91,
+      "ok": true,
+      "kind": "capture",
+      "capture": "wantgoo.index.technical {\"code\":\"0000\"}",
+      "series": "ex_tsmc",
+      "field": "change_pct",
+      "label": "上漲",
+      "value": 1.1,
+      "data_date": "2026-10-16",
+      "sha256": "2dc34f05d055750ec6e995aa2edf75c779f26a1328058f149591196d4170ddf3"
+    },
+    {
+      "claim": "0.82%",
+      "at": 103,
+      "ok": true,
+      "kind": "capture",
+      "capture": "wantgoo.stock.technical {\"code\":\"2330\"}",
+      "series": "main",
+      "field": "change_pct",
+      "label": "下跌",
+      "value": 0.82,
+      "data_date": "2026-10-16",
+      "sha256": "ecf7e88bb74d0d6c1d3ac59e6fac431475959cfdd24a2b86cb764cc1528aa5e5"
+    },
+    {
+      "claim": "41.12%",
+      "at": 198,
+      "ok": true,
+      "kind": "source",
+      "source": "taifex.weights",
+      "field": "weight.2330",
+      "label": "2330 台積電 市值佔大盤比重",
+      "value": 41.1212,
+      "unit": "%",
+      "data_date": "2026-09-30",
+      "url": "https://www.taifex.com.tw/cht/9/futuresQADetail",
+      "sha256": "37ae1245507c65d4429340a15e2001f3e35288f8dceb420a2b6f5c280959b008"
+    },
+    {
+      "claim": "0.82%",
+      "at": 227,
+      "ok": true,
+      "kind": "capture",
+      "capture": "wantgoo.stock.technical {\"code\":\"2330\"}",
+      "series": "main",
+      "field": "change_pct",
+      "label": "跌",
+      "value": 0.82,
+      "data_date": "2026-10-16",
+      "sha256": "ecf7e88bb74d0d6c1d3ac59e6fac431475959cfdd24a2b86cb764cc1528aa5e5"
+    },
+    {
+      "claim": "0.34個百分點",
+      "at": 240,
+      "ok": true,
+      "kind": "derived",
+      "field": "tsmc",
+      "path_a": -0.33719384,
+      "path_b": -0.34000288804402923
+    },
+    {
+      "claim": "59%",
+      "at": 263,
+      "ok": true,
+      "kind": "derived",
+      "field": "rest_weight",
+      "path_a": 58.8788,
+      "path_b": 58.519647658628436
+    },
+    {
+      "claim": "1.1%",
+      "at": 269,
+      "ok": true,
+      "kind": "capture",
+      "capture": "wantgoo.index.technical {\"code\":\"0000\"}",
+      "series": "ex_tsmc",
+      "field": "change_pct",
+      "label": "漲",
+      "value": 1.1,
+      "data_date": "2026-10-16",
+      "sha256": "2dc34f05d055750ec6e995aa2edf75c779f26a1328058f149591196d4170ddf3"
+    },
+    {
+      "claim": "0.65個百分點",
+      "at": 278,
+      "ok": true,
+      "kind": "derived",
+      "field": "rest",
+      "path_a": 0.6476668,
+      "path_b": 0.6410256500827575
+    },
+    {
+      "claim": "0.31個百分點",
+      "at": 292,
+      "ok": true,
+      "kind": "derived",
+      "field": "net",
+      "path_a": 0.31047295999999996,
+      "path_b": 0.3010227620387282
+    },
+    {
+      "claim": "0.3%",
+      "at": 313,
+      "ok": true,
+      "kind": "capture",
+      "capture": "wantgoo.index.technical {\"code\":\"0000\"}",
+      "series": "main",
+      "field": "change_pct",
+      "label": "漲幅",
+      "value": 0.3,
+      "data_date": "2026-10-16",
+      "sha256": "2dc34f05d055750ec6e995aa2edf75c779f26a1328058f149591196d4170ddf3"
+    },
+    {
+      "claim": "684家",
+      "at": 436,
+      "ok": true,
+      "kind": "source",
+      "source": "twse.breadth",
+      "field": "stocks.up",
+      "label": "股票／上漲(漲停)",
+      "value": 684,
+      "unit": "家",
+      "data_date": "2026-10-16",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?date=20261016&type=MS&response=json",
+      "sha256": "e0b70ed600c27bde575046f45983b246b8cdf8ac265a0e041a6fce4edd587c47"
+    },
+    {
+      "claim": "286家",
+      "at": 445,
+      "ok": true,
+      "kind": "source",
+      "source": "twse.breadth",
+      "field": "stocks.down",
+      "label": "股票／下跌(跌停)",
+      "value": 286,
+      "unit": "家",
+      "data_date": "2026-10-16",
+      "url": "https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?date=20261016&type=MS&response=json",
+      "sha256": "e0b70ed600c27bde575046f45983b246b8cdf8ac265a0e041a6fce4edd587c47"
+    },
+    {
+      "claim": "兩倍多",
+      "at": 459,
+      "ok": true,
+      "kind": "derived",
+      "field": "stocks.up/down",
+      "path_a": 2.3916083916083917,
+      "path_b": "684 vs 2×286=572"
+    },
+    {
+      "claim": "四成",
+      "at": 620,
+      "ok": true,
+      "kind": "source",
+      "source": "taifex.weights",
+      "field": "weight.2330",
+      "value": 41.1212,
+      "unit": "%"
+    }
+  ],
+  "unverified": [],
+  "wrong_dates": [],
+  "derived": {
+    "ok": true,
+    "reason": null,
+    "a": {
+      "weight_pct": 41.1212,
+      "rest_weight_pct": 58.8788,
+      "tsmc": -0.33719384,
+      "rest": 0.6476668,
+      "net": 0.31047295999999996
+    },
+    "b": {
+      "weight_pct": 41.480352341371564,
+      "rest_weight_pct": 58.519647658628436,
+      "tsmc": -0.34000288804402923,
+      "rest": 0.6410256500827575,
+      "net": 0.3010227620387282,
+      "returns": {
+        "taiex": 0.3010227620387282,
+        "ex": 1.0954024429917109,
+        "tsmc": -0.819672131147541
+      }
+    },
+    "gaps": {
+      "tsmc": 0.0028090480440292054,
+      "rest": 0.006641149917242517,
+      "net": 0.009450197961271778,
+      "weight": 0.35915234137156204
+    }
+  },
+  "problems": []
+}
