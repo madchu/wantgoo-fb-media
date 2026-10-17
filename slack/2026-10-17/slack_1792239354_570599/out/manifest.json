@@ -1,0 +1,71 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-17T12:45:03.615Z",
+  "work_item_id": "fb_daily_growth:2026-10-17:slack_1792239354_570599",
+  "draft_sha256": "66b4e99c435afd24cb230502a1ac11c9236c29110d8e127366ff45f2ee2811e6",
+  "captures": {
+    "wantgoo.etf.ranking": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.etf.ranking",
+      "params": {
+        "kind": "shareholders"
+      },
+      "work_item_id": "fb_daily_growth:2026-10-17:slack_1792239354_570599",
+      "url": "https://www.wantgoo.com/stock/etf/ranking/shareholders",
+      "final_url": "https://www.wantgoo.com/stock/etf/ranking/shareholders",
+      "http_status": 200,
+      "captured_at": "2026-10-17T12:44:59.757Z",
+      "data_as_of": "2026-10-16",
+      "extracted": {
+        "title": "台股ETF受益人數排行",
+        "columns": "代碼 名稱 市價 漲跌 (%) 折溢價 (%) 五日均量 (張) 資產規模 (億) 近四季 殖利率 年報酬率 (含息) 內扣費用 (保管+管理) 交易幣別 受益人數 成立 年齡 自選 本月 月增率",
+        "top_rows": "0050 元大台灣50 109 0.09 0.35 168645.20 24761.02 1.47 79.2% 0.075 新臺幣 3677896 3.90 23.32 | 0056 元大高股息 58.75 0.86 0.38 65835.40 8482.77 8.40 74.5% 0.335 新臺幣 1715967 3.29 18.82 | 00878 國泰永續高股息 35.53 1.25 0.14 32482.00 6710.79 7.01 82.2% 0.285 新臺幣 1697769 1.57 6.25 | 00919 群益台灣精選高息 32.74 1.11 -0.55 80020.20 6385.37 10.45 73.9% 0.335 新臺幣 1495565 2.00 4.00 | 009816 凱基台灣TOP50 16.2 0.06 0.31 193888.20 2073.63 -- -- 0.097 新臺幣 974359 6.11 0.70 | 00981A 主動統一台股增長 29.53 0.44 0.61 181595.20 2672.23 5.66 123% 0.100 新臺幣 939895 -0.63 1.39 | 00403A 主動統一升級50 10.41 0.29 0.10 172681.00 1316.02 -- -- 0.035 新臺幣 784531 -7.14 0.44 | 006208 富邦台50 250.35 0.10 0.61 3885.20 4645.76 3.27 80.2% 0.130 新臺幣 717162 0.67 14.26 | 00929 復華台灣科技優息 29.84 0.40 0.30 49594.20 1620.08 8.48 76.9% 0.330 新臺幣 475511 3.44 3.36 | 0052 富邦科技 63.3 0.24 0.60 27988.80 1627.11 1.89 83% 0.185 新臺幣 467647 3.51 20.11"
+      },
+      "checks": [
+        {
+          "selector": "table.table-sequence tbody tr",
+          "min": 20,
+          "actual": 360,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": "table.table-sequence",
+      "title": "台股ETF受益人數排行 - ETF - 台股 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 357505,
+      "width": 2216,
+      "height": 982,
+      "sha256": "7a6276ebf1f6c8a9f7f99e1bc9f25a963be332c9a720b974a8d5b4cb386a75a8"
+    }
+  },
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "DRY_RUN",
+  "approval_version": "d0ae7c807ebca76bde6cebe41b4406a733f7286221028599b9fe5fb054379110",
+  "image_sha256": "7a6276ebf1f6c8a9f7f99e1bc9f25a963be332c9a720b974a8d5b4cb386a75a8",
+  "effective_risk": "GREEN",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "0050 元",
+      "0056 元"
+    ],
+    "first_party_links": [],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  }
+}
