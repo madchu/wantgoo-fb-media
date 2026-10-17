@@ -1,0 +1,54 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-17T06:37:10.788Z",
+  "work_item_id": "fb_daily_growth:2026-10-17:dryrun2",
+  "draft_sha256": "7a28e2ddfab666d5a4215c237efa2cbd7330f2b28fb2f7ae4e8971969957a415",
+  "captures": {},
+  "capture_failures": [
+    {
+      "profile": "wantgoo.stock.technical",
+      "code": "ENOENT",
+      "message": "ENOENT: no such file or directory, open '/tmp/ws-run.txt'",
+      "details": {}
+    }
+  ],
+  "decision": "BLOCKED",
+  "block_class": "BLOCKED_ASSET_POLICY",
+  "reasons": [
+    {
+      "code": "CAPTURE_FAILED",
+      "message": "wantgoo.stock.technical: ENOENT ENOENT: no such file or directory, open '/tmp/ws-run.txt'"
+    },
+    {
+      "code": "TRUSTED_CAPTURE_MISSING",
+      "message": "no capture of wantgoo.stock.technical from the executor in this run"
+    }
+  ],
+  "publish_target": null,
+  "approval_version": null,
+  "image_sha256": null,
+  "effective_risk": "GREEN",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": true,
+    "profiles": [],
+    "data_claims": [
+      "0.82%",
+      "33,389 張"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/stock/2330/technical-chart"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  }
+}

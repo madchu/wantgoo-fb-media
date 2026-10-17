@@ -1,0 +1,6 @@
+{"tools_visible":["getBrandSettings","getScheduledPosts"],"call":{"brandId":6948585,"from":"2026-10-17T00:00:00+08:00","to":"2026-10-19T23:59:59+08:00","timezone":"Asia/Taipei","extendedRange":true},
+"returned_ids":[397322593,397322688,398233456],
+"first_post_398233456_count":1,
+"first_post_status":"PUBLISHED (facebook, 2026-10-17T08:50 +08:00)",
+"posts_using_this_run_text":0,
+"note":"回傳含 10/16 兩篇（因 extendedRange），皆已 PUBLISHED；無本次文案（台積電 2330）。"}

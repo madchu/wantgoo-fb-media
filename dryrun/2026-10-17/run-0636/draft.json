@@ -1,0 +1,4 @@
+{"schema":"wantgoo.fb_post.v1","work_item_id":"fb_daily_growth:2026-10-17:dryrun2","lane":"fb_daily_growth","test_only":true,"scheduled_at":"2026-10-17T15:11:00+08:00","content_type":"FIRST_PARTY_DATA","publication_risk":"GREEN",
+"evidence":[{"url":"https://www.wantgoo.com/stock/2330/technical-chart","role":"primary","data_as_of":"2026-10-16"}],
+"visual":{"source":"FIRST_PARTY_SCREENSHOT","profile":"wantgoo.stock.technical","params":{"code":"2330"},"selection_reason":"權值股台積電是投資人最常查看的標的，技術線圖頁能同時呈現報價與走勢。"},
+"text":"台積電(2330)資料日期 2026-10-16 的報價整理：收盤 2420.00，下跌 20.00，跌幅 0.82%，昨收 2440.00。\n當天開盤 2430.00，最高 2445.00，最低 2420.00，成交量 33,389 張，均價 2428.96。收盤價落在當天最低點，與均價相差約一個小格距離。\n本益比 28.05、股淨比 9.76，Beta 值（近半年）0.98。\n完整技術線圖可在玩股網查看：https://www.wantgoo.com/stock/2330/technical-chart"}
