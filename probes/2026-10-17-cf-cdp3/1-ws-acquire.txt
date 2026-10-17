@@ -1,0 +1,16 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 400 Bad Request
+Connection: close
+Content-Length: 106
+Api-Version: 2026-10-01.epoch
+Cache-Control: no-store
+Cf-Auditlog-Id: 01a14823-ce60-74ac-b400-bc0cda9b4a6b
+Cf-Ray: a4bc9750898b31bb-IAD
+Connection: keep-alive
+Content-Type: application/json
+Date: Sat, 17 Oct 2026 04:34:28 GMT
+Server: cloudflare
+X-Browser-Ms-Used: 0
+
+{"success":false,"errors":[{"code":1000,"message":"Expected websocket connection. Use wss:// protocol."}]}

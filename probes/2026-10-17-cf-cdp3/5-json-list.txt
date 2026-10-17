@@ -1,0 +1,16 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 1278
+Api-Version: 2026-10-01.epoch
+Cache-Control: no-store
+Cf-Auditlog-Id: 01a14824-21f7-7b9b-b90f-f59ad465a9f6
+Cf-Ray: a4bc97d64a5931bb-IAD
+Connection: keep-alive
+Content-Type: application/json
+Date: Sat, 17 Oct 2026 04:34:50 GMT
+Server: cloudflare
+X-Browser-Ms-Used: 0
+
+[{"description":"","devtoolsFrontendUrl":"https://live.browser.run/ui/view?wss=live.browser.run/api/devtools/browser/7f2edd8a-859d-4b94-a65d-1c314e82f2cc/page/479741FC405A804F4B234684B20142D2?jwt=REDACTED","id":"479741FC405A804F4B234684B20142D2","title":"about:blank","type":"page","url":"about:blank","webSocketDebuggerUrl":"wss://live.browser.run/api/devtools/browser/7f2edd8a-859d-4b94-a65d-1c314e82f2cc/page/479741FC405A804F4B234684B20142D2?jwt=REDACTED"}]

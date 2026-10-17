@@ -1,0 +1,16 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Length: 19
+Api-Version: 2026-10-01.epoch
+Cache-Control: no-store
+Cf-Auditlog-Id: 01a14824-22c8-7db5-bd3e-71d2511c5f7e
+Cf-Ray: a4bc97d79da531bb-IAD
+Connection: keep-alive
+Content-Type: application/json
+Date: Sat, 17 Oct 2026 04:34:50 GMT
+Server: cloudflare
+X-Browser-Ms-Used: 0
+
+{"status":"closed"}
