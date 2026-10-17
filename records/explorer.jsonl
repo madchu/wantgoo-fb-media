@@ -5,3 +5,4 @@
 {"event":"BRIEF_POSTED","thread_ts":"1792278514.644279","work_item_id":"fb_app:2026-10-18:switch_e2e","at":"2026-10-17T23:08:34.645Z"}
 {"event":"PROPOSAL_REPLIED","thread_ts":"1792278514.644279","job_id":"exp_20261018_070835_043","turn":1,"decision":"同意","option":"A","reply_ts":"1792278958.707379","at":"2026-10-17T23:15:58.720Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792278514.644279","message_ts":"1792278912.469379","outcome":"HANDLED","reason":"已回提案：同意 A，回答 3 題","at":"2026-10-17T23:16:03.273Z"}
+{"event":"NOTE_POSTED","thread_ts":"1792278514.644279","reply_ts":"1792279231.343229","key":"result:exp_20261018_070835_043","at":"2026-10-17T23:20:31.360Z"}
