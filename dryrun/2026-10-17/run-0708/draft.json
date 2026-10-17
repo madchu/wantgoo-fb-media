@@ -1,0 +1,4 @@
+{"schema":"wantgoo.fb_post.v1","work_item_id":"fb_daily_growth:2026-10-17:dryrun4","lane":"fb_daily_growth","test_only":true,"scheduled_at":"2026-10-17T15:43:00+08:00","content_type":"FIRST_PARTY_DATA","publication_risk":"GREEN",
+"evidence":[{"url":"https://www.wantgoo.com/stock/2330/technical-chart","role":"primary","data_as_of":"2026-10-16"}],
+"visual":{"source":"FIRST_PARTY_SCREENSHOT","profile":"wantgoo.stock.technical","params":{"code":"2330"},"selection_reason":"痛點是台積電法說後股價收黑（已由經濟日報內文查證）；技術分析頁有收盤、漲跌、成交量與離季線，讓讀者自己檢查利多後市場的反應。"},
+"text":"法說會講得這麼好，台積電股價怎麼反而收黑？\n\n資料日期 2026-10-16，台積電(2330)收盤 2420.00，下跌 20.00，成交量 33,389 張，離季線 -0.98。收盤低於昨收，代表當天市場沒有買單認同利多；離季線是負值，表示股價在季線下方。\n\n自己檢查可以分三步：\n1. 先看成交量有沒有放大；\n2. 再看收盤相對昨收是漲還是跌；\n3. 最後看離季線多遠。\n\n消息和股價的反應常常有落差，用數字確認比用感覺可靠。你平常會先看哪一項？\n台積電技術分析頁：https://www.wantgoo.com/stock/2330/technical-chart"}
