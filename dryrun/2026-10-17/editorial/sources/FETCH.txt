@@ -1,0 +1,1 @@
+fetched_at: 2026-10-17T07:46Z (Asia/Taipei 15:46) by Claude Code on the owner's Mac with curl; URLs: https://www.twse.com.tw/rwd/zh/afterTrading/MI_INDEX?date=20261016&type=MS&response=json , https://www.taifex.com.tw/cht/9/futuresQADetail
