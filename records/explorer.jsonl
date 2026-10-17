@@ -1,3 +1,4 @@
 {"event":"BRIEF_POSTED","thread_ts":"1792246291.638409","work_item_id":"fb_app:2026-10-18:e2e","at":"2026-10-17T14:11:31.631Z"}
 {"event":"NOTE_POSTED","thread_ts":"1792246291.638409","reply_ts":"1792246622.419349","at":"2026-10-17T14:17:02.380Z"}
 {"event":"NOTE_POSTED","thread_ts":"1792246291.638409","reply_ts":"1792247668.148449","at":"2026-10-17T14:34:28.175Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1792246291.638409","message_ts":"1792247668.148449","outcome":"SKIPPED","reason":"觸發訊息來自 wantgoo_ai 自己的更正說明，不需處理","at":"2026-10-17T23:01:44.096Z"}
