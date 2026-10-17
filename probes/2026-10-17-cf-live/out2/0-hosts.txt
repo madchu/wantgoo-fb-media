@@ -1,0 +1,12 @@
+== live.browser.run
+< HTTP/1.1 200 Connection Established
+*  subject: CN=live.browser.run
+*  issuer: C=US; O=Google Trust Services; CN=WE1
+< HTTP/2 302 
+http=302
+== api.cloudflare.com
+< HTTP/1.1 200 Connection Established
+*  subject: CN=api.cloudflare.com
+*  issuer: CN=CCR agent-proxy interception CA (production) 2026-08; O=Anthropic
+< HTTP/1.1 301 Moved Permanently
+http=301

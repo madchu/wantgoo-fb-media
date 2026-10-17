@@ -1,0 +1,260 @@
+{
+  "proxy": true,
+  "ws_host": "live.browser.run",
+  "steps": [
+    {
+      "name": "margin-1",
+      "url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+      "reload": false,
+      "at": "2026-10-17T05:19:44.602Z",
+      "status": 200,
+      "title": "資券進出行情 - 融資融券 - 台股｜玩股網",
+      "tz": "Asia/Taipei",
+      "ready": true,
+      "title_after": "資券進出行情 - 融資融券 - 台股｜玩股網",
+      "extract": {
+        "newest_row": "10/16 6455.94 -8.22 183.39% 233602 4452 2.45 47111.26 0.3 9,379",
+        "chart_header": "上市台股資券進出行情 WantGoo 玩股網 05/01 06/01 07/01 08/01 09/01 10/01 01/01 01/01 01/01 01/01 01/01 35000.00 37500.00 40000.00 42500.00 45000.00 47500.00 50000.00 52500.00 1.2 1.8 2.4 4000 5600 7200 60k 180k 300"
+      },
+      "series": [
+        {
+          "name": "加權指數",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "大盤融資維持率",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "融資餘額(億)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "融券餘額(張)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "借券賣出餘額變化(張)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "金額(億)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "外資買賣超(億)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        }
+      ],
+      "hidden_fixed": 4,
+      "rect": {
+        "x": 103,
+        "y": 407,
+        "width": 1074,
+        "height": 1066
+      },
+      "file": "margin-1.png",
+      "bytes": 212490,
+      "sha256": "216105653c802d341cccfd4534b185ba576f336c65d52165c9335c500adc48b0",
+      "stable_frames": 2
+    },
+    {
+      "name": "margin-2-reload",
+      "url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+      "reload": true,
+      "at": "2026-10-17T05:19:51.800Z",
+      "status": 200,
+      "title": "資券進出行情 - 融資融券 - 台股｜玩股網",
+      "tz": "Asia/Taipei",
+      "ready": true,
+      "title_after": "資券進出行情 - 融資融券 - 台股｜玩股網",
+      "extract": {
+        "newest_row": "10/16 6455.94 -8.22 183.39% 233602 4452 2.45 47111.26 0.3 9,379",
+        "chart_header": "上市台股資券進出行情 WantGoo 玩股網 05/01 06/01 07/01 08/01 09/01 10/01 01/01 01/01 01/01 01/01 01/01 35000.00 37500.00 40000.00 42500.00 45000.00 47500.00 50000.00 52500.00 1.2 1.8 2.4 4000 5600 7200 60k 180k 300"
+      },
+      "series": [
+        {
+          "name": "加權指數",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "大盤融資維持率",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "融資餘額(億)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "融券餘額(張)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "借券賣出餘額變化(張)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "金額(億)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "外資買賣超(億)",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        }
+      ],
+      "hidden_fixed": 3,
+      "rect": {
+        "x": 103,
+        "y": 407,
+        "width": 1074,
+        "height": 1066
+      },
+      "file": "margin-2-reload.png",
+      "bytes": 212490,
+      "sha256": "216105653c802d341cccfd4534b185ba576f336c65d52165c9335c500adc48b0",
+      "stable_frames": 2
+    },
+    {
+      "name": "tsmc-k",
+      "url": "https://www.wantgoo.com/stock/2330/technical-chart",
+      "reload": false,
+      "at": "2026-10-17T05:19:57.841Z",
+      "status": 200,
+      "title": "技術分析 - 台股 | 玩股網",
+      "tz": "Asia/Taipei",
+      "ready": true,
+      "title_after": "台積電(2330) - 技術分析 - 台股 | 玩股網",
+      "extract": {
+        "title": "台積電(2330) - 技術分析 - 台股 | 玩股網",
+        "chart_header": "5 10 20 60 120 台積電(2330) WantGoo 玩股網 05/04 05/18 06/01 06/22 07/13 07/27 08/10 08/24 09/07 09/21 10/12 2024/10 2025/01 2025/04 2025/07 2025/10 2026/01 2026/04 2026/07 2026/10 1200 1400 1600 1800 2000 "
+      },
+      "series": [
+        {
+          "name": "close",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "candlesticks",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "ma1",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "ma2",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "ma3",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "ma4",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "ma5",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "ma6",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "ma-deduction",
+          "last_tpe": "2026-10-12",
+          "last_local": "2026-10-12"
+        },
+        {
+          "name": "volume",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "mv1",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "mv2",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "k",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "d",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "highPassivation",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "lowPassivation",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "macd",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "dif",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        },
+        {
+          "name": "osc",
+          "last_tpe": "2026-10-16",
+          "last_local": "2026-10-16"
+        }
+      ],
+      "hidden_fixed": 8,
+      "rect": {
+        "x": 86,
+        "y": 843,
+        "width": 1108,
+        "height": 800
+      },
+      "file": "tsmc-k.png",
+      "bytes": 362852,
+      "sha256": "8587dbb1b585e1a8318978ca2ef5dea1a2b16e9f7b7a13161796b01b6391b119",
+      "stable_frames": 2
+    }
+  ],
+  "ws": "open",
+  "tz_before": "UTC",
+  "tz_after": "Asia/Taipei",
+  "tz_offset_min": -480,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/128.0.0.0 Safari/537.36"
+}

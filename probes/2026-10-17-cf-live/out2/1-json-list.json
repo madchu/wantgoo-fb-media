@@ -1,0 +1,11 @@
+[
+  {
+    "description": "",
+    "devtoolsFrontendUrl": "https://live.browser.run/ui/view?wss=live.browser.run/api/devtools/browser/59241b9b-3f25-483c-925e-ec9c23e7d2c2/page/179FA5ED5045A8C97DD6214B96ECE50B?jwt=REDACTED",
+    "id": "179FA5ED5045A8C97DD6214B96ECE50B",
+    "title": "about:blank",
+    "type": "page",
+    "url": "about:blank",
+    "webSocketDebuggerUrl": "wss://live.browser.run/api/devtools/browser/59241b9b-3f25-483c-925e-ec9c23e7d2c2/page/179FA5ED5045A8C97DD6214B96ECE50B?jwt=REDACTED"
+  }
+]
