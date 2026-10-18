@@ -1,0 +1,32 @@
+{
+  "tool": "fb-pipeline/capture@2",
+  "profile": "wantgoo.radar.history",
+  "work_item_id": "fb_promo:2026-10-19:radar",
+  "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+  "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+  "http_status": 200,
+  "captured_at": "2026-10-18T09:22:56.711Z",
+  "data_as_of": "2026-10-18",
+  "data_date_source": "capture",
+  "extracted": {
+    "title": "歷史績優股",
+    "columns": "股票 券商分點 波段漲幅",
+    "top_rows": "博磊 3581 元大總公司 9887 +300% | 美而快 5321 凱基台北 9268 +272.9% | 美而快 5321 元大大同 989G +272.9% | 晟鈦 3229 台新大昌 9B2D +260% | 晟鈦 3229 台新佳里 9B2w +260% | 合晶 6182 凱基松山 9217 +244.55% | 冠西電 2466 台企北高雄 111F +242.24% | 霖宏 5464 凱基台北 9268 +238.05% | 霖宏 5464 凱基信義 9216 +238.05% | 霖宏 5464 新光 8560 +238.05%"
+  },
+  "checks": [
+    {
+      "selector": "#signatureWorkTable tbody tr",
+      "min": 20,
+      "actual": 93,
+      "pass": true
+    }
+  ],
+  "stable_frames": 2,
+  "selector": "#signatureWorkTable",
+  "title": "主力券商雷達 - 績優券商 | 玩股網",
+  "file": "radar.png",
+  "bytes": 157611,
+  "width": 800,
+  "height": 1044,
+  "sha256": "1a28445c6276be3ee10ea8df3135ba27dbf08e904d34a3e849d3baa5f72cd412"
+}
