@@ -1,0 +1,9 @@
+12:48:56 step0 start
+12:49:09 step0 end; step1 start
+12:49:17 step1 end (no dup); step2 start
+12:49:40 step3 pre-capture start
+12:49:52 step3 pre-capture end
+12:50:58 step2/3b write sources+draft
+12:51:12 step4 run start
+12:51:23 step4 end
+12:51:35 BLOCKED at step4: negatives exit=2 (VALID case LIVE_NOT_ENABLED; cli negatives does not pass live trust). No claim, no schedule.
