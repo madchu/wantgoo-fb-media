@@ -8,3 +8,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1792278514.644279","reply_ts":"1792279231.343229","key":"result:exp_20261018_070835_043","at":"2026-10-17T23:20:31.360Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792278514.644279","message_ts":"1792279180.735019","outcome":"HANDLED","reason":"交件 logged_in 為 null，不寫稿，已發 ⏸ 說明","at":"2026-10-17T23:20:35.586Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792246291.638409","message_ts":"1792247668.148449","outcome":"SKIPPED","reason":"觸發訊息是 wantgoo_ai 自己發的更正說明，不需處理","at":"2026-10-18T02:14:13.912Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1792278514.644279","message_ts":"1792278514.644279","outcome":"SKIPPED","reason":"觸發訊息是 wantgoo_ai 自己發的 brief，不需處理","at":"2026-10-18T06:49:00.353Z"}
