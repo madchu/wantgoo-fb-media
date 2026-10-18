@@ -1,0 +1,13 @@
+12:55:06 step0 start
+12:55:17 step0 end; step1 start
+12:55:31 state: no fb_daily_growth:2026-10-18 entry (no dup); prev 12:51 run BLOCKED kept as out-blocked-1251
+12:55:41 step1 end (Metricool: no FB post today); step2 reuse 12:5x topic; step3 start
+12:55:54 step3 end
+12:56:00 precheck done
+12:56:06 step4 start
+12:56:18 step4 end
+12:56:21 step5 start
+12:56:29 step5 end
+12:56:34 step6 start
+12:57:20 step6 end (createScheduledPost id 398923467 PENDING); step7 start
+12:57:25 step7 end (readback ok, 1 match SCHEDULED/PENDING); step8 start
