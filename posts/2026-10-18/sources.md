@@ -19,3 +19,8 @@
 ## 候選 3（淘汰）：台積電 ADR 折價／溢價
 - 來源：Yahoo〈台積電ADR16日下跌9.64美元〉（僅搜尋摘要）。需外部數字與匯率計算，閘門 fail closed，淘汰。
 - 預檢（12:51:12）：TRUSTED_CAPTURE_MISSING + LIVE_NOT_ENABLED。後者是 check 指令結構性結果（cli.mjs:146-154 的 check 不帶 live_enabled，run 才帶），非文案問題，未修改文案。
+
+## 重跑（12:55，ops ece8ebd，PR #37 修正 negatives 的 LIVE 判定後）
+- Metricool getScheduledPosts（10/18 全天，extendedRange）：今天無 FB 排程，僅 10/17 已發布貼文。state.jsonl 無今天紀錄。
+- 沿用候選 1 與既有草稿；預擷取 12:55 數字與草稿一致：加權 47111.26 / 141.39 / 0.3%；大盤扣除台積電 27812.71 / 301.36 / 1.1%，data_as_of 2026-10-16。
+- 前一輪產出保留於 out-blocked-1251/。

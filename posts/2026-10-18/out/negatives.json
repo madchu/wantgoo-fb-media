@@ -1,19 +1,17 @@
 {
   "schema": "wantgoo.fb_negatives.v1",
-  "generated_at": "2026-10-18T04:51:23.568Z",
+  "generated_at": "2026-10-18T04:56:18.370Z",
   "run_dir": "out",
-  "all_ok": false,
+  "all_ok": true,
   "cases": [
     {
       "case": "VALID",
       "note": "unchanged draft and capture",
       "expect": "PASS",
-      "decision": "BLOCKED",
-      "block_class": "BLOCKED_NEEDS_APPROVAL",
-      "codes": [
-        "LIVE_NOT_ENABLED"
-      ],
-      "ok": false
+      "decision": "PASS",
+      "block_class": null,
+      "codes": [],
+      "ok": true
     },
     {
       "case": "AI_IMAGE_SWAP",
@@ -35,8 +33,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_STALE",
-        "LIVE_NOT_ENABLED"
+        "CAPTURE_STALE"
       ],
       "ok": true
     },
@@ -50,8 +47,7 @@
         "DATA_STALE",
         "DATA_NOT_LATEST",
         "DATA_DATE_MISMATCH",
-        "DATA_CLAIM_DATE_MISMATCH",
-        "LIVE_NOT_ENABLED"
+        "DATA_CLAIM_DATE_MISMATCH"
       ],
       "ok": true
     },
@@ -62,8 +58,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "DATA_CLAIM_DATE_MISMATCH",
-        "LIVE_NOT_ENABLED"
+        "DATA_CLAIM_DATE_MISMATCH"
       ],
       "ok": true
     },
@@ -74,8 +69,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "DATA_DATE_MISMATCH",
-        "LIVE_NOT_ENABLED"
+        "DATA_DATE_MISMATCH"
       ],
       "ok": true
     },
@@ -86,8 +80,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "DATA_CLAIM_UNVERIFIED",
-        "LIVE_NOT_ENABLED"
+        "DATA_CLAIM_UNVERIFIED"
       ],
       "ok": true
     },
@@ -98,8 +91,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_HASH_MISMATCH",
-        "LIVE_NOT_ENABLED"
+        "CAPTURE_HASH_MISMATCH"
       ],
       "ok": true
     },
@@ -110,8 +102,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_UNSTABLE",
-        "LIVE_NOT_ENABLED"
+        "CAPTURE_UNSTABLE"
       ],
       "ok": true
     },
@@ -122,8 +113,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_WORK_ITEM",
-        "LIVE_NOT_ENABLED"
+        "CAPTURE_WORK_ITEM"
       ],
       "ok": true
     },
@@ -134,8 +124,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "WRITER_SUPPLIED_CAPTURE",
-        "LIVE_NOT_ENABLED"
+        "WRITER_SUPPLIED_CAPTURE"
       ],
       "ok": true
     },
@@ -146,7 +135,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_DUPLICATE",
       "codes": [
-        "LIVE_NOT_ENABLED",
         "DUPLICATE"
       ],
       "ok": true
@@ -158,8 +146,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "DATA_CLAIM_UNVERIFIED",
-        "LIVE_NOT_ENABLED"
+        "DATA_CLAIM_UNVERIFIED"
       ],
       "ok": true
     },
@@ -170,8 +157,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_PARAMS",
-        "LIVE_NOT_ENABLED"
+        "CAPTURE_PARAMS"
       ],
       "ok": true
     },
@@ -183,7 +169,6 @@
       "block_class": "BLOCKED_DUPLICATE",
       "codes": [
         "WORK_ITEM_DATE_MISMATCH",
-        "LIVE_NOT_ENABLED",
         "DUPLICATE"
       ],
       "ok": true

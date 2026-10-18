@@ -8,7 +8,7 @@
   "url": "https://www.wantgoo.com/index/0000",
   "final_url": "https://www.wantgoo.com/index/0000",
   "http_status": 200,
-  "captured_at": "2026-10-18T04:51:19.606Z",
+  "captured_at": "2026-10-18T04:56:13.378Z",
   "data_as_of": "2026-10-16",
   "extracted": {
     "quote": "47111.26 141.39 0.3% 開盤 46995.03 昨收 46969.87 最高 47520.60 最低 46995.03 成交量(億) 9,378.94 預估量(億) 9,379 離季線 1085.36 (2.36%) 本益比 26.68 殖利率 1.58 股淨比 4.21",
@@ -41,7 +41,7 @@
       "pass": true
     }
   ],
-  "stable_frames": 2,
+  "stable_frames": 3,
   "selector": "#technical-chart",
   "title": "加權指數(0000) - 即時走勢＆技術分析 - 台股 | 玩股網",
   "file": "evidence.png",
