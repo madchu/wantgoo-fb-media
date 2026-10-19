@@ -13,3 +13,8 @@
 08:55:07 step0 start
 08:56:25 step0 npm test: 第一次 1 fail（tests 137/pass 135/skip 1），重跑 5 次皆 0 fail；依第 0 節停止條件 BLOCKED
 08:56:42 office-status uploaded; push sent; end BLOCKED(setup)
+
+## run 20261019T010611Z-21038 (manual POST_TIME=10:00)
+09:06:02 step0 start
+09:07:01 step0 npm test: 第一次 1 fail（137/135 pass/1 skip），診斷重跑 4 次皆 0 fail；依第 0 節停止條件 BLOCKED
+09:07:13 office-status uploaded; push sent; end BLOCKED(setup)
