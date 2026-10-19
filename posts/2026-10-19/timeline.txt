@@ -18,3 +18,18 @@
 09:06:02 step0 start
 09:07:01 step0 npm test: 第一次 1 fail（137/135 pass/1 skip），診斷重跑 4 次皆 0 fail；依第 0 節停止條件 BLOCKED
 09:07:13 office-status uploaded; push sent; end BLOCKED(setup)
+
+## run 20261019T020100Z-4587 (manual POST_TIME=11:00)
+10:00:50 step0 start
+10:01:04 step0 end ok
+10:01:32 step1 end ok (no posts today); step3 precapture start
+10:01:49 step3 precapture end
+10:02:19 step3b draft+check done
+10:02:19 step4 start
+10:02:32 step4 end
+10:02:46 step5 start
+10:02:51 step5 end
+10:02:56 step6 start
+10:03:43 step6 create ok id=399565518; step7 start
+10:04:06 step7 end readback
+10:04:16 step8 office-status end uploaded; push sent; end SCHEDULED
