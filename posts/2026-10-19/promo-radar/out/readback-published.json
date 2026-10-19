@@ -1,0 +1,16 @@
+{
+  "work_item_id": "fb_promo:2026-10-19:radar",
+  "read_at": "2026-10-19T12:17:36.872Z",
+  "matches": 1,
+  "status": "PUBLISHED",
+  "provider_status": "PUBLISHED",
+  "provider_id": "facebook:1600926862077516",
+  "public_url": "https://facebook.com/1564411292395740/posts/1600926862077516",
+  "checks": {
+    "text": true,
+    "time": true,
+    "media": true,
+    "permalink": true
+  },
+  "ok": true
+}
