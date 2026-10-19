@@ -29,3 +29,4 @@
 {"event":"PROPOSAL_REPLIED","thread_ts":"1792390286.092629","job_id":"exp_20261019_141126_688","turn":1,"decision":"同意","option":"A","reply_ts":"1792390591.643909","at":"2026-10-19T06:16:31.701Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792390286.092629","message_ts":"1792390534.266019","outcome":"HANDLED","reason":"第 1 輪提案已回覆：同意 A（融資融券），兩題已回答","at":"2026-10-19T06:16:37.851Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792390286.092629","message_ts":"1792390847.254319","outcome":"SKIPPED","reason":"App 文委託單的交件，由 App 文 Routine 處理","at":"2026-10-19T06:21:40.870Z"}
+{"event":"NOTE_POSTED","thread_ts":"1792390286.092629","reply_ts":"1792391106.546359","key":"result:exp_20261019_141126_688","at":"2026-10-19T06:25:06.472Z"}
