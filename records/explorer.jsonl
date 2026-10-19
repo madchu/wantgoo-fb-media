@@ -26,3 +26,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1792381402.470489","reply_ts":"1792381796.185419","key":"human:1792381743.617129","at":"2026-10-19T03:49:56.243Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792381402.470489","message_ts":"1792381743.617129","outcome":"HANDLED","reason":"回答真人：App 文已正式發文","at":"2026-10-19T03:50:00.769Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1792390286.092629","work_item_id":"fb_app:2026-10-21:post","at":"2026-10-19T06:11:26.113Z"}
+{"event":"PROPOSAL_REPLIED","thread_ts":"1792390286.092629","job_id":"exp_20261019_141126_688","turn":1,"decision":"同意","option":"A","reply_ts":"1792390591.643909","at":"2026-10-19T06:16:31.701Z"}
