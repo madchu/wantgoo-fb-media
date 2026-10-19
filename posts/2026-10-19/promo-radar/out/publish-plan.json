@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-10-19:radar",
+  "blogId": "6948585",
+  "date": "2026-10-19T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/174d73e818582df53ab3fcca8ca27cfc87d4cdae/posts/2026-10-19/promo-radar/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/19\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-19T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"美而快（5321）這一波，從起漲到高點漲了 272.9%。起漲前後就明顯買超的那幾個分點，最近又在買什麼？\\n\\n查分點，多數人的順序是：先看到股票在漲，再回頭查是誰在買。等查到，行情往往已經走了一大段。\\n\\n玩股網新上線的「主力券商雷達」，把順序反過來。\\n\\n先從近半年漲幅翻倍的股票下手，找出起漲前後明顯買超的券商分點；再把不同強勢股的紀錄拿來比對，留下反覆出現的那一批。美而快的凱基台北、元大大同，就是「歷史績優股」清單裡的紀錄。\\n\\n接下來才是重點：系統每天盤後追蹤這批分點，只要它們在某檔股票的淨買超占當天成交量 25% 以上，這檔股票就會列進觀察名單。點開 K 線，還看得到這個分點在什麼位置買、買了多少、後來股價怎麼走。\\n\\n當然，分點買了，股價不一定會漲；這是幫你縮小研究範圍的名單，不是買賣訊號。好處是，你不用等股票大漲之後，才回頭查是誰在買。\\n\\n歷史績優股免費就能看；每天完整更新的觀察股名單，要訂閱主力券商雷達。月訂 349 元，年訂 3,490 元，而且訂閱同時享有玩股網進階會員的完整權益，一個訂閱用兩套工具。\\n\\nGoogle 搜尋「玩股網 主力券商雷達」，看完整說明與方案。\\n\\n以上為歷史紀錄與功能說明，不構成投資建議。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/174d73e818582df53ab3fcca8ca27cfc87d4cdae/posts/2026-10-19/promo-radar/out/evidence.png",
+  "image_sha256": "258d41b430a95127631bf60c51027cab8935152d00b9beff7297082f51fe70dd",
+  "plan_sha256": "4f1d07eae8ccaa6e96ab5501035d0fa5c520517121f4f5d67c4bd4e55fc49985",
+  "version": "e26f6193029e0fb25c20f3d7ecef294cd11b19cf8e9b7ec90d64c60c4ab37e5b",
+  "thread_ts": "1792389426.459649",
+  "lock_run": "20261019T060139Z-6312",
+  "claimed_at": "2026-10-19T06:02:03.414Z"
+}
