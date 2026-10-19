@@ -1,0 +1,10 @@
+08:07:08 step0 start
+08:07:25 step0 end ok
+08:07:36 step1 start
+08:09:21 step1 end ok; step2 start
+08:09:21 step3 precapture start
+08:09:31 step3 precapture end
+08:10:49 step3b draft+check done
+08:10:59 step4 start
+08:11:12 step4 end
+08:11:23 BLOCKED at gate: IMAGE_TOO_SMALL (evidence.png 540px < 600px); negatives VALID case blocked
