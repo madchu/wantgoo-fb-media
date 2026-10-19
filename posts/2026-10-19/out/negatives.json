@@ -1,19 +1,17 @@
 {
   "schema": "wantgoo.fb_negatives.v1",
-  "generated_at": "2026-10-19T00:11:12.761Z",
+  "generated_at": "2026-10-19T02:02:32.716Z",
   "run_dir": "out",
-  "all_ok": false,
+  "all_ok": true,
   "cases": [
     {
       "case": "VALID",
       "note": "unchanged draft and capture",
       "expect": "PASS",
-      "decision": "BLOCKED",
-      "block_class": "BLOCKED_ASSET_POLICY",
-      "codes": [
-        "IMAGE_TOO_SMALL"
-      ],
-      "ok": false
+      "decision": "PASS",
+      "block_class": null,
+      "codes": [],
+      "ok": true
     },
     {
       "case": "AI_IMAGE_SWAP",
@@ -36,7 +34,7 @@
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
         "CAPTURE_STALE",
-        "IMAGE_TOO_SMALL"
+        "DATA_DATE_IN_FUTURE"
       ],
       "ok": true
     },
@@ -50,8 +48,7 @@
         "DATA_STALE",
         "DATA_NOT_LATEST",
         "DATA_DATE_MISMATCH",
-        "DATA_CLAIM_DATE_MISMATCH",
-        "IMAGE_TOO_SMALL"
+        "DATA_CLAIM_DATE_MISMATCH"
       ],
       "ok": true
     },
@@ -62,8 +59,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "DATA_CLAIM_DATE_MISMATCH",
-        "IMAGE_TOO_SMALL"
+        "DATA_CLAIM_DATE_MISMATCH"
       ],
       "ok": true
     },
@@ -74,8 +70,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "DATA_DATE_MISMATCH",
-        "IMAGE_TOO_SMALL"
+        "DATA_DATE_MISMATCH"
       ],
       "ok": true
     },
@@ -86,8 +81,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "DATA_CLAIM_UNVERIFIED",
-        "IMAGE_TOO_SMALL"
+        "DATA_CLAIM_UNVERIFIED"
       ],
       "ok": true
     },
@@ -98,8 +92,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_HASH_MISMATCH",
-        "IMAGE_TOO_SMALL"
+        "CAPTURE_HASH_MISMATCH"
       ],
       "ok": true
     },
@@ -110,8 +103,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_UNSTABLE",
-        "IMAGE_TOO_SMALL"
+        "CAPTURE_UNSTABLE"
       ],
       "ok": true
     },
@@ -122,8 +114,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_WORK_ITEM",
-        "IMAGE_TOO_SMALL"
+        "CAPTURE_WORK_ITEM"
       ],
       "ok": true
     },
@@ -134,8 +125,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "WRITER_SUPPLIED_CAPTURE",
-        "IMAGE_TOO_SMALL"
+        "WRITER_SUPPLIED_CAPTURE"
       ],
       "ok": true
     },
@@ -146,7 +136,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_DUPLICATE",
       "codes": [
-        "IMAGE_TOO_SMALL",
         "DUPLICATE"
       ],
       "ok": true
@@ -159,7 +148,6 @@
       "block_class": "BLOCKED_DUPLICATE",
       "codes": [
         "WORK_ITEM_DATE_MISMATCH",
-        "IMAGE_TOO_SMALL",
         "DUPLICATE"
       ],
       "ok": true
