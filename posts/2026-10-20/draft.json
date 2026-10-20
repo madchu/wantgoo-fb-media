@@ -1,0 +1,36 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_daily_growth:2026-10-20",
+  "lane": "fb_daily_growth",
+  "test_only": false,
+  "scheduled_at": "2026-10-20T09:30:00+08:00",
+  "content_type": "MARKET_DATA",
+  "publication_risk": "GREEN",
+  "text": "10/19 加權指數收盤只跌 289.18 點，但盤中最低曾到 46,170 點。只看收盤的漲跌，這段路程完全看不到。\n\n把它記下來的，是日 K 棒。K 棒中間的實體，畫的是開盤到收盤；上下兩條細線叫影線，畫的是盤中最高和最低。\n\n那天加權指數開盤 46,844.64 點，最高也是 46,844.64 點，所以這根 K 棒上方沒有影線；收盤 46,822.08 點，比開盤略低，實體只是一小段黑 K。真正長的是下方那條線，從實體一路往下拉到最低 46,170 點，這就是下影線。\n\n同樣的收盤跌幅，可能是一整天小幅震盪，也可能是先大跌、再收斂。下影線告訴你那天屬於後者：價格曾經跌得更深，收盤時已經離最低點有一段距離。它只記錄當天的價格範圍，不說明是誰在買、為什麼回升，也不代表隔天會怎麼走。\n\nGoogle 搜尋「玩股網 加權指數」，行情區列出每天的開盤、最高、最低和昨收，下方的技術分析圖可以切換日線、週線、月線，看看最近幾根 K 棒各自留下多長的影線。",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/index/0000",
+      "role": "primary",
+      "data_as_of": "2026-10-19"
+    },
+    {
+      "url": "https://money.udn.com/money/story/5607/9823950",
+      "role": "supporting",
+      "title": "台股收跌289點留下影線 台積電收平盤",
+      "published_at": "2026-10-19T13:55:00+08:00"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/afe/202610190128.aspx",
+      "role": "supporting",
+      "title": "台股跌勢收歛終揚挫289點 法人：後市觀察費半動向"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.index.technical",
+    "params": {
+      "code": "0000"
+    },
+    "selection_reason": "加權指數頁同時顯示 10/19 開盤、最高、最低、收盤與日 K 線，直接支持全文核心：收盤跌幅之外的長下影線"
+  }
+}
