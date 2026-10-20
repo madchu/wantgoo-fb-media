@@ -1,0 +1,14 @@
+08:02:26 step0 start
+08:02:39 step0 end ok
+08:02:46 step1 start
+08:03:34 step3 precapture start
+08:03:46 step3 precapture end
+08:04:52 step2 topic chosen; step3b write start
+08:05:38 step3b write end; step4 gate start
+08:05:58 step4 gate end
+08:06:11 step5 start
+08:06:16 step5 end
+08:06:20 step6 start
+08:07:23 step6 created metricool:400597931; step7 readback start
+08:07:27 step7 end
+08:07:31 step8 notify+status
