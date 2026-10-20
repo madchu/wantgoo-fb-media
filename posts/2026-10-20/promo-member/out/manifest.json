@@ -1,0 +1,94 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-20T05:42:24.843Z",
+  "work_item_id": "fb_promo:2026-10-20:member",
+  "draft_sha256": "e95b7934e6f9138b0c99b1f4e470c8e236b12c548f50a311ba952b5cf2d1c4e9",
+  "captures": {
+    "wantgoo.event.advanced": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.event.advanced",
+      "params": {
+        "group": "chip"
+      },
+      "work_item_id": "fb_promo:2026-10-20:member",
+      "url": "https://www.wantgoo.com/event/advanced",
+      "final_url": "https://www.wantgoo.com/event/advanced",
+      "http_status": 200,
+      "captured_at": "2026-10-20T05:42:22.206Z",
+      "data_as_of": "2026-10-20",
+      "data_date_source": "capture",
+      "extracted": {
+        "title": "進階會員 vs 免費會員",
+        "columns": "功能項目 進階會員 免費會員",
+        "rows": "個股主力籌碼 券商買賣超統計區間 近一年 近一月 券商買賣超公布家數 全開放 5 家 股權分散自訂持股數 有 無",
+        "pricing": "推薦年訂 最推薦 $1,990 ／年 平均每月約 $166，一年省 $398 $199／月 月訂，可取消下期續訂 $2,388／13 個月 單次購買，不自動續訂 詳細方案與續訂方式請見下方訂閱方案。"
+      },
+      "checks": [
+        {
+          "selector": "#compare table.compare-table tbody tr",
+          "min": 20,
+          "actual": 25,
+          "pass": true
+        },
+        {
+          "selector": ".hero-plan-price",
+          "min": 1,
+          "actual": 1,
+          "pass": true
+        }
+      ],
+      "stable_frames": 3,
+      "selector": "#compare table.compare-table",
+      "title": "玩股網｜進階會員",
+      "file": "evidence.png",
+      "bytes": 116334,
+      "width": 1440,
+      "height": 854,
+      "sha256": "f08ee485a19dcd9469a0e7eeac02c0a554b968d1346bb4db9e51cb4ad7b468e2"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "BLOCKED",
+  "block_class": "BLOCKED_NEEDS_APPROVAL",
+  "reasons": [
+    {
+      "code": "NEEDS_APPROVAL",
+      "message": "YELLOW post needs a recorded approval of this destination, time, text and image"
+    },
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "publish_target": null,
+  "approval_version": "64252af7f34ffc6c6fc5dee8051b102f1cd0b252022b788454a060d1064dfb18",
+  "image_sha256": "f08ee485a19dcd9469a0e7eeac02c0a554b968d1346bb4db9e51cb4ad7b468e2",
+  "effective_risk": "YELLOW",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": true,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "199 元",
+      "1,990 元",
+      "166 元",
+      "398 元"
+    ],
+    "first_party_links": [],
+    "unknown_link_hosts": [],
+    "risk_floor": "YELLOW"
+  },
+  "cta": {
+    "required": false
+  }
+}
