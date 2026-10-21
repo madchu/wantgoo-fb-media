@@ -1,8 +1,8 @@
 {
   "schema": "wantgoo.fb_manifest.v1",
-  "generated_at": "2026-10-21T05:42:57.401Z",
+  "generated_at": "2026-10-21T05:59:10.624Z",
   "work_item_id": "fb_promo:2026-10-21:radar",
-  "draft_sha256": "f442622b315e86a977f30ffb824769b59e5b1bdf6be823f103fbcea5289d19f5",
+  "draft_sha256": "fd7e0d1fa5c695adfac60bed3fb89435f3678d79339942d55485cdee57675ab4",
   "captures": {
     "wantgoo.radar.history": {
       "tool": "fb-pipeline/capture@2",
@@ -11,7 +11,7 @@
       "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "http_status": 200,
-      "captured_at": "2026-10-21T05:42:53.989Z",
+      "captured_at": "2026-10-21T05:59:04.448Z",
       "data_as_of": "2026-10-21",
       "data_date_source": "capture",
       "extracted": {
@@ -59,7 +59,7 @@
     }
   ],
   "publish_target": null,
-  "approval_version": "018c45a94f84cc86897d93becbb1d8903437392365b75cbbdfcbef06839b474f",
+  "approval_version": "0281148097281faa7020526402dbb4136a1f0734389ce15a4b05abc487d0cfda",
   "image_sha256": "613a0b8158db07efeb582de882ec118e6b79c421b7dc9a2060153db61a0846f1",
   "effective_risk": "YELLOW",
   "live_requirements": [
@@ -78,8 +78,8 @@
       "wantgoo.radar.history"
     ],
     "data_claims": [
-      "238.05%",
       "272.9%",
+      "238.05%",
       "25%",
       "349 元",
       "3,490 元"
