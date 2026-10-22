@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v1",
+  "pilot": "fb_growth_cta_pilot_202610",
+  "work_item_id": "fb_external:2026-10-22:run02_00981a",
+  "lane": "fb_external",
+  "scheduled_at": "2026-10-22T12:00:00+08:00",
+  "target_url": "https://www.wantgoo.com/stock/etf/00981a/constituent",
+  "search_term": "玩股網 00981A 成分股",
+  "cta_mode": "search",
+  "reason": "EXTERNAL_POST",
+  "final_url": null,
+  "utm_campaign": null,
+  "utm_content": null
+}

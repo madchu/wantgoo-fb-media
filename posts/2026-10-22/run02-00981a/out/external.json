@@ -1,0 +1,29 @@
+{
+  "data": {
+    "id": 402739449,
+    "uuid": "4689507694085491486",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-10-22T12:00:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-10-22T10:39:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "每天查主動式 ETF 持股，先看資料，不急著把變化當明牌。\n\n00981A 最新可見的 10/21 持股明細中，「股數增減」由高到低前三筆是：\n\n欣銓（3264）＋217 萬股\n緯創（3231）＋130 萬股\n京元電子（2449）＋23.6 萬股\n\n這些是公開持股資料的欄位變化，不能只靠這一欄推論經理人意圖，也不代表未來報酬。\n\n想查看完整清單，可以 Google 搜尋「玩股網 00981A 成分股」。頁面最右側的「＋」是自選入口，登入後可加入自選。\n\n資料日：2026/10/21。本站於每個交易日收盤後彙整更新；實際更新時間可能因投信公告時間不同而有差異。",
+    "media": [
+      "https://static.metricool.com/planner/202610/6948585-file-7588863022885594225.jpeg"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PUBLISHED",
+        "detailedStatus": "Published",
+        "id": "1603623928474476",
+        "publicUrl": "https://facebook.com/1564411292395740/posts/1603623928474476"
+      }
+    ]
+  }
+}
