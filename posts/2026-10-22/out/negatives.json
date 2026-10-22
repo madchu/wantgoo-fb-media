@@ -1,19 +1,17 @@
 {
   "schema": "wantgoo.fb_negatives.v1",
-  "generated_at": "2026-10-22T00:07:21.408Z",
+  "generated_at": "2026-10-22T03:22:04.215Z",
   "run_dir": "out",
-  "all_ok": false,
+  "all_ok": true,
   "cases": [
     {
       "case": "VALID",
       "note": "unchanged draft and capture",
       "expect": "PASS",
-      "decision": "BLOCKED",
-      "block_class": "BLOCKED_ASSET_POLICY",
-      "codes": [
-        "CAPTURE_URL"
-      ],
-      "ok": false
+      "decision": "PASS",
+      "block_class": null,
+      "codes": [],
+      "ok": true
     },
     {
       "case": "AI_IMAGE_SWAP",
@@ -35,8 +33,8 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
-        "CAPTURE_STALE"
+        "CAPTURE_STALE",
+        "DATA_DATE_IN_FUTURE"
       ],
       "ok": true
     },
@@ -47,11 +45,9 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "DATA_STALE",
         "DATA_NOT_LATEST",
-        "DATA_DATE_MISMATCH",
-        "DATA_CLAIM_DATE_MISMATCH"
+        "DATA_DATE_MISMATCH"
       ],
       "ok": true
     },
@@ -62,7 +58,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "DATA_CLAIM_DATE_MISMATCH"
       ],
       "ok": true
@@ -74,7 +69,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "DATA_DATE_MISMATCH"
       ],
       "ok": true
@@ -86,7 +80,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "DATA_CLAIM_UNVERIFIED"
       ],
       "ok": true
@@ -98,7 +91,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "CAPTURE_HASH_MISMATCH"
       ],
       "ok": true
@@ -110,7 +102,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "CAPTURE_UNSTABLE"
       ],
       "ok": true
@@ -122,7 +113,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "CAPTURE_WORK_ITEM"
       ],
       "ok": true
@@ -134,8 +124,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "WRITER_SUPPLIED_CAPTURE",
-        "CAPTURE_URL"
+        "WRITER_SUPPLIED_CAPTURE"
       ],
       "ok": true
     },
@@ -146,20 +135,7 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_DUPLICATE",
       "codes": [
-        "CAPTURE_URL",
         "DUPLICATE"
-      ],
-      "ok": true
-    },
-    {
-      "case": "FIELD_SWAP",
-      "note": "the volume figure written as the price",
-      "expect": "DATA_CLAIM_UNVERIFIED",
-      "decision": "BLOCKED",
-      "block_class": "BLOCKED_ASSET_POLICY",
-      "codes": [
-        "CAPTURE_URL",
-        "DATA_CLAIM_UNVERIFIED"
       ],
       "ok": true
     },
@@ -170,7 +146,6 @@
       "decision": "BLOCKED",
       "block_class": "BLOCKED_ASSET_POLICY",
       "codes": [
-        "CAPTURE_URL",
         "CAPTURE_PARAMS"
       ],
       "ok": true
@@ -183,7 +158,6 @@
       "block_class": "BLOCKED_DUPLICATE",
       "codes": [
         "WORK_ITEM_DATE_MISMATCH",
-        "CAPTURE_URL",
         "DUPLICATE"
       ],
       "ok": true

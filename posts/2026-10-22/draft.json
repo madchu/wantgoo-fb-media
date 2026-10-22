@@ -3,15 +3,15 @@
   "work_item_id": "fb_daily_growth:2026-10-22",
   "lane": "fb_daily_growth",
   "test_only": false,
-  "scheduled_at": "2026-10-22T09:30:00+08:00",
+  "scheduled_at": "2026-10-22T14:00:00+08:00",
   "content_type": "MARKET_DATA",
   "publication_risk": "GREEN",
-  "text": "元大高股息（0056）今天除息。能參與這次配息的最後一個交易日是 10/21，那天 0056 收 58.75 元，漲幅 2.26%，收在當天最高。\n\n記下這個價格。除息之後，它就是「填息」要回到的位置。\n\n除息當天，開盤參考價會先從前一日收盤扣掉每單位配息。這段價差不是虧損，而是從股價移到之後才入帳的配息；反過來說，領到配息也不等於多賺，在除息那一刻，價格加上配息的總值並沒有變。\n\n真正的差別在之後：股價重新回到除息前的收盤價，才算填息，持有人等於價格沒少、配息另外入帳；如果遲遲回不去，配息只是把一部分資產換成現金。\n\n玩股網的「歷年股利政策及除權息一覽表」列出每次的除息日、除息前股價和填息天數，0056 這次花多久填息，可以在這裡追：\nhttps://www.wantgoo.com/stock/etf/0056/dividend-policy/ex-dividend?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261022",
+  "text": "元大高股息（0056）今天除息。打開報價頁，會看到一個對不起來的地方：股價和「昨收 58.75 元」之間的距離，跟漲跌欄寫的數字不一樣。\n\n原因是除息日的漲跌不是跟昨收比，而是跟「參考價」比。參考價是除息前一天的收盤價扣掉每單位配息，被扣掉的這一段會變成之後入帳的配息，不算進當天的漲跌。\n\n所以今天值得記下的是昨收 58.75 元。這是能領這次配息的最後一個交易日收盤價，也就是「填息」要回到的位置。股價重新回到這裡，持有人才算價格沒少、配息另外入帳；回不去，配息只是把一部分資產換成現金。\n\n0056 這次花多久填息，可以 Google 搜尋「玩股網 0056 除權息一覽表」，表上列出每次的除息前股價和填息天數。",
   "evidence": [
     {
       "url": "https://www.wantgoo.com/stock/0056/technical-chart",
       "role": "primary",
-      "data_as_of": "2026-10-21"
+      "data_as_of": "2026-10-22"
     },
     {
       "url": "https://money.udn.com/money/story/5612/9788586",
@@ -23,6 +23,11 @@
       "url": "https://www.wantgoo.com/stock/etf/0056/dividend-policy/ex-dividend",
       "role": "supporting",
       "title": "元大高股息(0056) - 歷年股利政策及除權息一覽表"
+    },
+    {
+      "url": "https://tw.stock.yahoo.com/news/%E9%99%A4%E6%AC%8A%E6%81%AF%E5%8F%83%E8%80%83%E5%83%B9%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E5%A6%82%E4%BD%95%E8%A8%88%E7%AE%97%EF%BC%9F-074144462.html",
+      "role": "supporting",
+      "title": "除權息參考價是什麼？如何計算？"
     }
   ],
   "visual": {
@@ -31,6 +36,6 @@
     "params": {
       "code": "0056"
     },
-    "selection_reason": "0056 技術分析頁顯示 10/21（除息前最後交易日）的收盤 58.75、漲幅與最高價，直接支持全文核心：除息前收盤價就是填息要回到的位置"
+    "selection_reason": "0056 技術分析頁的報價區同時顯示除息日的股價、漲跌與昨收 58.75，讀者可直接在圖上看到「股價與昨收的差距」和「漲跌欄」對不起來，支持全文核心：除息日漲跌以參考價計算，昨收才是填息要回到的位置"
   }
 }

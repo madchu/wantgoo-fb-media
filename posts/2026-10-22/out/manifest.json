@@ -1,8 +1,8 @@
 {
   "schema": "wantgoo.fb_manifest.v1",
-  "generated_at": "2026-10-22T00:07:20.690Z",
+  "generated_at": "2026-10-22T03:22:03.492Z",
   "work_item_id": "fb_daily_growth:2026-10-22",
-  "draft_sha256": "d2255fd5f8bc7a8fc4380cc8df2cdb22fa0610135d57399d8edf76c610d8f7ba",
+  "draft_sha256": "78300719a334236dec834cc48ba0db22d5feda3cb00e92e527bf4d262f136d1b",
   "captures": {
     "wantgoo.stock.technical": {
       "tool": "fb-pipeline/capture@2",
@@ -14,10 +14,10 @@
       "url": "https://www.wantgoo.com/stock/0056/technical-chart",
       "final_url": "https://www.wantgoo.com/stock/etf/0056/technical-chart",
       "http_status": 200,
-      "captured_at": "2026-10-22T00:07:17.153Z",
-      "data_as_of": "2026-10-21",
+      "captured_at": "2026-10-22T03:21:59.814Z",
+      "data_as_of": "2026-10-22",
       "extracted": {
-        "quote": "58.75 1.30 2.26% 開盤 58.15 昨收 57.45 最高 58.75 最低 58.15 成交量(張) 52,921 規模(億) 8633.03 折溢價 0.07% 淨值 58.71 發行受益單位(千) 14,648,534 離季線 4.26 (7.82%) 交易幣別 新臺幣",
+        "quote": "56.75 -0.30 -0.53% 開盤 57.50 昨收 58.75 最高 57.50 最低 56.65 成交量(張) 67,214 規模(億) 8355.12 折溢價 -0.12% 淨值 56.82 發行受益單位(千) 14,648,534 離季線 2.15 (3.94%) 交易幣別 新臺幣",
         "title": "元大高股息(0056) 技術分析"
       },
       "checks": [
@@ -35,14 +35,14 @@
         },
         {
           "selector": "series:close",
-          "min": ">= 2026-10-21 - 4d",
-          "actual": "2026-10-21",
+          "min": ">= 2026-10-22 - 4d",
+          "actual": "2026-10-22",
           "pass": true
         },
         {
           "selector": "series:candlesticks",
-          "min": ">= 2026-10-21 - 4d",
-          "actual": "2026-10-21",
+          "min": ">= 2026-10-22 - 4d",
+          "actual": "2026-10-22",
           "pass": true
         }
       ],
@@ -50,25 +50,20 @@
       "selector": "#technical-chart",
       "title": "元大高股息(0056) - 技術分析 - 台股 | 玩股網",
       "file": "evidence.png",
-      "bytes": 480607,
+      "bytes": 480462,
       "width": 2216,
       "height": 1866,
-      "sha256": "3396514e195f7793beeec494400b9d654c52c4b9eaeeee3022c32503ac67278b"
+      "sha256": "8a4e10c55d68345c0ebb7bb908ceea88f7441433392b33217077506efeba1a0c"
     }
   },
   "explorer": {},
   "capture_failures": [],
-  "decision": "BLOCKED",
-  "block_class": "BLOCKED_ASSET_POLICY",
-  "reasons": [
-    {
-      "code": "CAPTURE_URL",
-      "message": "capture is not of the profile's page"
-    }
-  ],
-  "publish_target": null,
-  "approval_version": "3f111f7ce10d6b7105e20e23b4fa3f258164332b65fa3c66091cc9c96bf788f1",
-  "image_sha256": "3396514e195f7793beeec494400b9d654c52c4b9eaeeee3022c32503ac67278b",
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "a30f41748637fd9da9587ec4b43bb53c8a6c5af3c1d6455662ff32619d3bc590",
+  "image_sha256": "8a4e10c55d68345c0ebb7bb908ceea88f7441433392b33217077506efeba1a0c",
   "effective_risk": "GREEN",
   "live_requirements": [],
   "classification": {
@@ -79,19 +74,16 @@
     "market_time": true,
     "profiles": [],
     "data_claims": [
-      "10/21",
       "58.75 元",
-      "2.26%"
+      "58.75 元"
     ],
-    "first_party_links": [
-      "https://www.wantgoo.com/stock/etf/0056/dividend-policy/ex-dividend?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261022"
-    ],
+    "first_party_links": [],
     "unknown_link_hosts": [],
     "risk_floor": "GREEN"
   },
   "cta": {
     "required": true,
-    "cta_mode": "direct_utm",
-    "record_sha256": "46fb96d761354ca153f4c3d3d793c0d40aeb6d1e1ae4b9090d86720baae493da"
+    "cta_mode": "search",
+    "record_sha256": "9f10a8683c288ae9803b978eb247fbb91e813c1f94eee3b6758684256473f840"
   }
 }
