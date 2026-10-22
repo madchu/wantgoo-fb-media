@@ -1,0 +1,25 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_promo:2026-10-22:member",
+  "lane": "fb_promo",
+  "test_only": false,
+  "scheduled_at": "2026-10-22T19:30:00+08:00",
+  "content_type": "PRODUCT_CLAIM",
+  "publication_risk": "YELLOW",
+  "text": "自訂選股策略，免費會員可以存 2 組，進階會員可以存 50 組。\n\n這個差距，對只用一套固定條件的人影響不大；但研究選股的人，手上的想法通常不只一套。只能存 2 組，每換一個思路就得刪掉舊的、重新設定條件，之前試過的組合也很難再拿出來對照。\n\n進階會員的盤中即時選股，除了策略數量拉到 50 組，選股條件也全開放（免費會員有限制），存好的策略還能一鍵刷新，不用每次重新設定就能再跑一次。\n\n篩出來的是一份研究名單，不是買賣訊號，也不代表會漲，每一檔還是要自己看過。\n\n如果你平常只用一兩套條件，免費版就夠用。想同時保留多套策略的話，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\n\nGoogle 搜尋「玩股網 進階會員」，看免費版跟進階會員的完整比較。",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/event/advanced",
+      "role": "primary",
+      "data_as_of": "2026-10-22"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.event.advanced",
+    "params": {
+      "group": "screener"
+    },
+    "selection_reason": "進階會員 vs 免費會員比較表的盤中即時選股組（自訂選股策略數量 50/2 組、一鍵刷新 有/無、選股條件 全開放/有限制）與方案頁，對應本文三項功能與價格"
+  }
+}
