@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-10-22",
+  "blogId": "6948585",
+  "date": "2026-10-22T14:00:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/02713ba29001cde7742859b1b4389d750bb2cbcb/posts/2026-10-22/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/22\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-22T14:00:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"元大高股息（0056）今天除息。打開報價頁，會看到一個對不起來的地方：股價和「昨收 58.75 元」之間的距離，跟漲跌欄寫的數字不一樣。\\n\\n原因是除息日的漲跌不是跟昨收比，而是跟「參考價」比。參考價是除息前一天的收盤價扣掉每單位配息，被扣掉的這一段會變成之後入帳的配息，不算進當天的漲跌。\\n\\n所以今天值得記下的是昨收 58.75 元。這是能領這次配息的最後一個交易日收盤價，也就是「填息」要回到的位置。股價重新回到這裡，持有人才算價格沒少、配息另外入帳；回不去，配息只是把一部分資產換成現金。\\n\\n0056 這次花多久填息，可以 Google 搜尋「玩股網 0056 除權息一覽表」，表上列出每次的除息前股價和填息天數。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/02713ba29001cde7742859b1b4389d750bb2cbcb/posts/2026-10-22/out/evidence.png",
+  "image_sha256": "8a4e10c55d68345c0ebb7bb908ceea88f7441433392b33217077506efeba1a0c",
+  "plan_sha256": "f0010a3ff7766cb75113f55e0809376c40dcbe3a877cd35c54774ba67349ccc1",
+  "cta_mode": "search",
+  "claimed_at": "2026-10-22T03:22:17.493Z"
+}
