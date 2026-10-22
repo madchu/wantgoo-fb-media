@@ -1,0 +1,36 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_daily_growth:2026-10-22",
+  "lane": "fb_daily_growth",
+  "test_only": false,
+  "scheduled_at": "2026-10-22T09:30:00+08:00",
+  "content_type": "MARKET_DATA",
+  "publication_risk": "GREEN",
+  "text": "元大高股息（0056）今天除息。能參與這次配息的最後一個交易日是 10/21，那天 0056 收 58.75 元，漲幅 2.26%，收在當天最高。\n\n記下這個價格。除息之後，它就是「填息」要回到的位置。\n\n除息當天，開盤參考價會先從前一日收盤扣掉每單位配息。這段價差不是虧損，而是從股價移到之後才入帳的配息；反過來說，領到配息也不等於多賺，在除息那一刻，價格加上配息的總值並沒有變。\n\n真正的差別在之後：股價重新回到除息前的收盤價，才算填息，持有人等於價格沒少、配息另外入帳；如果遲遲回不去，配息只是把一部分資產換成現金。\n\n玩股網的「歷年股利政策及除權息一覽表」列出每次的除息日、除息前股價和填息天數，0056 這次花多久填息，可以在這裡追：\nhttps://www.wantgoo.com/stock/etf/0056/dividend-policy/ex-dividend?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261022",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/stock/0056/technical-chart",
+      "role": "primary",
+      "data_as_of": "2026-10-21"
+    },
+    {
+      "url": "https://money.udn.com/money/story/5612/9788586",
+      "role": "supporting",
+      "title": "元大高股息10/22除息 每股配發1.72元續創新高",
+      "published_at": "2026-10-01T15:55:22+08:00"
+    },
+    {
+      "url": "https://www.wantgoo.com/stock/etf/0056/dividend-policy/ex-dividend",
+      "role": "supporting",
+      "title": "元大高股息(0056) - 歷年股利政策及除權息一覽表"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.stock.technical",
+    "params": {
+      "code": "0056"
+    },
+    "selection_reason": "0056 技術分析頁顯示 10/21（除息前最後交易日）的收盤 58.75、漲幅與最高價，直接支持全文核心：除息前收盤價就是填息要回到的位置"
+  }
+}

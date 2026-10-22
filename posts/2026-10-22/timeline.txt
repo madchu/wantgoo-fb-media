@@ -1,0 +1,11 @@
+08:02:27 step0 start
+08:02:39 step0 end ok
+08:02:48 step1 start
+08:05:02 step3 precapture start
+08:05:17 step3 precapture end
+08:06:17 step3b write start
+08:06:59 step3b write end
+08:07:02 step4 gate start
+08:07:33 step4 gate end BLOCKED CAPTURE_URL (run exit=2, negatives exit=2)
+08:07:33 step8 report start
+08:07:46 step8 report end
