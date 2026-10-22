@@ -8,7 +8,7 @@
   "url": "https://www.wantgoo.com/event/advanced",
   "final_url": "https://www.wantgoo.com/event/advanced",
   "http_status": 200,
-  "captured_at": "2026-10-22T05:42:01.030Z",
+  "captured_at": "2026-10-22T05:49:37.934Z",
   "data_as_of": "2026-10-22",
   "data_date_source": "capture",
   "extracted": {
@@ -31,7 +31,7 @@
       "pass": true
     }
   ],
-  "stable_frames": 3,
+  "stable_frames": 2,
   "selector": "#compare table.compare-table",
   "title": "玩股網｜進階會員",
   "file": "evidence.png",
