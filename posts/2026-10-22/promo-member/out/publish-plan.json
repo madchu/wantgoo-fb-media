@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-10-22:member",
+  "blogId": "6948585",
+  "date": "2026-10-22T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/092e944d8938234905acb0bb40a9683d1b1141d6/posts/2026-10-22/promo-member/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/22\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-22T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"好不容易調出一組順手的選股條件，想再試另一個思路時，才發現策略已經存滿，只能把舊的刪掉。\\n\\n免費會員的自訂選股策略只能存 2 組。對研究選股的人來說，這不只是少幾格空間：條件組合一刪就回不去，之前篩得不錯的那組，想拿出來對照，只能憑印象重新設定；想把看籌碼、看基本面的條件分開跑，再加一套短線的就沒位子了。\\n\\n研究選股本來就是提出想法、拿出來驗證、再修正的過程。能留下來對照的策略越多，越容易比較不同思路篩出來的名單差在哪裡。\\n\\n進階會員的盤中即時選股，把這幾個限制拿掉：\\n・自訂選股策略可以存 50 組，舊的組合不用刪\\n・選股條件全開放（免費會員有限制）\\n・存好的策略一鍵刷新，盤中想再跑一次不用重新設定\\n\\n篩出來的是一份研究名單，不是買賣訊號，也不代表會漲，每一檔還是要自己看過。\\n\\n如果你平常只用一兩套固定條件，免費版就夠用。想同時保留多套策略、隨時拿出來比對，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\\n\\nGoogle 搜尋「玩股網 進階會員」，看免費版跟進階會員的完整比較。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/092e944d8938234905acb0bb40a9683d1b1141d6/posts/2026-10-22/promo-member/out/evidence.png",
+  "image_sha256": "b3c7db67248c03b78fdc6aa71675bbbe1323dafb3eba1b4fb81e55983a30e16b",
+  "plan_sha256": "2bc6313918785f96ed26aa5f579c3b8f2e3c6cc2f97298c60d42fa95c5380258",
+  "version": "80753a07b9b021ac2e0f84bfcde8eea5de7e9ad6add24dbf48e957c3553eee13",
+  "thread_ts": "1792647736.126839",
+  "lock_run": "20261022T055109Z-10211",
+  "claimed_at": "2026-10-22T05:51:25.326Z"
+}
