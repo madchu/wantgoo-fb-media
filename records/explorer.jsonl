@@ -31,3 +31,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1792390286.092629","message_ts":"1792390847.254319","outcome":"SKIPPED","reason":"App 文委託單的交件，由 App 文 Routine 處理","at":"2026-10-19T06:21:40.870Z"}
 {"event":"NOTE_POSTED","thread_ts":"1792390286.092629","reply_ts":"1792391106.546359","key":"result:exp_20261019_141126_688","at":"2026-10-19T06:25:06.472Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1792735669.521399","work_item_id":"fb_app:2026-10-25:post","at":"2026-10-23T06:07:49.579Z"}
+{"event":"PROPOSAL_REPLIED","thread_ts":"1792735669.521399","job_id":"exp_20261023_140749_975","turn":1,"decision":"同意","option":"A","reply_ts":"1792737870.469459","at":"2026-10-23T06:44:30.517Z"}
