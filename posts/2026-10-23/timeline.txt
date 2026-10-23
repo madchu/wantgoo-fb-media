@@ -1,0 +1,11 @@
+08:02:43 step0 start
+08:03:06 step0 end; step1 start
+08:03:32 step1 end (no post today; ledger clear); step2 start
+08:03:40 step3 precapture start (run02 can_post)
+08:04:16 step3 end (00980A chosen); step3b start
+08:05:07 step3b end; step4 start
+08:05:35 step4 end PASS LIVE; step5 start
+08:05:44 step5 end claimed; step6 start
+08:06:43 step6 end created metricool:403686767; step7 start
+08:06:49 step7 end readback SCHEDULED ok; step8 start
+08:06:57 step8 status+push sent; end SCHEDULED
