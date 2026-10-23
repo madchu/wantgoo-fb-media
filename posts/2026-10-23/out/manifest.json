@@ -1,0 +1,84 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-23T00:05:24.983Z",
+  "work_item_id": "fb_daily_growth:2026-10-23",
+  "draft_sha256": "c295db6945d5b2f0fd42db1c1d43dbb1940563e4774ea8ff5f3d62cb67c52788",
+  "captures": {
+    "wantgoo.etf.constituent": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.etf.constituent",
+      "params": {
+        "code": "00980A"
+      },
+      "work_item_id": "fb_daily_growth:2026-10-23",
+      "url": "https://www.wantgoo.com/stock/etf/00980A/constituent",
+      "final_url": "https://www.wantgoo.com/stock/etf/00980a/constituent",
+      "http_status": 200,
+      "captured_at": "2026-10-23T00:05:21.000Z",
+      "data_as_of": "2026-10-22",
+      "extracted": {
+        "title": "主動野村臺灣優選(00980A) ETF持股分布",
+        "columns": "股票名稱 持有股數 股數增減 權重 自選",
+        "changed_rows": "鴻海精密工業 2317 2,453,000 +283,000 3.28% | 南亞科技 2408 967,000 -129,000 2.19% | 大立光電 3008 65,000 +9,000 2.19% | 鴻勁精密 7769 71,000 -16,000 2.05% | 廣達電腦 2382 1,099,000 +133,000 1.93% | 緯創資通 3231 1,658,000 +247,000 1.72% | 技嘉科技 2376 877,000 +130,000 1.67% | 聯華電子 2303 2,279,000 +274,000 1.56% | 聯茂電子 6213 356,000 +104,000 1.51% | 貿聯控股（BizLink Holding In 3665 143,336 +33,000 1.47%"
+      },
+      "changed_rows": {
+        "kept": 10,
+        "total": 13,
+        "plus": 10
+      },
+      "checks": [
+        {
+          "selector": "table.stock-holdings-table tbody tr",
+          "min": 5,
+          "actual": 50,
+          "pass": true
+        },
+        {
+          "selector": "table.stock-holdings-table .add-mystock-btn .feather-plus",
+          "min": 5,
+          "actual": 50,
+          "pass": true
+        }
+      ],
+      "stable_frames": 3,
+      "selector": "table.stock-holdings-table",
+      "title": "主動野村臺灣優選(00980A) - 成分股 - 台股｜玩股網",
+      "file": "evidence.png",
+      "bytes": 176214,
+      "width": 992,
+      "height": 1136,
+      "sha256": "7fead95eb514970db4f8b42cd8da1b4e76a7d4fdee5894ed1fa7ed9c68374423"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "f31b9ed8465a8133188d80bc84517e9b4df3a96cddcbe73cf3fff620c49577d9",
+  "image_sha256": "7fead95eb514970db4f8b42cd8da1b4e76a7d4fdee5894ed1fa7ed9c68374423",
+  "effective_risk": "GREEN",
+  "live_requirements": [],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": true,
+    "profiles": [],
+    "data_claims": [
+      "10/22"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/stock/etf/00980a/constituent?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261023"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "882e6478a49c3395c6e7bd61345afe68f93d999e289f1fd79ce125362cac5058"
+  }
+}
