@@ -25,3 +25,4 @@
 {"work_item_id":"fb_external:2026-10-22:run02_00981a","event":"READBACK_FOUND","status":"PUBLISHED","provider_id":"facebook:1603623928474476","public_url":"https://facebook.com/1564411292395740/posts/1603623928474476","at":"2026-10-22T04:06:24.959Z"}
 {"work_item_id":"fb_promo:2026-10-22:member","event":"READBACK_FOUND","status":"SCHEDULED","provider_id":"metricool:402813424","public_url":null,"at":"2026-10-22T05:52:22.616Z"}
 {"work_item_id":"fb_daily_growth:2026-10-22","event":"READBACK_FOUND","status":"PUBLISHED","provider_id":"facebook:1603707285132807","public_url":"https://facebook.com/1564411292395740/posts/1603707285132807","at":"2026-10-22T06:25:35.335Z"}
+{"work_item_id":"fb_daily_growth:2026-10-23","event":"ATTEMPT_STARTED","at":"2026-10-23T00:05:38.213Z"}
