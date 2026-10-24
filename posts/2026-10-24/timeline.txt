@@ -1,0 +1,17 @@
+08:02:22 step0 start
+08:02:36 step0 end ok
+08:02:44 step1 start
+08:03:15 step1 end ok (no slot conflict)
+08:03:15 step2 start
+08:06:22 step2 end: 選定 ETF 受益人數排行（Run02 4 檔不可用）
+08:06:22 step3 write start
+08:07:35 step3 write end
+08:07:35 step4 gate start
+08:08:05 step4 gate end PASS LIVE, negatives 0
+08:08:05 step5 start
+08:08:09 step5 end
+08:08:13 step6 schedule start
+08:08:40 step6 created id 404668531
+08:08:40 step7 readback start
+08:09:03 step7 readback end
+08:09:08 step8 notify+report
