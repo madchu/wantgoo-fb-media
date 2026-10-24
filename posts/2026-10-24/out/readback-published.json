@@ -1,0 +1,16 @@
+{
+  "work_item_id": "fb_daily_growth:2026-10-24",
+  "read_at": "2026-10-24T01:51:00.576Z",
+  "matches": 1,
+  "status": "PUBLISHED",
+  "provider_status": "PUBLISHED",
+  "provider_id": "facebook:1605509858285883",
+  "public_url": "https://facebook.com/1564411292395740/posts/1605509858285883",
+  "checks": {
+    "text": true,
+    "time": true,
+    "media": true,
+    "permalink": true
+  },
+  "ok": true
+}
