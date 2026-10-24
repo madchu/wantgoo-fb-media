@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 404668531,
+    "uuid": "5339027024043591241",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-10-24T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-10-24T08:08:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "比富邦台50（006208）更多人持有的台股 ETF 裡，有兩檔是主動式 ETF。玩股網「台股ETF受益人數排行」10/23 的名單上，主動統一台股增長（00981A）和 00403A 都排在 006208 前面。\n\n這張排行比的是「人」，不是「錢」。排行頁寫明，受益人數是持有這檔 ETF 的人數，不論每個人持有多少張：買一張的人和買一千張的人，在這裡都只算一個。所以名次高，說的是持有的人多、人氣高；它不等於這檔 ETF 的資金規模最大，也看不出費用高低或之後的報酬。\n\n想知道錢放在哪裡，同一區還有「基金規模排行」，可以把兩張表的名次對照著看，人多的 ETF，錢不一定也最多。\n\n受益人數排行：\nhttps://www.wantgoo.com/stock/etf/ranking/shareholders?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261024",
+    "media": [
+      "https://static.metricool.com/planner/202610/6948585-file-10629579361128126424.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
