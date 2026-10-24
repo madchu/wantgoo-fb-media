@@ -1,0 +1,30 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_daily_growth:2026-10-24",
+  "lane": "fb_daily_growth",
+  "test_only": false,
+  "scheduled_at": "2026-10-24T09:30:00+08:00",
+  "content_type": "RANKING",
+  "publication_risk": "GREEN",
+  "text": "比富邦台50（006208）更多人持有的台股 ETF 裡，有兩檔是主動式 ETF。玩股網「台股ETF受益人數排行」10/23 的名單上，主動統一台股增長（00981A）和 00403A 都排在 006208 前面。\n\n這張排行比的是「人」，不是「錢」。排行頁寫明，受益人數是持有這檔 ETF 的人數，不論每個人持有多少張：買一張的人和買一千張的人，在這裡都只算一個。所以名次高，說的是持有的人多、人氣高；它不等於這檔 ETF 的資金規模最大，也看不出費用高低或之後的報酬。\n\n想知道錢放在哪裡，同一區還有「基金規模排行」，可以把兩張表的名次對照著看，人多的 ETF，錢不一定也最多。\n\n受益人數排行：\nhttps://www.wantgoo.com/stock/etf/ranking/shareholders?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261024",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/stock/etf/ranking/shareholders",
+      "role": "primary",
+      "data_as_of": "2026-10-23"
+    },
+    {
+      "url": "https://tw.stock.yahoo.com/news/1%E8%A1%A8%E7%9C%8B-%E4%B8%BB%E5%8B%95%E5%BC%8Fetf%E4%BA%BA%E6%B0%A3%E5%A4%A7%E6%B4%97%E7%89%8C-00981a%E5%8F%97%E7%9B%8A%E4%BA%BA%E9%80%BC%E8%BF%91%E7%99%BE%E8%90%AC-00403a-00991a%E7%B7%8A%E8%BF%BD-220030020.html",
+      "role": "supporting",
+      "title": "1表看》主動式ETF人氣大洗牌！00981A受益人逼近百萬 00403A、00991A緊追"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.etf.ranking",
+    "params": {
+      "kind": "shareholders"
+    },
+    "selection_reason": "玩股網台股ETF受益人數排行 10/23 前十名（代碼、名稱、受益人數），直接支持全文核心：00981A、00403A 與 006208 的相對名次"
+  }
+}

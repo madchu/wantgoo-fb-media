@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v1",
+  "pilot": "fb_growth_cta_pilot_202610",
+  "work_item_id": "fb_daily_growth:2026-10-24",
+  "lane": "fb_daily_growth",
+  "scheduled_at": "2026-10-24T09:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/stock/etf/ranking/shareholders",
+  "search_term": "玩股網 台股ETF受益人數排行",
+  "cta_mode": "direct_utm",
+  "reason": "TREATMENT",
+  "final_url": "https://www.wantgoo.com/stock/etf/ranking/shareholders?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261024",
+  "utm_campaign": "fb_growth_cta_pilot_202610",
+  "utm_content": "fb_daily_growth_20261024"
+}
