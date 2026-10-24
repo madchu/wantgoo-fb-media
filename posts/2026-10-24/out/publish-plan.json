@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-10-24",
+  "blogId": "6948585",
+  "date": "2026-10-24T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/53382f90570495995f59ad91911b7a1ed4c8dafe/posts/2026-10-24/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/23\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-24T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"比富邦台50（006208）更多人持有的台股 ETF 裡，有兩檔是主動式 ETF。玩股網「台股ETF受益人數排行」10/23 的名單上，主動統一台股增長（00981A）和 00403A 都排在 006208 前面。\\n\\n這張排行比的是「人」，不是「錢」。排行頁寫明，受益人數是持有這檔 ETF 的人數，不論每個人持有多少張：買一張的人和買一千張的人，在這裡都只算一個。所以名次高，說的是持有的人多、人氣高；它不等於這檔 ETF 的資金規模最大，也看不出費用高低或之後的報酬。\\n\\n想知道錢放在哪裡，同一區還有「基金規模排行」，可以把兩張表的名次對照著看，人多的 ETF，錢不一定也最多。\\n\\n受益人數排行：\\nhttps://www.wantgoo.com/stock/etf/ranking/shareholders?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261024\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/53382f90570495995f59ad91911b7a1ed4c8dafe/posts/2026-10-24/out/evidence.png",
+  "image_sha256": "9f612da2c2c813d7caaba68aaa0bf004eb5ca40fc5f555e1632b1edb6e57a36f",
+  "plan_sha256": "70c2bcbf1448713813082c49010ae006261ca4d33b0a5c202d584571d9ad6465",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-10-24T00:08:07.535Z"
+}
