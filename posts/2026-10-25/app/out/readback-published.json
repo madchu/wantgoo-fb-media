@@ -1,0 +1,16 @@
+{
+  "work_item_id": "fb_app:2026-10-25:post",
+  "read_at": "2026-10-25T01:51:01.150Z",
+  "matches": 1,
+  "status": "PUBLISHED",
+  "provider_status": "PUBLISHED",
+  "provider_id": "facebook:1606482028188666",
+  "public_url": "https://facebook.com/1564411292395740/posts/1606482028188666",
+  "checks": {
+    "text": true,
+    "time": true,
+    "media": true,
+    "permalink": true
+  },
+  "ok": true
+}
