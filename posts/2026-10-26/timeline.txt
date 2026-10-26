@@ -1,0 +1,11 @@
+08:02:31 step0 start
+08:02:42 step0 end
+08:02:52 step1 start
+08:03:32 step1 end; step2 start
+08:04:38 step2 end (Run02 00981A selected); step3b start
+08:05:10 step3b end; step4 start
+08:05:34 step4 end (PASS LIVE); step5 start
+08:05:42 step5 end; step6 start
+08:06:27 step6 end (created id 406103861); step7 start
+08:06:30 step7 end
+08:06:43 step8 notify+status done
