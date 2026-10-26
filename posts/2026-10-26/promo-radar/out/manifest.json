@@ -1,0 +1,93 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-26T05:43:15.777Z",
+  "work_item_id": "fb_promo:2026-10-26:radar",
+  "draft_sha256": "ab04cbce73e6f4c7577e5f1d2c8a1a672006b3c54261a0b201e22e5c31d312d6",
+  "captures": {
+    "wantgoo.radar.history": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.radar.history",
+      "work_item_id": "fb_promo:2026-10-26:radar",
+      "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+      "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+      "http_status": 200,
+      "captured_at": "2026-10-26T05:43:10.503Z",
+      "data_as_of": "2026-10-26",
+      "data_date_source": "capture",
+      "extracted": {
+        "title": "歷史績優股",
+        "columns": "股票 券商分點 波段漲幅",
+        "top_rows": "冠西電 2466 台企北高雄 111F +308.62% | 美而快 5321 凱基台北 9268 +272.9% | 美而快 5321 元大大同 989G +272.9% | 南亞 1303 元大 9800 +268.14% | 合晶 6182 凱基松山 9217 +244.55% | 霖宏 5464 凱基台北 9268 +238.05% | 霖宏 5464 凱基信義 9216 +238.05% | 霖宏 5464 新光 8560 +238.05% | 霖宏 5464 群益古亭 918C +238.05% | 霖宏 5464 台新文心 9B2z +238.05%",
+        "pricing": "訂閱方案 選擇適合你的方案 方案內容相同，享有進階會員完整權益，請選擇訂閱方式 年訂方案 最推薦 $3,490 ／年 平均每月約 $291，相較月訂一年省 $698 每年自動續訂，可取消下期續訂 選擇年訂方案 月訂方案 $349 ／月 適合想先使用看看的人 每月自動續訂，可取消下期續訂 選擇月訂 不想自動續訂？ 也可以選擇單次購買 $4,188／13 個月（買 12 個月送 1 個月），一次付款，不自動續訂 單次購買",
+        "rules": "資料更新 每個交易日盤後 監控門檻 單日買超 ≥ 25% 回測基準 6 個月飆股歷史 驗證方式 可回測 · 可重現"
+      },
+      "also_read": {
+        "url": "https://www.wantgoo.com/event/broker-radar",
+        "final_url": "https://www.wantgoo.com/event/broker-radar",
+        "http_status": 200
+      },
+      "checks": [
+        {
+          "selector": "#signatureWorkTable tbody tr",
+          "min": 20,
+          "actual": 71,
+          "pass": true
+        }
+      ],
+      "stable_frames": 4,
+      "selector": "#signatureWorkTable",
+      "title": "主力券商雷達 - 績優券商 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 152623,
+      "width": 800,
+      "height": 1044,
+      "sha256": "c42a63b935c4c1e3a1f6529a9c619e17e0917fb5917d977fa7b978f3e5864e5b"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "BLOCKED",
+  "block_class": "BLOCKED_NEEDS_APPROVAL",
+  "reasons": [
+    {
+      "code": "NEEDS_APPROVAL",
+      "message": "YELLOW post needs a recorded approval of this destination, time, text and image"
+    },
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "publish_target": null,
+  "approval_version": "9a64f96943839f8b0f71ecf31febfc39dfee5fcc4a8d281114ce48c55f8bc8f3",
+  "image_sha256": "c42a63b935c4c1e3a1f6529a9c619e17e0917fb5917d977fa7b978f3e5864e5b",
+  "effective_risk": "YELLOW",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": true,
+    "market_time": true,
+    "profiles": [
+      "wantgoo.radar.history"
+    ],
+    "data_claims": [
+      "238.05%",
+      "25%",
+      "349 元",
+      "3,490 元"
+    ],
+    "first_party_links": [],
+    "unknown_link_hosts": [],
+    "risk_floor": "YELLOW"
+  },
+  "cta": {
+    "required": false
+  }
+}
