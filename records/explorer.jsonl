@@ -35,3 +35,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1792735669.521399","message_ts":"1792736008.927619","outcome":"HANDLED","reason":"第 1 輪提案已回覆：同意 A（個股比較＋還原權息）","at":"2026-10-23T06:44:36.769Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792735669.521399","message_ts":"1792738069.260119","outcome":"SKIPPED","reason":"App 文委託單交件（fb_app:2026-10-25:post），由 App 文 Routine 處理","at":"2026-10-23T06:48:55.248Z"}
 {"event":"NOTE_POSTED","thread_ts":"1792735669.521399","reply_ts":"1792738234.659629","key":"result:exp_20261023_140749_975","at":"2026-10-23T06:50:34.677Z"}
+{"event":"BRIEF_POSTED","thread_ts":"1792995009.880929","work_item_id":"fb_app:2026-10-28:post","at":"2026-10-26T06:10:09.923Z"}
