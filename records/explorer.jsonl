@@ -36,3 +36,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1792735669.521399","message_ts":"1792738069.260119","outcome":"SKIPPED","reason":"App 文委託單交件（fb_app:2026-10-25:post），由 App 文 Routine 處理","at":"2026-10-23T06:48:55.248Z"}
 {"event":"NOTE_POSTED","thread_ts":"1792735669.521399","reply_ts":"1792738234.659629","key":"result:exp_20261023_140749_975","at":"2026-10-23T06:50:34.677Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1792995009.880929","work_item_id":"fb_app:2026-10-28:post","at":"2026-10-26T06:10:09.923Z"}
+{"event":"PROPOSAL_REPLIED","thread_ts":"1792995009.880929","job_id":"exp_20261026_141010_827","turn":1,"decision":"同意","option":"A","reply_ts":"1792995434.567859","at":"2026-10-26T06:17:14.602Z"}
