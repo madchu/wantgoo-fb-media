@@ -1,0 +1,16 @@
+{
+  "work_item_id": "fb_app:2026-10-28:post",
+  "read_at": "2026-10-26T06:25:03.617Z",
+  "matches": 1,
+  "status": "SCHEDULED",
+  "provider_status": "PENDING",
+  "provider_id": "metricool:406264952",
+  "public_url": null,
+  "checks": {
+    "text": true,
+    "time": true,
+    "media": true,
+    "permalink": null
+  },
+  "ok": true
+}
