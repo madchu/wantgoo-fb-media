@@ -1,0 +1,10 @@
+{
+  "work_item_id": "fb_app:2026-10-28:post",
+  "blogId": "6948585",
+  "date": "2026-10-28T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/fe1a2a012f451d725dee671e62f0b4d0a2b9d454/posts/2026-10-28/app/out/evidence.png\"],\"mediaAltText\":[\"玩股網 App 畫面截圖，擷取於 2026/10/26\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-28T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"大盤跌的那天，是少數權值股在拖，還是多數股票都在跌？光看加權指數回答不了，玩股網 App 的「市場多空指標」把這兩件事放在同一張圖上。\\n\\n以 10/22 的資料為例，加權指數下跌 1.81%。同一個畫面下方的「淨上漲家數」柱狀圖，那天的柱子是往下的綠柱。淨上漲家數是上漲家數減下跌家數，柱子往下代表那天下跌的股票比上漲的多。\\n\\n會需要另外看家數，是因為加權指數按市值加權，幾檔大型權值股就能決定方向；家數則是每檔股票各算一票。把每天的淨上漲家數累加起來，就是圖上那條藍色的騰落線。\\n\\n所以這張圖要看的是兩條線有沒有同方向。畫面中段，K 線往上走到區間高點的那一段，藍色騰落線並沒有跟著創高，反而一路往下：指數在漲，上漲的股票家數卻沒有跟上。這個落差只說明指數和多數股票走得不同步，不代表接下來的方向。\\n\\nApp 裡的位置：「市場多空指標」，上方可切換騰落線、多空頭排列、市場寬度、新高-新低，也能只看上市或上櫃。到 App Store 或 Google Play 搜尋「玩股網」。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/fe1a2a012f451d725dee671e62f0b4d0a2b9d454/posts/2026-10-28/app/out/evidence.png",
+  "image_sha256": "42f6e528decdcfa810c0b262effecfcb618c9fcf37413c2f831c810d72a9d9cc",
+  "plan_sha256": "55fd50786a4b0c266121b83f2eead272c6529ecdcb7e261fa78446a06acccc23",
+  "claimed_at": "2026-10-26T06:24:15.665Z"
+}
