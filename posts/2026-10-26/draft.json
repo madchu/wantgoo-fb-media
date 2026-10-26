@@ -1,0 +1,25 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_daily_growth:2026-10-26",
+  "lane": "fb_daily_growth",
+  "test_only": false,
+  "scheduled_at": "2026-10-26T09:30:00+08:00",
+  "content_type": "MARKET_DATA",
+  "publication_risk": "GREEN",
+  "text": "主動統一台股增長（00981A）10/22 的持股明細，日月光投控（3711）股數增加 547,000 股，持有來到 8,895,000 股，權重 2.18%。\n\n看主動式 ETF 的持股表，先看「股數增減」這一欄，不要只盯著權重。權重是這檔持股市值占整檔 ETF 的比例，股價一動，權重就會跟著變，就算持有股數完全沒動也一樣；股數增減只記錄持有股數本身的變化，股價怎麼走都不會讓它跳動。所以想知道某天持股實際被調整了什麼，要看的是這一欄。\n\n單日的一筆增減只是一筆紀錄，不代表經理人看好哪一檔，也不能拿來推估之後的報酬，不要把這當明牌。\n\n玩股網的成分股頁每個交易日收盤後更新持股與股數增減（部分投信公告時間不同），看到想追蹤的個股，可以直接按右邊的＋加入自選股：\nhttps://www.wantgoo.com/stock/etf/00981a/constituent?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261026\n\n資料日：2026/10/22。",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/stock/etf/00981A/constituent",
+      "role": "primary",
+      "data_as_of": "2026-10-22"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.etf.constituent",
+    "params": {
+      "code": "00981A"
+    },
+    "selection_reason": "00981A 成分股頁 10/22 持股明細，只留股數有增減的列（kept 1／total 1：日月光投控），有＋自選按鈕；文案的持有股數、股數增減與權重全部取自這張圖"
+  }
+}

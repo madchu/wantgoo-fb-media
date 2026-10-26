@@ -1,0 +1,45 @@
+{
+  "tool": "fb-pipeline/capture@2",
+  "profile": "wantgoo.etf.constituent",
+  "params": {
+    "code": "00981A"
+  },
+  "work_item_id": "fb_daily_growth:2026-10-26",
+  "url": "https://www.wantgoo.com/stock/etf/00981A/constituent",
+  "final_url": "https://www.wantgoo.com/stock/etf/00981a/constituent",
+  "http_status": 200,
+  "captured_at": "2026-10-26T00:05:25.159Z",
+  "data_as_of": "2026-10-22",
+  "extracted": {
+    "title": "主動統一台股增長(00981A) ETF持股分布",
+    "columns": "股票名稱 持有股數 股數增減 權重 自選",
+    "changed_rows": "日月光投控 3711 8,895,000 +547,000 2.18%"
+  },
+  "changed_rows": {
+    "kept": 1,
+    "total": 1,
+    "plus": 1
+  },
+  "checks": [
+    {
+      "selector": "table.stock-holdings-table tbody tr",
+      "min": 5,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "selector": "table.stock-holdings-table .add-mystock-btn .feather-plus",
+      "min": 5,
+      "actual": 50,
+      "pass": true
+    }
+  ],
+  "stable_frames": 2,
+  "selector": "table.stock-holdings-table",
+  "title": "主動統一台股增長(00981A) - 成分股 - 台股｜玩股網",
+  "file": "evidence.png",
+  "bytes": 47805,
+  "width": 840,
+  "height": 326,
+  "sha256": "4d45806280564d71d2a10c46d427125b03129e0268dae0d7f869cd0cd6b52c14"
+}
