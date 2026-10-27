@@ -1,0 +1,10 @@
+08:02 step0 start
+08:04 step1 dup-check: no FB post within ±60m of 09:30 today
+08:04 step2 topic: run02 RUN_FULL; precapture etf rankings
+08:06 step3 selected yield ranking (pre-capture done)
+08:07 step3b draft done, checks ok
+08:07 step4 gate run done
+08:07 step5 evidence+claim pushed
+08:08 step6 slot-claim
+08:09 step6-7 created id 407293635, readback
+08:09 step8 end SCHEDULED
