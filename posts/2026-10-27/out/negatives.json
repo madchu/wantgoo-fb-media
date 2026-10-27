@@ -1,0 +1,155 @@
+{
+  "schema": "wantgoo.fb_negatives.v1",
+  "generated_at": "2026-10-27T00:07:42.609Z",
+  "run_dir": "out",
+  "all_ok": true,
+  "cases": [
+    {
+      "case": "VALID",
+      "note": "unchanged draft and capture",
+      "expect": "PASS",
+      "decision": "PASS",
+      "block_class": null,
+      "codes": [],
+      "ok": true
+    },
+    {
+      "case": "AI_IMAGE_SWAP",
+      "note": "same text with an AI illustration instead of the capture",
+      "expect": "AI_IMAGE_FOR_EVIDENCE_ARTICLE",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "AI_IMAGE_FOR_EVIDENCE_ARTICLE",
+        "LIVE_NOT_ENABLED",
+        "NEEDS_TRUSTED_CLASSIFICATION"
+      ],
+      "ok": true
+    },
+    {
+      "case": "OLD_IMAGE",
+      "note": "capture taken 30 hours before the post",
+      "expect": "CAPTURE_STALE",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "CAPTURE_STALE"
+      ],
+      "ok": true
+    },
+    {
+      "case": "OLD_DATA",
+      "note": "page data one week older than this capture",
+      "expect": "DATA_NOT_LATEST",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "DATA_STALE",
+        "DATA_NOT_LATEST",
+        "DATA_DATE_MISMATCH",
+        "DATA_CLAIM_DATE_MISMATCH"
+      ],
+      "ok": true
+    },
+    {
+      "case": "WRONG_TEXT_DATE",
+      "note": "text states another date than the page",
+      "expect": "DATA_CLAIM_DATE_MISMATCH",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "DATA_CLAIM_DATE_MISMATCH"
+      ],
+      "ok": true
+    },
+    {
+      "case": "WRONG_EVIDENCE_DATE",
+      "note": "primary evidence claims another data date",
+      "expect": "DATA_DATE_MISMATCH",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "DATA_DATE_MISMATCH"
+      ],
+      "ok": true
+    },
+    {
+      "case": "WRONG_NUMBER",
+      "note": "one number in the text differs from the page",
+      "expect": "DATA_CLAIM_UNVERIFIED",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "DATA_CLAIM_UNVERIFIED"
+      ],
+      "ok": true
+    },
+    {
+      "case": "WRONG_SHA",
+      "note": "image bytes differ from the capture record",
+      "expect": "CAPTURE_HASH_MISMATCH",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "CAPTURE_HASH_MISMATCH"
+      ],
+      "ok": true
+    },
+    {
+      "case": "UNSTABLE_FRAMES",
+      "note": "capture never had two identical frames",
+      "expect": "CAPTURE_UNSTABLE",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "CAPTURE_UNSTABLE"
+      ],
+      "ok": true
+    },
+    {
+      "case": "OTHER_WORK_ITEM",
+      "note": "capture made for another work item",
+      "expect": "CAPTURE_WORK_ITEM",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "CAPTURE_WORK_ITEM"
+      ],
+      "ok": true
+    },
+    {
+      "case": "WRITER_SUPPLIED_CAPTURE",
+      "note": "draft brings its own image file",
+      "expect": "WRITER_SUPPLIED_CAPTURE",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_ASSET_POLICY",
+      "codes": [
+        "WRITER_SUPPLIED_CAPTURE"
+      ],
+      "ok": true
+    },
+    {
+      "case": "DUPLICATE_WORK_ITEM",
+      "note": "this work item is already published",
+      "expect": "DUPLICATE",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_DUPLICATE",
+      "codes": [
+        "DUPLICATE"
+      ],
+      "ok": true
+    },
+    {
+      "case": "FIRST_POST_REPEAT",
+      "note": "the published first post fb_daily_growth:2026-10-17, from the persistent store",
+      "expect": "DUPLICATE",
+      "decision": "BLOCKED",
+      "block_class": "BLOCKED_DUPLICATE",
+      "codes": [
+        "WORK_ITEM_DATE_MISMATCH",
+        "DUPLICATE"
+      ],
+      "ok": true
+    }
+  ]
+}
