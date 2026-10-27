@@ -1,0 +1,93 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-27T05:41:59.435Z",
+  "work_item_id": "fb_promo:2026-10-27:member",
+  "draft_sha256": "9beced978d23f50846e4b01b3c391f07218a46aa725a08bf7984822f832f6dd2",
+  "captures": {
+    "wantgoo.event.advanced": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.event.advanced",
+      "params": {
+        "group": "chart"
+      },
+      "work_item_id": "fb_promo:2026-10-27:member",
+      "url": "https://www.wantgoo.com/event/advanced",
+      "final_url": "https://www.wantgoo.com/event/advanced",
+      "http_status": 200,
+      "captured_at": "2026-10-27T05:41:58.024Z",
+      "data_as_of": "2026-10-27",
+      "data_date_source": "capture",
+      "extracted": {
+        "title": "進階會員 vs 免費會員",
+        "columns": "功能項目 進階會員 免費會員",
+        "rows": "個股指數線圖 台股走勢圖均價線 有 無 即時走勢自動更新 有 無 台股線圖分時 K 線 全開放 有限制 跨裝置雲端記憶 有 無 技術線圖自動更新 有 無 主圖副圖自訂數量 6 4 看盤組合自訂數量 15 4 技術指標開放數量 全開放 有限制",
+        "pricing": "推薦年訂 最推薦 $1,990 ／年 平均每月約 $166，一年省 $398 $199／月 月訂，可取消下期續訂 $2,388／13 個月 單次購買，不自動續訂 詳細方案與續訂方式請見下方訂閱方案。"
+      },
+      "checks": [
+        {
+          "selector": "#compare table.compare-table tbody tr",
+          "min": 20,
+          "actual": 25,
+          "pass": true
+        },
+        {
+          "selector": ".hero-plan-price",
+          "min": 1,
+          "actual": 1,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": "#compare table.compare-table",
+      "title": "玩股網｜進階會員",
+      "file": "evidence.png",
+      "bytes": 153996,
+      "width": 1440,
+      "height": 1424,
+      "sha256": "9f21295944c010f759e2327bdb1a340b438afb3049f88984dc84d410a03a28e6"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "BLOCKED",
+  "block_class": "BLOCKED_NEEDS_APPROVAL",
+  "reasons": [
+    {
+      "code": "NEEDS_APPROVAL",
+      "message": "YELLOW post needs a recorded approval of this destination, time, text and image"
+    },
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "publish_target": null,
+  "approval_version": "3e2fc90f6a50db351f2771e615f5bc378c37b6c37536fa8f5d1cfede1ac7cc2f",
+  "image_sha256": "9f21295944c010f759e2327bdb1a340b438afb3049f88984dc84d410a03a28e6",
+  "effective_risk": "YELLOW",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": true,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "199 元",
+      "1,990 元",
+      "166 元"
+    ],
+    "first_party_links": [],
+    "unknown_link_hosts": [],
+    "risk_floor": "YELLOW"
+  },
+  "cta": {
+    "required": false
+  }
+}
