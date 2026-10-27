@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-10-27",
+  "blogId": "6948585",
+  "date": "2026-10-27T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/11687b3017e5d637cd4fc7872bc567928c0cf529/posts/2026-10-27/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/22\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-27T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"群益半導體收益（00927）在玩股網「台股ETF殖利率排行」10/22 的名單排第一，近四季殖利率 16.46%。如果你也看過新聞替它算的「年化配息率」，會發現兩個數字對不起來。\\n\\n差別在算法。新聞的年化配息率，是拿最近一次的配息換算成一整年，等於假設之後每一季都配一樣多；排行頁上的近四季殖利率，則是把過去四季實際配出的錢加總，再除以市價。像 00927 這樣近幾次配息一次比一次高的，用最近一次去換算，自然會比過去四季加總來得高。\\n\\n兩個數字都是回頭算的：近四季殖利率用的是已經配過的錢，市價一動它就跟著變，不代表之後一年能領到同樣的比例。\\n\\n另外，這份前十名裡，名稱帶「收益」「高填息」的只有 00927 和大華優利高填息30（00918），其餘是科技、金融、綠能、ESG 這類主題或指數型 ETF。比配息，用同一種算法、同一個欄位比，比看名字準。\\n\\n殖利率排行（近四季統一計算）：\\nhttps://www.wantgoo.com/stock/etf/ranking/yield?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_growth_cta_pilot_202610&utm_content=fb_daily_growth_20261027\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/11687b3017e5d637cd4fc7872bc567928c0cf529/posts/2026-10-27/out/evidence.png",
+  "image_sha256": "311e03238d7fecbe4f1ef381c7e4a9e802fa0884890e8e3c2bf0cfa753ccb7ca",
+  "plan_sha256": "bcfedb992aad25b9c83ed083ff64cc34d1b07f1cfc2422dcb8a244d5c6ca4a27",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-10-27T00:07:56.181Z"
+}
