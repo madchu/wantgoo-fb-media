@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-10-28:radar",
+  "blogId": "6948585",
+  "date": "2026-10-28T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/a93b7a67fd7bbe372f5c12e9d3441adf551bf9e3/posts/2026-10-28/promo-radar/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/28\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-28T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"華新科（2492）這一波，波段漲幅 199.51%。在主力券商雷達的「歷史績優股」清單上，它一口氣列了三個分點：美商高盛亞、摩根大通、元大，都是在起漲前後明顯買超的分點。\\n\\n股票漲完再回頭查，總找得到買在前面的分點；難的是事前知道該盯哪幾個。\\n\\n主力券商雷達把順序反過來：先用過去 6 個月的飆股歷史回測，找出起漲前後明顯買超、而且在不同強勢股反覆出現的分點，再每個交易日盤後追蹤這批分點的最新動向，單日買超達到 25% 的監控門檻，就列進觀察名單。\\n\\n這是幫你縮小研究範圍的名單，不是買賣訊號。\\n\\n主力券商雷達：月訂 349 元，年訂 3,490 元，訂閱同時享有進階會員的完整權益。\\n\\n完整說明與方案：https://www.wantgoo.com/event/broker-radar\\n\\n以上為歷史紀錄與功能說明，不構成投資建議。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/a93b7a67fd7bbe372f5c12e9d3441adf551bf9e3/posts/2026-10-28/promo-radar/out/evidence.png",
+  "image_sha256": "84fc3fac147e8d89764abeb1ed47d11cde97ed7e478ed995662946fd7df10652",
+  "plan_sha256": "d35a69e99aed85f22e0d249fb39c944afd23a5e6164a4befdd6130bfabf848d8",
+  "version": "78017527809da3f35670112407bdeeec13d3bba05ba60e2c7e1ae94b3da9c76d",
+  "thread_ts": "1793166176.338369",
+  "lock_run": "20261028T054935Z-20913",
+  "claimed_at": "2026-10-28T05:49:48.896Z"
+}

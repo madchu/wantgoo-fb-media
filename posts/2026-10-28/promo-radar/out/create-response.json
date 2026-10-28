@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 408587619,
+    "uuid": "3237490425276940501",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-10-28T19:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-10-28T13:49:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "華新科（2492）這一波，波段漲幅 199.51%。在主力券商雷達的「歷史績優股」清單上，它一口氣列了三個分點：美商高盛亞、摩根大通、元大，都是在起漲前後明顯買超的分點。\n\n股票漲完再回頭查，總找得到買在前面的分點；難的是事前知道該盯哪幾個。\n\n主力券商雷達把順序反過來：先用過去 6 個月的飆股歷史回測，找出起漲前後明顯買超、而且在不同強勢股反覆出現的分點，再每個交易日盤後追蹤這批分點的最新動向，單日買超達到 25% 的監控門檻，就列進觀察名單。\n\n這是幫你縮小研究範圍的名單，不是買賣訊號。\n\n主力券商雷達：月訂 349 元，年訂 3,490 元，訂閱同時享有進階會員的完整權益。\n\n完整說明與方案：https://www.wantgoo.com/event/broker-radar\n\n以上為歷史紀錄與功能說明，不構成投資建議。",
+    "media": [
+      "https://static.metricool.com/planner/202610/6948585-file-17394688901202597725.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
