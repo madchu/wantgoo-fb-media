@@ -1,8 +1,8 @@
 {
   "schema": "wantgoo.fb_manifest.v1",
-  "generated_at": "2026-10-28T05:42:42.192Z",
+  "generated_at": "2026-10-28T05:47:56.253Z",
   "work_item_id": "fb_promo:2026-10-28:radar",
-  "draft_sha256": "bb6654c0ff8ebe5398e9595e1f10b73aa2630cfe84769086a19cfbe385951355",
+  "draft_sha256": "c7f7b1d54b943de54264e88a4600ec033937a3540f285e489b6d9e11b01bfa52",
   "captures": {
     "wantgoo.radar.rows": {
       "tool": "fb-pipeline/capture@2",
@@ -14,7 +14,7 @@
       "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "http_status": 200,
-      "captured_at": "2026-10-28T05:42:37.312Z",
+      "captured_at": "2026-10-28T05:47:49.371Z",
       "data_as_of": "2026-10-28",
       "data_date_source": "capture",
       "extracted": {
@@ -62,7 +62,7 @@
     }
   ],
   "publish_target": null,
-  "approval_version": "cdad0aa5b7de2db7de0f417aa0a6548181f74a5f999ee5428a6439613c49715d",
+  "approval_version": "78017527809da3f35670112407bdeeec13d3bba05ba60e2c7e1ae94b3da9c76d",
   "image_sha256": "84fc3fac147e8d89764abeb1ed47d11cde97ed7e478ed995662946fd7df10652",
   "effective_risk": "YELLOW",
   "live_requirements": [
@@ -87,7 +87,9 @@
       "349 元",
       "3,490 元"
     ],
-    "first_party_links": [],
+    "first_party_links": [
+      "https://www.wantgoo.com/event/broker-radar"
+    ],
     "unknown_link_hosts": [],
     "risk_floor": "YELLOW"
   },
