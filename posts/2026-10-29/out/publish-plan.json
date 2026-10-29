@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-10-29",
+  "blogId": "6948585",
+  "date": "2026-10-29T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/79375033dde8db036ef9217fef760f00d5a65af4/posts/2026-10-29/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/28\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-29T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"10/28 加權指數上漲 939.35 點，收 47,035.58 點。單日漲這麼多，同一個行情區的「離季線」卻只有 741.25 點（1.6%）。\\n\\n一天漲的點數比離季線還多，看起來對不起來，其實是兩個數字的比較對象不同。漲跌是跟前一天的收盤比；離季線是跟季線比，季線又叫季均線，是最近一季交易日收盤價的平均。前者只告訴你今天比昨天高多少，後者告訴你指數現在離過去一段時間的平均水準有多遠。\\n\\n所以大漲一天之後，想知道指數站在什麼位置，與其只看漲了幾點，不如看離季線這一欄。它只描述位置，不說明這次上漲的原因，也不代表接下來的方向。\\n\\nGoogle 搜尋「玩股網 加權指數」，行情區的「離季線」每個交易日更新，旁邊還有開盤、最高、最低和昨收，可以和當天的漲跌放在一起對照。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/79375033dde8db036ef9217fef760f00d5a65af4/posts/2026-10-29/out/evidence.png",
+  "image_sha256": "3604c73eb31fd6c6a1abadefcb0ba776635a6a4890c25361e379d235ca01dc7a",
+  "plan_sha256": "e1e4eccd6123964ad55c8c921bfcade2f8235ae3ea5da02f226b6d6b8ccd5bf5",
+  "cta_mode": "search",
+  "claimed_at": "2026-10-29T00:07:31.791Z"
+}
