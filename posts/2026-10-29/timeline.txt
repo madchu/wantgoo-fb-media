@@ -1,0 +1,16 @@
+08:02:28 step0 start
+08:02:43 step0 end ok
+08:02:58 step1 dup check: no FB posts 10/29 in Metricool
+08:04:24 step3 pre-capture start index 0000
+08:04:35 step3 pre-capture end
+08:06:02 step2 topic chosen: 10/28 加權指數 離季線
+08:06:50 step3b draft done
+08:06:58 step4 gate start
+08:07:12 step4 gate end
+08:07:29 step5 start
+08:07:33 step5 end
+08:07:39 step6 start
+08:08:28 step6 created metricool:409549966
+08:08:28 step7 readback start
+08:08:31 step7 readback end
+08:08:41 step8 notify sent, office end SCHEDULED
