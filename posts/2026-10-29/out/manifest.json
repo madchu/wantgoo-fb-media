@@ -1,0 +1,93 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-10-29T00:07:11.297Z",
+  "work_item_id": "fb_daily_growth:2026-10-29",
+  "draft_sha256": "4b9e246a4a8b46ec116168fd5ce944e79a9ca33709ff9d86b49306b028779bcf",
+  "captures": {
+    "wantgoo.index.technical": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.index.technical",
+      "params": {
+        "code": "0000"
+      },
+      "work_item_id": "fb_daily_growth:2026-10-29",
+      "url": "https://www.wantgoo.com/index/0000",
+      "final_url": "https://www.wantgoo.com/index/0000",
+      "http_status": 200,
+      "captured_at": "2026-10-29T00:07:06.372Z",
+      "data_as_of": "2026-10-28",
+      "extracted": {
+        "quote": "47035.58 939.35 2.04% 開盤 46402.79 昨收 46096.23 最高 47060.46 最低 46402.79 成交量(億) 7,232.96 預估量(億) 7,233 離季線 741.25 (1.6%) 本益比 26.68 殖利率 1.58 股淨比 4.21",
+        "title": "加權指數(0000) 即時行情",
+        "ex_tsmc": "大盤扣除台積電 27798.16 737.03 2.72%"
+      },
+      "checks": [
+        {
+          "selector": "#technical-chart svg path",
+          "min": 50,
+          "actual": 464,
+          "pass": true
+        },
+        {
+          "selector": ".quotes-info",
+          "min": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "selector": "series:close",
+          "min": ">= 2026-10-28 - 4d",
+          "actual": "2026-10-28",
+          "pass": true
+        },
+        {
+          "selector": "series:candlesticks",
+          "min": ">= 2026-10-28 - 4d",
+          "actual": "2026-10-28",
+          "pass": true
+        }
+      ],
+      "stable_frames": 3,
+      "selector": "#technical-chart",
+      "title": "加權指數(0000) - 即時走勢＆技術分析 - 台股 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 470728,
+      "width": 2216,
+      "height": 1866,
+      "sha256": "3604c73eb31fd6c6a1abadefcb0ba776635a6a4890c25361e379d235ca01dc7a"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "e95188a965115f88817dc6c32c711fd3fe836aa8ab5c3391bc10ab2682f31b73",
+  "image_sha256": "3604c73eb31fd6c6a1abadefcb0ba776635a6a4890c25361e379d235ca01dc7a",
+  "effective_risk": "GREEN",
+  "live_requirements": [],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": true,
+    "profiles": [],
+    "data_claims": [
+      "10/28",
+      "939.35 點",
+      "47,035.58 點",
+      "741.25 點",
+      "1.6%"
+    ],
+    "first_party_links": [],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "search",
+    "record_sha256": "0754dfa5f45854970dab779be7ee154102758bb8fd1d21c2269e55d784b929f5"
+  }
+}

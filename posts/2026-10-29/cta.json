@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v1",
+  "pilot": "fb_growth_cta_pilot_202610",
+  "work_item_id": "fb_daily_growth:2026-10-29",
+  "lane": "fb_daily_growth",
+  "scheduled_at": "2026-10-29T09:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/index/0000",
+  "search_term": "玩股網 加權指數",
+  "cta_mode": "search",
+  "reason": "WEEK_CAP_REACHED",
+  "final_url": null,
+  "utm_campaign": null,
+  "utm_content": null
+}
