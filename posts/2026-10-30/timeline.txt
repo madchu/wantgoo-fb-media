@@ -1,0 +1,12 @@
+08:02:33 step0 start
+08:02:50 step0 end ok
+08:03:01 step1 start
+08:03:50 step1 end ok; step2 start
+08:04:15 step3 pre-capture start
+08:05:14 step3 pre-capture end; step3b write start
+08:06:05 step3b end; step4 start
+08:06:45 step4 end PASS LIVE; step5 start
+08:06:56 step5 end; step6 start
+08:07:56 step6 end created metricool 410681075; step7 start
+08:07:59 step7 end; step8 start
+08:08:07 step8 office+push done
