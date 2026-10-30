@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-10-30",
+  "blogId": "6948585",
+  "date": "2026-10-30T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/3865349229a55cc6a987f96fa06386c52d527dfc/posts/2026-10-30/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/29\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-30T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"10/29 加權指數跌 1.42%，收 46,368.33 點；同一頁的「大盤扣除台積電」跌 2.12%。把台積電拿掉，跌幅反而更大。\\n\\n大盤重挫的日子，很容易直覺以為是台積電拖下來的。這天的數字說的是另一件事：大盤扣除台積電跌得比加權指數多，在數學上只代表一件事，台積電當天的表現好過其餘股票的市值加權整體。所以這天加權指數的跌幅，是因為有台積電在裡面才比較小，而不是被它拖得更深。\\n\\n要記得的限制是，「大盤扣除台積電」一樣按市值加權，其他大型權值股的份量仍然很大。所以大盤扣除台積電跌 2.12%，只說明台積電以外的市值加權整體跌得比較深，不代表多數股票都跌了這麼多，也說明不了下跌的原因。\\n\\n想知道某天大盤的漲跌和台積電有多少關係，Google 搜尋「玩股網 加權指數」，同一頁就有「大盤扣除台積電」，每個交易日都能和加權指數放在一起對照。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/3865349229a55cc6a987f96fa06386c52d527dfc/posts/2026-10-30/out/evidence.png",
+  "image_sha256": "0b8ef9d5f3141a9b8130f80d4a89f0d621b0f10258f68c30fb10c1fbe560388e",
+  "plan_sha256": "95014c85f9ffe493c7c7eeb936a02da4f0c8b4d87f818d2de7aed915776e28a6",
+  "cta_mode": "search",
+  "claimed_at": "2026-10-30T00:06:48.514Z"
+}
