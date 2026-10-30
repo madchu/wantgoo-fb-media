@@ -1,0 +1,43 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-10-30",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-10-30T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "10/29 加權指數跌 1.42%，收 46,368.33 點；同一頁的「大盤扣除台積電」跌 2.12%。把台積電拿掉，跌幅反而更大。\n\n大盤重挫的日子，很容易直覺以為是台積電拖下來的。這天的數字說的是另一件事：大盤扣除台積電跌得比加權指數多，在數學上只代表一件事，台積電當天的表現好過其餘股票的市值加權整體。所以這天加權指數的跌幅，是因為有台積電在裡面才比較小，而不是被它拖得更深。\n\n要記得的限制是，「大盤扣除台積電」一樣按市值加權，其他大型權值股的份量仍然很大。所以大盤扣除台積電跌 2.12%，只說明台積電以外的市值加權整體跌得比較深，不代表多數股票都跌了這麼多，也說明不了下跌的原因。\n\n想知道某天大盤的漲跌和台積電有多少關係，Google 搜尋「玩股網 加權指數」，同一頁就有「大盤扣除台積電」，每個交易日都能和加權指數放在一起對照。",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/index/0000",
+   "role": "primary",
+   "data_as_of": "2026-10-29"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9844640",
+   "role": "supporting",
+   "title": "台股收盤下跌667點失守季線 台積電收低10元",
+   "published_at": "2026-10-29T13:54:24+08:00"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/6640479",
+   "role": "supporting",
+   "title": "〈台股盤後〉權值股、千金股軟腳 跌667點驚險守住46000點",
+   "published_at": "2026-10-29T15:29:00+08:00"
+  }
+ ],
+ "claims": [],
+ "sources": [
+  "https://www.wantgoo.com/index/0000",
+  "https://money.udn.com/money/story/5607/9844640",
+  "https://news.cnyes.com/news/id/6640479"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.index.technical",
+  "params": {
+   "code": "0000"
+  },
+  "selection_reason": "加權指數頁行情區同時顯示 10/29 加權指數與「大盤扣除台積電」的收盤漲跌，直接支持全文核心對照"
+ }
+}
