@@ -44,3 +44,4 @@
 {"event":"PROPOSAL_REPLIED","thread_ts":"1793340908.142759","job_id":"exp_20261030_141508_883","turn":1,"decision":"同意","option":"A","reply_ts":"1793341277.874309","at":"2026-10-30T06:21:17.914Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1793340908.142759","message_ts":"1793341213.326859","outcome":"HANDLED","reason":"回覆第 1 輪提案：同意 A（散戶多空比）","at":"2026-10-30T06:21:25.550Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1793340908.142759","message_ts":"1793341510.555749","outcome":"SKIPPED","reason":"App 文委託單交件，由 App 文 Routine 處理","at":"2026-10-30T06:26:08.993Z"}
+{"event":"NOTE_POSTED","thread_ts":"1793340908.142759","reply_ts":"1793341648.043769","key":"result:exp_20261030_141508_883","at":"2026-10-30T06:27:28.098Z"}
