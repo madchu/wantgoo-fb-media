@@ -40,3 +40,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1792995009.880929","message_ts":"1792995305.206099","outcome":"HANDLED","reason":"第 1 輪提案已回覆：同意 A（騰落線），資料用 10/22","at":"2026-10-26T06:17:23.809Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1792995009.880929","message_ts":"1792995679.898639","outcome":"SKIPPED","reason":"App 文委託單交件，由 App 文 Routine 處理","at":"2026-10-26T06:22:16.373Z"}
 {"event":"NOTE_POSTED","thread_ts":"1792995009.880929","reply_ts":"1792995911.272929","key":"result:exp_20261026_141010_827","at":"2026-10-26T06:25:11.228Z"}
+{"event":"BRIEF_POSTED","thread_ts":"1793340908.142759","work_item_id":"fb_app:2026-11-01:post","at":"2026-10-30T06:15:08.196Z"}
