@@ -42,3 +42,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1792995009.880929","reply_ts":"1792995911.272929","key":"result:exp_20261026_141010_827","at":"2026-10-26T06:25:11.228Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1793340908.142759","work_item_id":"fb_app:2026-11-01:post","at":"2026-10-30T06:15:08.196Z"}
 {"event":"PROPOSAL_REPLIED","thread_ts":"1793340908.142759","job_id":"exp_20261030_141508_883","turn":1,"decision":"同意","option":"A","reply_ts":"1793341277.874309","at":"2026-10-30T06:21:17.914Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1793340908.142759","message_ts":"1793341213.326859","outcome":"HANDLED","reason":"回覆第 1 輪提案：同意 A（散戶多空比）","at":"2026-10-30T06:21:25.550Z"}
