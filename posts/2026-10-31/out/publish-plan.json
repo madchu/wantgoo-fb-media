@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-10-31",
+  "blogId": "6948585",
+  "date": "2026-10-31T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/3074d1052f9a145834248ad5e26da04a7ca5bb8b/posts/2026-10-31/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/10/30\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-10-31T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"買 ETF 時，手續費和交易稅都看得到；持有期間的管理費和保管費，卻不會在帳戶裡留下一筆扣款紀錄。它們直接從基金淨值裡扣，你每天看到的淨值，已經是扣完的數字。\\n\\n玩股網「台股ETF管理費排行」把這筆看不到的成本攤開來比。10/30 的名單上，內扣費用（保管＋管理）最高的是 1.25%，由主動台新龍頭成長（00986A）和富邦印度（00652）並列。前十名的其餘八檔，七檔是名稱帶「正2」「反1」的槓桿反向 ETF，例如富邦上証正2（00633L）、元大滬深300反1（00638R），另一檔是富邦越南（00885）。\\n\\n正因為不會出現在對帳單上，這個數字只能自己查。比較時拿同一類型的 ETF 對照才有意義，例如同樣追蹤台股的兩檔，內扣差多少，才是你挑選時真正會碰到的差距。\\n\\n這一欄是證交所公告的保管費加管理費合計，頁面也註明內扣費用是非強制公開的資料。費用低只代表持有成本的這一部分比較少，不代表報酬會比較好。\\n\\n想查手上那檔 ETF 的內扣費用排在哪裡，Google 搜尋「玩股網 ETF 管理費排行」。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/3074d1052f9a145834248ad5e26da04a7ca5bb8b/posts/2026-10-31/out/evidence.png",
+  "image_sha256": "9cc10c3cada154719528bd449c531dd54e0e5ff9b2bdd27a5c9aeb9cb04ecd15",
+  "plan_sha256": "c65f67921371122f00bd76699d2e9ff3c3ded19696fbba5f8a670eadacdd36b0",
+  "cta_mode": "search",
+  "claimed_at": "2026-10-31T00:08:27.643Z"
+}
