@@ -1,0 +1,57 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-10-31",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-10-31T09:30:00+08:00",
+ "content_type": "RANKING",
+ "publication_risk": "GREEN",
+ "text": "買 ETF 時，手續費和交易稅都看得到；持有期間的管理費和保管費，卻不會在帳戶裡留下一筆扣款紀錄。它們直接從基金淨值裡扣，你每天看到的淨值，已經是扣完的數字。\n\n玩股網「台股ETF管理費排行」把這筆看不到的成本攤開來比。10/30 的名單上，內扣費用（保管＋管理）最高的是 1.25%，由主動台新龍頭成長（00986A）和富邦印度（00652）並列。前十名的其餘八檔，七檔是名稱帶「正2」「反1」的槓桿反向 ETF，例如富邦上証正2（00633L）、元大滬深300反1（00638R），另一檔是富邦越南（00885）。\n\n正因為不會出現在對帳單上，這個數字只能自己查。比較時拿同一類型的 ETF 對照才有意義，例如同樣追蹤台股的兩檔，內扣差多少，才是你挑選時真正會碰到的差距。\n\n這一欄是證交所公告的保管費加管理費合計，頁面也註明內扣費用是非強制公開的資料。費用低只代表持有成本的這一部分比較少，不代表報酬會比較好。\n\n想查手上那檔 ETF 的內扣費用排在哪裡，Google 搜尋「玩股網 ETF 管理費排行」。",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/etf/ranking/fee",
+   "role": "primary",
+   "data_as_of": "2026-10-30"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/5424984",
+   "role": "supporting",
+   "title": "ETF內扣費用是什麼？8大QA一次看懂常見疑問",
+   "published_at": "2024-01-05T09:49:00+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "內扣費用直接從 ETF 淨值扣除，每天看到的淨值已經扣完",
+   "source": "https://news.cnyes.com/news/id/5424984",
+   "quote": "都是已經扣除內扣費用的金額"
+  },
+  {
+   "claim": "管理費在淨值內扣除，所以叫內扣費用",
+   "source": "https://www.wantgoo.com/stock/etf/ranking/fee",
+   "quote": "是在淨值內扣除，故又稱內扣費用"
+  },
+  {
+   "claim": "排行的內扣費用欄是證交所公告的保管費加管理費合計",
+   "source": "https://www.wantgoo.com/stock/etf/ranking/fee",
+   "quote": "玩股網改採用證交所公告的保管費加管理費的合計比例為代表"
+  },
+  {
+   "claim": "內扣費用是非強制公開的資料",
+   "source": "https://www.wantgoo.com/stock/etf/ranking/fee",
+   "quote": "非強制公開的資料"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/etf/ranking/fee",
+  "https://news.cnyes.com/news/id/5424984"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.etf.ranking",
+  "params": {
+   "kind": "fee"
+  },
+  "selection_reason": "玩股網台股ETF管理費排行 10/30 前十名（代碼、名稱、內扣費用），直接支持全文核心：最高 1.25% 的兩檔與前十名以槓桿反向型為主的組成"
+ }
+}

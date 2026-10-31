@@ -1,0 +1,34 @@
+{
+  "tool": "fb-pipeline/capture@2",
+  "profile": "wantgoo.etf.ranking",
+  "params": {
+    "kind": "fee"
+  },
+  "work_item_id": "fb_daily_growth:2026-10-31",
+  "url": "https://www.wantgoo.com/stock/etf/ranking/fee",
+  "final_url": "https://www.wantgoo.com/stock/etf/ranking/fee",
+  "http_status": 200,
+  "captured_at": "2026-10-31T00:08:10.219Z",
+  "data_as_of": "2026-10-30",
+  "extracted": {
+    "title": "台股ETF管理費排行",
+    "columns": "代碼 名稱 內扣費用 (保管+管理)",
+    "top_rows": "00986A 主動台新龍頭成長 1.250 | 00652 富邦印度 1.250 | 00633L 富邦上証正2 1.220 | 00634R 富邦上証反1 1.220 | 00637L 元大滬深300正2 1.220 | 00653L 富邦印度正2 1.220 | 00654R 富邦印度反1 1.220 | 00885 富邦越南 1.220 | 00638R 元大滬深300反1 1.200 | 00640L 富邦日本正2 1.200"
+  },
+  "checks": [
+    {
+      "selector": "table.table-sequence tbody tr",
+      "min": 20,
+      "actual": 362,
+      "pass": true
+    }
+  ],
+  "stable_frames": 2,
+  "selector": "table.table-sequence",
+  "title": "台股ETF管理費排行 - ETF - 台股 | 玩股網",
+  "file": "evidence.png",
+  "bytes": 100781,
+  "width": 840,
+  "height": 938,
+  "sha256": "9cc10c3cada154719528bd449c531dd54e0e5ff9b2bdd27a5c9aeb9cb04ecd15"
+}

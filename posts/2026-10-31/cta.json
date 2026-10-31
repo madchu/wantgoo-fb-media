@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v1",
+  "pilot": "fb_growth_cta_pilot_202610",
+  "work_item_id": "fb_daily_growth:2026-10-31",
+  "lane": "fb_daily_growth",
+  "scheduled_at": "2026-10-31T09:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/stock/etf/ranking/fee",
+  "search_term": "玩股網 ETF 管理費排行",
+  "cta_mode": "search",
+  "reason": "WEEK_CAP_REACHED",
+  "final_url": null,
+  "utm_campaign": null,
+  "utm_content": null
+}
