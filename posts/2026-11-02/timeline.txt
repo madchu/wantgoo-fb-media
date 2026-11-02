@@ -1,0 +1,15 @@
+08:03:03 step0 start/end
+08:03:59 step3 pre-capture start
+08:04:11 step3 pre-capture end
+08:05:25 step2 topic/write start
+08:05:25 browser-run stop 回 971 throttling（pre 工作階段），keep_alive 120s 後自動結束
+08:05:43 step2-3b end
+08:05:52 step4 gate start
+08:06:02 step4 gate end
+08:06:10 step5 start
+08:06:10 browser-run stop 再次回 971 throttling（run 工作階段），keep_alive 120s 後自動結束
+08:06:21 step5 end
+08:06:25 step6 start
+08:07:08 step6 end; step7 start
+08:07:11 step7 end
+08:07:20 step8 notify/office end
