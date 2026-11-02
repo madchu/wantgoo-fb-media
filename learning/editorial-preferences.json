@@ -8,7 +8,8 @@
     {
       "id": "P1",
       "lanes": [
-        "fb_daily_growth"
+        "fb_daily_growth",
+        "fb_app"
       ],
       "guidance": "選題優先找同時命中兩到三項的題目：讀者一眼認得的錨點（台積電、大盤、殖利率、讀者手上的 ETF）、跟直覺相反的結果、看完會想到「那我手上的呢」。",
       "counterexample": "不為湊公式硬做，三項都沒有就照平常選最有料的題目；同類題材不代表會擴散，ETF 管理費排行就是反例。",
@@ -17,7 +18,8 @@
     {
       "id": "P2",
       "lanes": [
-        "fb_daily_growth"
+        "fb_daily_growth",
+        "fb_app"
       ],
       "guidance": "第一、二句直接丟出答案、反常結果或矛盾，背景知識放後面；功能文以讀者可能看錯、算錯、漏掉的問題當主角，再讓玩股網功能回答。",
       "counterexample": "需要先講定義才看得懂的制度題，開頭仍先用一句反常結果，定義放第二段；不寫沒有根據或誇大的反差。",
@@ -27,7 +29,8 @@
   "experiment": {
     "id": "E1",
     "lanes": [
-      "fb_daily_growth"
+      "fb_daily_growth",
+      "fb_app"
     ],
     "variable": "挑適合的題目把正文縮到平常一半多，只留反常結論、原因、一個必要限制與承接頁連結",
     "metric": "觸及",
