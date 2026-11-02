@@ -47,3 +47,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1793340908.142759","reply_ts":"1793341648.043769","key":"result:exp_20261030_141508_883","at":"2026-10-30T06:27:28.098Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1793599823.133479","work_item_id":"fb_app:2026-11-04:post","at":"2026-11-02T06:10:23.196Z"}
 {"event":"NOTE_POSTED","thread_ts":"1793609346.939979","reply_ts":"1793609419.828659","key":"human:1793609346.939979","at":"2026-11-02T08:50:19.900Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1793609346.939979","message_ts":"1793609346.939979","outcome":"HANDLED","reason":"真人要求重發 brief；說明本流程不能發 brief，需老闆決定","at":"2026-11-02T08:50:26.639Z"}
