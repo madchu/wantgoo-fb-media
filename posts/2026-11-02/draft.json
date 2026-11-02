@@ -1,0 +1,36 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-02",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-02T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "10/30 加權指數下跌 1,156.50 點，收 45,211.83 點。新聞標題寫的都是跌了多少點，看起來很重；換成同一個報價區的漲跌幅，是跌幅 2.49%。\n\n點數和百分比會給人不同的感受，是因為點數會跟著指數的高度一起放大。指數站在四萬多點時，一千多點只占兩個多百分點；同樣是一千多點，如果指數低得多，幅度就會大上好幾倍。所以拿跌點去和過去比，比到的多半是指數站得多高，而不是那一天跌得多重。\n\n比較不同日子的漲跌，用漲跌幅才是放在同一把尺上。跌幅只說明這一天跌了多少，不說明下跌的原因，也不代表接下來的方向。\n\n想把點數和漲跌幅對照著看，Google 搜尋「玩股網 加權指數」，報價區每個交易日都同時列出漲跌點數和漲跌幅。",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/index/0000",
+   "role": "primary",
+   "data_as_of": "2026-10-30"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9847061",
+   "role": "supporting",
+   "title": "台股大跌1156.5點",
+   "published_at": "2026-10-30T14:08:25+08:00"
+  }
+ ],
+ "claims": [],
+ "sources": [
+  "https://www.wantgoo.com/index/0000",
+  "https://money.udn.com/money/story/5607/9847061"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.index.technical",
+  "params": {
+   "code": "0000"
+  },
+  "selection_reason": "加權指數 10/30 報價區同時列出跌點 -1156.50 與跌幅 -2.49%，直接支持全文核心：同一天的點數與百分比對照"
+ }
+}
