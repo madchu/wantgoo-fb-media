@@ -1,0 +1,10 @@
+08:02:23 step0 start
+08:02:38 step0 end ok
+08:02:45 step1 start
+08:03:39 step1 end ok; step2 start
+08:05:39 step3b end; step4 start
+08:06:10 step4 end PASS; step5 start
+08:06:20 step5 end ok; step6 start
+08:07:15 step6 create ok id=414677404; step7 start
+08:07:22 step7 end readback ok; step8 start
+08:07:34 step8 notify sent; end SCHEDULED
