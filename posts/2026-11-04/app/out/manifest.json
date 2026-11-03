@@ -1,0 +1,139 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-03T06:09:12.898Z",
+  "work_item_id": "fb_app:2026-11-04:post",
+  "draft_sha256": "18ec4b45efb341974ea3be0ca032550f28b5b427cf5960ebf0c163018130a7ab",
+  "captures": {},
+  "explorer": {
+    "exp_20261102_165615_758": {
+      "tool": "fb-pipeline/explorer-fetch@1",
+      "channel": "C0C3Y04MPUK",
+      "thread_ts": "1793599823.133479",
+      "job_id": "exp_20261102_165615_758",
+      "fetched_at": "2026-11-03T06:09:12.890Z",
+      "status": "done",
+      "app_version": "3.4.0",
+      "logged_in": null,
+      "feature": {
+        "title": "三大法人：列表看近5日、切圖表看外資賣誰在接",
+        "member_only": false,
+        "is_new": true
+      },
+      "data_context": {
+        "captured_at": "2026-11-02T17:01:00+08:00",
+        "market_state": "盤後"
+      },
+      "screenshots": [
+        {
+          "file": "01-三大法人列表.png",
+          "order": 1,
+          "screen": "三大法人詳細頁－上市－列表模式",
+          "visible_text": [
+            "三大法人",
+            "上市",
+            "上櫃",
+            "期貨",
+            "選擇權",
+            "日期",
+            "外資",
+            "投信",
+            "自營",
+            "合計",
+            "近5日 -2,468.86 1,047.04 -983.91 -2,4（合計欄被畫面右緣切到，dump 為 -2,405.72）",
+            "11/02 -735.21 361.17 -152.88 -52（dump 為 -526.92）",
+            "10/30 -1,124.67 236.19 -513.69",
+            "10/29 -688.15 70.44 -215",
+            "10/28 159.57 143.2 21.65",
+            "10/27 -80.39 236.05 -123.99",
+            "10/22 -815.82 94.92 -273.77",
+            "10/21 22.39 127.99 -135.72",
+            "10/20 -795.4 187.59 -355.79",
+            "10/19 -767.43 241.42 -362.63",
+            "10/16 -461.47 110.48 -334.14",
+            "10/15 -3,025.55 292.83 -958.23",
+            "10/14 -200.37 160.27 -114.7",
+            "10/13 -1,652.91 246.25 -569.76"
+          ],
+          "slack_file_id": "F0CE0J6PVRU",
+          "ok": true,
+          "sha256": "35a5a3de2cfbe7bf69fcf960b1216fee318e629098a4de882e48763d0ebf65b2",
+          "bytes": 346733,
+          "width": 1206,
+          "height": 2622,
+          "slack_name": "01-三大法人列表.png"
+        },
+        {
+          "file": "02-三大法人圖表.png",
+          "order": 2,
+          "screen": "三大法人詳細頁－上市－圖表模式",
+          "visible_text": [
+            "三大法人",
+            "上市",
+            "上櫃",
+            "期貨",
+            "選擇權",
+            "加權 2026/11/02 44,920.14 ▼291.69 -0.65%",
+            "開 45,034.53 高 45,156.17 低 44,399.1",
+            "49968.92",
+            "42895.81",
+            "50688",
+            "48531",
+            "46374",
+            "44217",
+            "42061",
+            "08-06",
+            "08-28",
+            "09-21",
+            "10-16",
+            "外資買賣超(億元) -735.21",
+            "投信買賣超(億元) 361.17",
+            "自營商買賣超(億元) -152.88",
+            "法人合計買賣超(億元) -526.92"
+          ],
+          "slack_file_id": "F0CE0J65QVC",
+          "ok": true,
+          "sha256": "01f9053d315df69489628bd336d245991319189ac51ecf6f108dcae3b29e28b8",
+          "bytes": 291198,
+          "width": 1206,
+          "height": 2622,
+          "slack_name": "02-三大法人圖表.png"
+        }
+      ]
+    }
+  },
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "2227c7cc037c562ceb209c7dfd8029765a9de6e32d3780fa56231574693f4134",
+  "image_sha256": "01f9053d315df69489628bd336d245991319189ac51ecf6f108dcae3b29e28b8",
+  "effective_risk": "GREEN",
+  "live_requirements": [],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "11/02",
+      "526.92 億",
+      "361.17 億",
+      "735.21 億",
+      "361.17 億",
+      "152.88 億"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261104_post"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "68827ed7a8ece9f40e26426d84e126d80e84fda68e2e4799e3daab233540ed93"
+  }
+}

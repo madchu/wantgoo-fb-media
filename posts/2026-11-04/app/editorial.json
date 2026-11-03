@@ -1,0 +1,5 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_app:2026-11-04:post","category":"App 功能","objective":"帶動使用（三大法人圖表模式）","opening":"讀者問題：法人合計賣超容易被讀成三家一起賣","visual":"App Explorer 截圖（三大法人－上市－圖表模式）",
+ "learning":{"version":"2026-W45","decisions":[
+  {"id":"P1","adopted":true,"reason":"以讀者一眼認得的大盤與三大法人當錨點，結果和直覺相反（合計賣超但投信買超）"},
+  {"id":"P2","adopted":true,"reason":"第一句就丟出讀者可能看錯的合計數字，再讓圖表模式回答"},
+  {"id":"E1","adopted":false,"reason":"功能文需要交代切換圖表與看柱子顏色的方法，維持一般篇幅"}]}}
