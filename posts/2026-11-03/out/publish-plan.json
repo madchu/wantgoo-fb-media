@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-03",
+  "blogId": "6948585",
+  "date": "2026-11-03T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/e3f3492fc1cbd32c614379dbf11a63648de87a23/posts/2026-11-03/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/02\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-03T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"台股 ETF 裡成交最熱絡的，不是 0050。玩股網「台股ETF成交量排行」11/02 的名單上，主動中信台灣收益（00406A）五日均量 954,985.60 張，元大台灣50（0050）是 115,770.20 張。\\n\\n但這一欄比的是「幾張」，不是「多少錢」。一張是一千個受益單位，每單位價格越低，同樣一筆錢換到的張數就越多，所以低價的 ETF，成交張數天生比較容易衝高。張數多，說的是交易熱絡；它不等於資金規模最大，也不代表比較多人持有。\\n\\n排行頁的說明是，成交量看的是買賣流通性，用五日均量是為了避免單日爆量造成誤差。所以這個數字最適合拿來檢查手上那檔 ETF 好不好成交，不適合拿來挑哪一檔比較好，也不代表之後的表現。\\n\\n查手上那檔 ETF 的五日均量：\\nhttps://www.wantgoo.com/stock/etf/ranking/volume?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261103\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/e3f3492fc1cbd32c614379dbf11a63648de87a23/posts/2026-11-03/out/evidence.png",
+  "image_sha256": "c43fd2604e9acb451c163c76b29c7eff9b40ec511e9b42363143c5ca4023ed47",
+  "plan_sha256": "87a5982fcd5a05d76fc182302ff05508799fde142093b41fe8628d5bbb706c12",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-03T00:06:13.094Z"
+}
