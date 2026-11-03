@@ -1,0 +1,42 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-03",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-03T09:30:00+08:00",
+ "content_type": "RANKING",
+ "publication_risk": "GREEN",
+ "text": "台股 ETF 裡成交最熱絡的，不是 0050。玩股網「台股ETF成交量排行」11/02 的名單上，主動中信台灣收益（00406A）五日均量 954,985.60 張，元大台灣50（0050）是 115,770.20 張。\n\n但這一欄比的是「幾張」，不是「多少錢」。一張是一千個受益單位，每單位價格越低，同樣一筆錢換到的張數就越多，所以低價的 ETF，成交張數天生比較容易衝高。張數多，說的是交易熱絡；它不等於資金規模最大，也不代表比較多人持有。\n\n排行頁的說明是，成交量看的是買賣流通性，用五日均量是為了避免單日爆量造成誤差。所以這個數字最適合拿來檢查手上那檔 ETF 好不好成交，不適合拿來挑哪一檔比較好，也不代表之後的表現。\n\n查手上那檔 ETF 的五日均量：\nhttps://www.wantgoo.com/stock/etf/ranking/volume?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261103",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/etf/ranking/volume",
+   "role": "primary",
+   "data_as_of": "2026-11-02"
+  },
+  {
+   "url": "https://udn.com/news/story/123006/9846383",
+   "role": "supporting",
+   "title": "00406A日均成交63.8萬張奪冠！規模衝1265億元 11月3日除息0.138元",
+   "published_at": "2026-10-30T10:07:00+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "排行頁說明成交量代表買賣流通性，使用五日均量避免單日爆量誤差",
+   "source": "https://www.wantgoo.com/stock/etf/ranking/volume",
+   "quote": "成交量代表買賣流通性，使用五日均量，避免單日爆量有誤差值"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/etf/ranking/volume",
+  "https://udn.com/news/story/123006/9846383"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.etf.ranking",
+  "params": {
+   "kind": "volume"
+  },
+  "selection_reason": "玩股網台股ETF成交量排行 11/02 前十名（代碼、名稱、五日均量），直接支持全文核心：00406A 與 0050 的五日均量對比"
+ }
+}

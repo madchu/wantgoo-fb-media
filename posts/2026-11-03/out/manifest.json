@@ -1,0 +1,75 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-03T00:05:58.429Z",
+  "work_item_id": "fb_daily_growth:2026-11-03",
+  "draft_sha256": "fab70b0383261a5f4d5c9c1247318e6fad5c1f0411f526ba178b8f5d1dabd702",
+  "captures": {
+    "wantgoo.etf.ranking": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.etf.ranking",
+      "params": {
+        "kind": "volume"
+      },
+      "work_item_id": "fb_daily_growth:2026-11-03",
+      "url": "https://www.wantgoo.com/stock/etf/ranking/volume",
+      "final_url": "https://www.wantgoo.com/stock/etf/ranking/volume",
+      "http_status": 200,
+      "captured_at": "2026-11-03T00:05:54.975Z",
+      "data_as_of": "2026-11-02",
+      "extracted": {
+        "title": "台股ETF成交量排行",
+        "columns": "代碼 名稱 五日均量 (張)",
+        "top_rows": "00406A 主動中信台灣收益 954985.60 | 00685L 群益臺灣加權正2 333038.20 | 00631L 元大台灣50正2 210500.20 | 00981A 主動統一台股增長 222149.20 | 00403A 主動統一升級50 208720.60 | 009816 凱基台灣TOP50 140649.20 | 0050 元大台灣50 115770.20 | 00632R 元大台灣50反1 111308.60 | 00992A 主動群益科技創新 61914.40 | 009828 中信台日韓PCB 73401.40"
+      },
+      "checks": [
+        {
+          "selector": "table.table-sequence tbody tr",
+          "min": 20,
+          "actual": 362,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": "table.table-sequence",
+      "title": "台股ETF成交量排行 - ETF - 台股 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 120250,
+      "width": 840,
+      "height": 938,
+      "sha256": "c43fd2604e9acb451c163c76b29c7eff9b40ec511e9b42363143c5ca4023ed47"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "9d49bbfaac3e1a85011191ec081f83d787078fa83823c80b5e891adfe1022000",
+  "image_sha256": "c43fd2604e9acb451c163c76b29c7eff9b40ec511e9b42363143c5ca4023ed47",
+  "effective_risk": "GREEN",
+  "live_requirements": [],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "11/02",
+      "954,985.60 張",
+      "115,770.20 張"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/stock/etf/ranking/volume?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261103"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "6dec0aedffbadd746581baca610451d42a8b59268376f9d22f9b9619d801b714"
+  }
+}

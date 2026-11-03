@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-03","category":"網站實用功能","objective":"帶動網站使用","opening":"數字反差：成交最熱絡的台股 ETF 不是 0050","visual":"wantgoo.etf.ranking kind=volume",
+ "learning":{"version":"2026-W45","decisions":[{"id":"P1","adopted":true,"reason":"以讀者認得的 0050 當錨點，搭配反直覺的成交量結果，並引導查自己手上那檔"},{"id":"P2","adopted":true,"reason":"第一句直接丟出反常結果，張數與金額的定義放第二段"},{"id":"E1","adopted":false,"reason":"張數與金額的差別需要一段解釋，正文維持一般長度"}]}}
