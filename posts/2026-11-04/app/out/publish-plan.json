@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_app:2026-11-04:post",
+  "blogId": "6948585",
+  "date": "2026-11-04T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/9faa80f9814a532339850acfa97a7d4b476b7f5e/posts/2026-11-04/app/out/evidence.png\"],\"mediaAltText\":[\"玩股網 App 畫面截圖，擷取於 2026/11/02\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-04T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"以 11/02 的資料為例，三大法人頁上的法人合計賣超 526.92 億元，很容易被讀成三家法人一起在賣。但在玩股網 App 把同一頁切到圖表模式，同一天投信其實是買超 361.17 億元。\\n\\n合計是三個數字相加的結果：外資賣超 735.21 億元，投信買超 361.17 億元，自營商賣超 152.88 億元。合計是負的，只說明賣超的金額比較大，不代表每一家都在賣。\\n\\n圖表模式把加權指數的 K 線放在最上面，下面依序是外資、投信、自營商和法人合計的買賣超柱狀圖，共用同一條時間軸。紅柱是買超，綠柱是賣超。往回看最近幾週，投信的柱子大多是紅的，外資則多數日子是綠的，兩者的方向常常不一樣。\\n\\n所以看到「法人賣超」的數字時，先切到圖表，把三根柱子分開看顏色，再對照上方的指數走勢。柱狀圖只告訴你買賣超的方向和金額，說明不了法人為什麼買或賣，也不代表接下來的走勢。\\n\\nApp 裡的位置：「股市」›「台股總覽」›「三大法人」，右上角可以切換列表和圖表，列表的第一列是近五日累計。\\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261104_post\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/9faa80f9814a532339850acfa97a7d4b476b7f5e/posts/2026-11-04/app/out/evidence.png",
+  "image_sha256": "01f9053d315df69489628bd336d245991319189ac51ecf6f108dcae3b29e28b8",
+  "plan_sha256": "146aaca7a71f3a02eaff2278c0f49fa2b905a05b024038c675bdaeb9f209476a",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-03T06:09:26.457Z"
+}
