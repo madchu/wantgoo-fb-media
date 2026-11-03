@@ -1,8 +1,8 @@
 {
   "schema": "wantgoo.fb_manifest.v1",
-  "generated_at": "2026-11-03T05:42:04.081Z",
+  "generated_at": "2026-11-03T09:49:29.049Z",
   "work_item_id": "fb_promo:2026-11-03:member",
-  "draft_sha256": "a8222abe0e7a19d4a86df97ec1376099c8a727b3361004401078f9045d34a83b",
+  "draft_sha256": "04221d89f54bbaeec5c1a204ebad20a6eb5f423b117337cf581ce01f33c57774",
   "captures": {
     "wantgoo.event.advanced": {
       "tool": "fb-pipeline/capture@2",
@@ -14,7 +14,7 @@
       "url": "https://www.wantgoo.com/event/advanced",
       "final_url": "https://www.wantgoo.com/event/advanced",
       "http_status": 200,
-      "captured_at": "2026-11-03T05:42:01.899Z",
+      "captured_at": "2026-11-03T09:49:26.341Z",
       "data_as_of": "2026-11-03",
       "data_date_source": "capture",
       "extracted": {
@@ -37,7 +37,7 @@
           "pass": true
         }
       ],
-      "stable_frames": 2,
+      "stable_frames": 3,
       "selector": "#compare table.compare-table",
       "title": "進階會員｜玩股網",
       "file": "evidence.png",
@@ -62,7 +62,7 @@
     }
   ],
   "publish_target": null,
-  "approval_version": "e4bb568a65ca5663c23c8c6aed5b0d6a5773938a7ca888eaca74ffea07427d55",
+  "approval_version": "a7a2231265d7bf4623f7bd5bee9f0f7f98cd5950eb3dc41f769bd12f81965550",
   "image_sha256": "f464344ada843c6ac71c8cfa99606a1f32afb50b4fa68b573f7dd6656b649967",
   "effective_risk": "YELLOW",
   "live_requirements": [
