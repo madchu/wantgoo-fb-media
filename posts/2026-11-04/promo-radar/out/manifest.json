@@ -1,8 +1,8 @@
 {
   "schema": "wantgoo.fb_manifest.v1",
-  "generated_at": "2026-11-04T05:42:37.329Z",
+  "generated_at": "2026-11-04T05:45:19.983Z",
   "work_item_id": "fb_promo:2026-11-04:radar",
-  "draft_sha256": "529fc5d2bf4ac2ffe288397d5dbb72dc5da4fbee6fe0d80f690be6d6fa67173a",
+  "draft_sha256": "4aafcb912978065377b3c50a340473f2838a51f5e74eb75c2b4f183cb11484e0",
   "captures": {
     "wantgoo.radar.rows": {
       "tool": "fb-pipeline/capture@2",
@@ -14,7 +14,7 @@
       "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "http_status": 200,
-      "captured_at": "2026-11-04T05:42:33.740Z",
+      "captured_at": "2026-11-04T05:45:15.442Z",
       "data_as_of": "2026-11-04",
       "data_date_source": "capture",
       "extracted": {
@@ -62,7 +62,7 @@
     }
   ],
   "publish_target": null,
-  "approval_version": "f6dc1c08e979d03908a8e629c1d2ed3cdb514cb23769a6f72198e0b30eba87ed",
+  "approval_version": "addce18e1b7eb63d4d0823b37b7e1e7d2c6f9817554fe3c1643fb35f52db41f8",
   "image_sha256": "63bb8301dd726458aa631e49ca3b19e00a69a36950632ad0a1eb4aad3d38544f",
   "effective_risk": "YELLOW",
   "live_requirements": [
