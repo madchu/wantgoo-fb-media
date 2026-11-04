@@ -1,0 +1,101 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-04T05:42:37.329Z",
+  "work_item_id": "fb_promo:2026-11-04:radar",
+  "draft_sha256": "529fc5d2bf4ac2ffe288397d5dbb72dc5da4fbee6fe0d80f690be6d6fa67173a",
+  "captures": {
+    "wantgoo.radar.rows": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.radar.rows",
+      "params": {
+        "start": "31"
+      },
+      "work_item_id": "fb_promo:2026-11-04:radar",
+      "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+      "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+      "http_status": 200,
+      "captured_at": "2026-11-04T05:42:33.740Z",
+      "data_as_of": "2026-11-04",
+      "data_date_source": "capture",
+      "extracted": {
+        "title": "歷史績優股",
+        "columns": "股票 券商分點 波段漲幅",
+        "rows": "環球晶 6488 元大總公司 9887 +127.82% | 陽程 3498 元大竹科 980K +127.03% | 玉晶光 3406 美林證券 1440 +127.02% | 富鼎 8261 凱基松山 9217 +124.92% | 台星科 3265 摩根大通 8440 +119.92% | 創新服務 7828 美商高盛亞 1480 +119.34% | 漢達 6620 第一金經紀 538L +119.12% | 振發 5426 台新宜蘭 9B2U +115.49% | 柏騰 3518 康和台北 845U +114.96% | 磐亞 4707 台中銀台北 6115 +113.27%",
+        "pricing": "訂閱方案 選擇適合你的方案 享有進階會員完整權益（價值$1,990/年）＋主力券商雷達本日觀察股完整名單 年訂方案 最推薦 $3,490 ／年 平均每月約 $291，相較月訂一年省 $698 每年自動續訂，可取消下期續訂 選擇年訂方案 月訂方案 $349 ／月 適合想先使用看看的人 每月自動續訂，可取消下期續訂 選擇月訂 不想自動續訂？ 也可以選擇單次購買 $4,188／13 個月（買 12 個月送 1 個月），一次付款，不自動續訂 單次購買",
+        "rules": "資料更新 每個交易日盤後 監控門檻 單日買超 ≥ 25% 回測基準 6 個月飆股歷史 驗證方式 可回測 · 可重現"
+      },
+      "also_read": {
+        "url": "https://www.wantgoo.com/event/broker-radar",
+        "final_url": "https://www.wantgoo.com/event/broker-radar",
+        "http_status": 200
+      },
+      "checks": [
+        {
+          "selector": "#signatureWorkTable tbody tr",
+          "min": 20,
+          "actual": 59,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": "#signatureWorkTable",
+      "title": "主力券商雷達 - 績優券商 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 158950,
+      "width": 800,
+      "height": 1044,
+      "sha256": "63bb8301dd726458aa631e49ca3b19e00a69a36950632ad0a1eb4aad3d38544f"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "BLOCKED",
+  "block_class": "BLOCKED_NEEDS_APPROVAL",
+  "reasons": [
+    {
+      "code": "NEEDS_APPROVAL",
+      "message": "YELLOW post needs a recorded approval of this destination, time, text and image"
+    },
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "publish_target": null,
+  "approval_version": "f6dc1c08e979d03908a8e629c1d2ed3cdb514cb23769a6f72198e0b30eba87ed",
+  "image_sha256": "63bb8301dd726458aa631e49ca3b19e00a69a36950632ad0a1eb4aad3d38544f",
+  "effective_risk": "YELLOW",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": true,
+    "market_time": true,
+    "profiles": [
+      "wantgoo.radar.history",
+      "wantgoo.radar.rows"
+    ],
+    "data_claims": [
+      "127.82%",
+      "25%",
+      "349 元",
+      "3,490 元"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/event/broker-radar?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261104_radar"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "YELLOW"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "a7a942ec5c25696a5e915dad6feb04eba103a22f1978f3c375ff01f024a50191"
+  }
+}

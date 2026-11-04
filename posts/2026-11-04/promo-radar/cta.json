@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v2",
+  "policy": "fb_cta_direct",
+  "work_item_id": "fb_promo:2026-11-04:radar",
+  "lane": "fb_promo",
+  "scheduled_at": "2026-11-04T19:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/event/broker-radar",
+  "search_term": null,
+  "cta_mode": "direct_utm",
+  "reason": "DIRECT_DEFAULT",
+  "final_url": "https://www.wantgoo.com/event/broker-radar?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261104_radar",
+  "utm_campaign": "fb_cta_direct",
+  "utm_content": "fb_promo_20261104_radar"
+}
