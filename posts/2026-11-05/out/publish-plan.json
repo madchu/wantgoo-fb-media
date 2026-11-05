@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-05",
+  "blogId": "6948585",
+  "date": "2026-11-05T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/cd82f30e7961f86efa3640dde42e93166a686fe7/posts/2026-11-05/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/04\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-05T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"11/04 加權指數收 42,948.91 點，下跌 358.63 點，跌幅 0.83%。只看收盤像是普通的一天；但同一個報價區的最低是 41,855.82 點，最高是 43,741.54 點。\\n\\n收盤的漲跌只拿兩個點比：當天的收盤和昨收 43,307.54 點。盤中跌得多深、後來又拉回多少，都不會留在這個數字裡。所以碰到盤中大幅震盪、收盤卻跌不多的日子，想知道當天實際走了多大一段，要把最高、最低和昨收放在一起看。\\n\\n這三欄只描述當天價格的範圍，說明不了震盪的原因，也不代表接下來的方向。\\n\\n加權指數每個交易日的開盤、最高、最低和昨收，都在同一個報價區：\\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261105\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/cd82f30e7961f86efa3640dde42e93166a686fe7/posts/2026-11-05/out/evidence.png",
+  "image_sha256": "381c2c89f281ef586ad3b601033956dda6e2b68e479bd02f3019ea4bc5832d1b",
+  "plan_sha256": "5d12cf051ffa05b06ae8635b09bbc2efec830b255cb4561bf5c34451c123f1dd",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-05T00:05:02.396Z"
+}
