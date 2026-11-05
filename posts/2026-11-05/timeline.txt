@@ -1,0 +1,10 @@
+08:01:52 step0 start
+08:02:13 step0 end; step1 start
+08:02:32 step1 end (no dup, not app day, run02 OUTSIDE_RUN); step2 topic start
+08:03:46 step2 topic chosen; step3 precapture done
+08:04:30 step3b draft done; step4 gate start
+08:04:55 step4 gate PASS LIVE, negatives 0; step5 start
+08:05:09 step5 claimed pushed; step6 start
+08:05:36 step6 created id 417165623 PENDING; step7 readback start
+08:06:07 step7 readback ok SCHEDULED; step8 report
+08:06:16 step8 office end + push notification sent
