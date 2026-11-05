@@ -1,8 +1,8 @@
 {
   "schema": "wantgoo.fb_manifest.v1",
-  "generated_at": "2026-11-05T05:41:50.787Z",
+  "generated_at": "2026-11-05T05:47:22.643Z",
   "work_item_id": "fb_promo:2026-11-05:member",
-  "draft_sha256": "1430579f26dbe9e1b5ae0047a6bb284d86866eb2bd3d9a674a9e6bb8e96ad6fd",
+  "draft_sha256": "205adfcc0b7631d54119f8a5dea7e622b79e47c9dc5133b202f0af4f33f09406",
   "captures": {
     "wantgoo.event.advanced": {
       "tool": "fb-pipeline/capture@2",
@@ -14,7 +14,7 @@
       "url": "https://www.wantgoo.com/event/advanced",
       "final_url": "https://www.wantgoo.com/event/advanced",
       "http_status": 200,
-      "captured_at": "2026-11-05T05:41:49.219Z",
+      "captured_at": "2026-11-05T05:47:20.825Z",
       "data_as_of": "2026-11-05",
       "data_date_source": "capture",
       "extracted": {
@@ -62,7 +62,7 @@
     }
   ],
   "publish_target": null,
-  "approval_version": "da8fbae0db651801514fa7a30fd0fb0b0bf23c77d8d85e11a29c2eb29375d241",
+  "approval_version": "28f8292baecd776191ee6eb5934a7f643606d72d42fc2af03d6e36a4b395291a",
   "image_sha256": "133f20340551019a5d6744d8da5dc4e9fb03335f3acf15150113d09385ab0d9f",
   "effective_risk": "YELLOW",
   "live_requirements": [
