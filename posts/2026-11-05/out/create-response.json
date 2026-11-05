@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 417165623,
+    "uuid": "-6277871119007332463",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-05T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-05T08:05:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "11/04 加權指數收 42,948.91 點，下跌 358.63 點，跌幅 0.83%。只看收盤像是普通的一天；但同一個報價區的最低是 41,855.82 點，最高是 43,741.54 點。\n\n收盤的漲跌只拿兩個點比：當天的收盤和昨收 43,307.54 點。盤中跌得多深、後來又拉回多少，都不會留在這個數字裡。所以碰到盤中大幅震盪、收盤卻跌不多的日子，想知道當天實際走了多大一段，要把最高、最低和昨收放在一起看。\n\n這三欄只描述當天價格的範圍，說明不了震盪的原因，也不代表接下來的方向。\n\n加權指數每個交易日的開盤、最高、最低和昨收，都在同一個報價區：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261105",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-11001930505166596819.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
