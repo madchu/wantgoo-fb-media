@@ -1,0 +1,36 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-05",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-05T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "11/04 加權指數收 42,948.91 點，下跌 358.63 點，跌幅 0.83%。只看收盤像是普通的一天；但同一個報價區的最低是 41,855.82 點，最高是 43,741.54 點。\n\n收盤的漲跌只拿兩個點比：當天的收盤和昨收 43,307.54 點。盤中跌得多深、後來又拉回多少，都不會留在這個數字裡。所以碰到盤中大幅震盪、收盤卻跌不多的日子，想知道當天實際走了多大一段，要把最高、最低和昨收放在一起看。\n\n這三欄只描述當天價格的範圍，說明不了震盪的原因，也不代表接下來的方向。\n\n加權指數每個交易日的開盤、最高、最低和昨收，都在同一個報價區：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261105",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/index/0000",
+   "role": "primary",
+   "data_as_of": "2026-11-04"
+  },
+  {
+   "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E7%9B%A4%E4%B8%ADv%E8%BD%89-%E6%94%B6%E8%B7%8C358%E9%BB%9E-42k%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97-074600076.html",
+   "role": "supporting",
+   "title": "《台股盤後》盤中V轉、收跌358點，42K失而復得",
+   "published_at": "2026-11-04T15:46:01+08:00"
+  }
+ ],
+ "claims": [],
+ "sources": [
+  "https://www.wantgoo.com/index/0000",
+  "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E7%9B%A4%E4%B8%ADv%E8%BD%89-%E6%94%B6%E8%B7%8C358%E9%BB%9E-42k%E5%A4%B1%E8%80%8C%E5%BE%A9%E5%BE%97-074600076.html"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.index.technical",
+  "params": {
+   "code": "0000"
+  },
+  "selection_reason": "加權指數 11/04 報價區同時列出收盤、跌點、跌幅與開盤、最高、最低、昨收，直接支持全文核心：收盤漲跌看不到盤中震盪範圍"
+ }
+}
