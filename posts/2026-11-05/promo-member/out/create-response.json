@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 417353667,
+    "uuid": "-2518345637835487347",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-05T19:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-05T13:49:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "同一套選股條件，今天篩出來的名單跟上週不一樣，差在哪一個條件？要回答這個問題，得先有兩套以上的策略可以並排比。\n\n免費會員的自訂選股策略只能存 2 組。存一套主要的、再留一套對照，就滿了；想試第三種思路，只能先刪掉其中一組，之後想再拿出來比，就要憑記憶重新設定一次。\n\n研究選股比較像做實驗：一次只改一個條件，看名單怎麼變。能同時留著的版本越多，越容易看出是哪個條件在起作用。\n\n進階會員的盤中即時選股，把這部分的限制放寬：\n・自訂選股策略可以存 50 組，每個版本都留著對照\n・選股條件全開放，免費會員有限制\n・存好的策略可以一鍵刷新，盤中想重跑不用重設條件\n\n篩出來的是研究名單，不是買賣訊號，每一檔還是要自己看過。\n\n如果平常只用一兩套固定條件，免費版就夠用。想把不同版本的策略都留著比對，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\n\n看免費版跟進階會員的完整比較：\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261105_member",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-2232948861130897197.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}

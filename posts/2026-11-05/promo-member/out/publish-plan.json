@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-11-05:member",
+  "blogId": "6948585",
+  "date": "2026-11-05T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/b816aee26cb976565e8e187c28db838c98aac54a/posts/2026-11-05/promo-member/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/05\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-05T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"同一套選股條件，今天篩出來的名單跟上週不一樣，差在哪一個條件？要回答這個問題，得先有兩套以上的策略可以並排比。\\n\\n免費會員的自訂選股策略只能存 2 組。存一套主要的、再留一套對照，就滿了；想試第三種思路，只能先刪掉其中一組，之後想再拿出來比，就要憑記憶重新設定一次。\\n\\n研究選股比較像做實驗：一次只改一個條件，看名單怎麼變。能同時留著的版本越多，越容易看出是哪個條件在起作用。\\n\\n進階會員的盤中即時選股，把這部分的限制放寬：\\n・自訂選股策略可以存 50 組，每個版本都留著對照\\n・選股條件全開放，免費會員有限制\\n・存好的策略可以一鍵刷新，盤中想重跑不用重設條件\\n\\n篩出來的是研究名單，不是買賣訊號，每一檔還是要自己看過。\\n\\n如果平常只用一兩套固定條件，免費版就夠用。想把不同版本的策略都留著比對，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\\n\\n看免費版跟進階會員的完整比較：\\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261105_member\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/b816aee26cb976565e8e187c28db838c98aac54a/posts/2026-11-05/promo-member/out/evidence.png",
+  "image_sha256": "133f20340551019a5d6744d8da5dc4e9fb03335f3acf15150113d09385ab0d9f",
+  "plan_sha256": "c8dbdcddd5be98376ae5ac39fa0b04712a88f80023c3451e6b77a2ee87f4da51",
+  "version": "28f8292baecd776191ee6eb5934a7f643606d72d42fc2af03d6e36a4b395291a",
+  "thread_ts": "1793857328.795579",
+  "lock_run": "20261105T054851Z-7965",
+  "claimed_at": "2026-11-05T05:49:04.522Z"
+}

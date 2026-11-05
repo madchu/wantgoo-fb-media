@@ -1,0 +1,16 @@
+{
+  "work_item_id": "fb_promo:2026-11-05:member",
+  "read_at": "2026-11-05T05:49:55.444Z",
+  "matches": 1,
+  "status": "SCHEDULED",
+  "provider_status": "PENDING",
+  "provider_id": "metricool:417353667",
+  "public_url": null,
+  "checks": {
+    "text": true,
+    "time": true,
+    "media": true,
+    "permalink": null
+  },
+  "ok": true
+}
