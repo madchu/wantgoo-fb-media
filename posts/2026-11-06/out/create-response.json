@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 418379026,
+    "uuid": "1953753669803264117",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-06T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-06T08:07:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "11/05 台積電（2330）收 2,240 元，同一頁的「均價」是 2,254.14 元。收盤比均價低，也就是說，那天在盤中成交的買方，平均成本落在收盤價之上。\n\n均價是把當天每一筆成交，按成交張數加權平均出來的價格，可以看成當天所有買方的平均成本。收盤只是最後一刻的價格，均價才是一整天成交的重心。把兩個數字放在一起，就看得出當天的買方收盤時大致是站在成本之上，還是之下。\n\n這兩欄只描述當天成交分布在哪裡，說明不了漲跌的原因，也不代表接下來的方向。\n\n台積電每個交易日的收盤、均價和振幅，都在同一個報價區：\nhttps://www.wantgoo.com/stock/2330/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261106",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-3944599160206756116.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
