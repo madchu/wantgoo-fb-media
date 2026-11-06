@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-06","category":"投資觀念、互動與信任","objective":"帶動網站使用","opening":"數字反差","visual":"wantgoo.stock.technical code=2330",
+ "learning":{"version":"2026-W45","decisions":[{"id":"P1","adopted":true,"reason":"台積電是讀者一眼認得的錨點，看完會想查自己手上那檔的收盤和均價"},{"id":"P2","adopted":true,"reason":"第一句直接丟出收盤低於均價，定義放第二段"},{"id":"E1","adopted":false,"reason":"11/05 已做一篇短文試驗，本週不再集中；本篇照一般長度但仍精簡"}]}}

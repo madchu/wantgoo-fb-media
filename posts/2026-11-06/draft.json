@@ -1,0 +1,36 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-06",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-06T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "11/05 台積電（2330）收 2,240 元，同一頁的「均價」是 2,254.14 元。收盤比均價低，也就是說，那天在盤中成交的買方，平均成本落在收盤價之上。\n\n均價是把當天每一筆成交，按成交張數加權平均出來的價格，可以看成當天所有買方的平均成本。收盤只是最後一刻的價格，均價才是一整天成交的重心。把兩個數字放在一起，就看得出當天的買方收盤時大致是站在成本之上，還是之下。\n\n這兩欄只描述當天成交分布在哪裡，說明不了漲跌的原因，也不代表接下來的方向。\n\n台積電每個交易日的收盤、均價和振幅，都在同一個報價區：\nhttps://www.wantgoo.com/stock/2330/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261106",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/2330/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-05"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/6648369",
+   "role": "supporting",
+   "title": "〈美股盤後〉AI股大逃殺！VIX狂飆逾60% 道瓊狂瀉1800點 費半血崩逾12% 台積電ADR下殺逾10%",
+   "published_at": "2026-11-06T05:59:00+08:00"
+  }
+ ],
+ "claims": [],
+ "sources": [
+  "https://www.wantgoo.com/stock/2330/technical-chart",
+  "https://news.cnyes.com/news/id/6648369"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical",
+  "params": {
+   "code": "2330"
+  },
+  "selection_reason": "台積電 11/05 報價區同時列出收盤與均價，直接支持全文核心：收盤低於當日均價時，當天買方的平均成本在收盤之上"
+ }
+}

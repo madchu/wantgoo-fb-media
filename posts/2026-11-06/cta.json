@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v2",
+  "policy": "fb_cta_direct",
+  "work_item_id": "fb_daily_growth:2026-11-06",
+  "lane": "fb_daily_growth",
+  "scheduled_at": "2026-11-06T09:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/stock/2330/technical-chart",
+  "search_term": "玩股網 台積電 技術分析",
+  "cta_mode": "direct_utm",
+  "reason": "DIRECT_DEFAULT",
+  "final_url": "https://www.wantgoo.com/stock/2330/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261106",
+  "utm_campaign": "fb_cta_direct",
+  "utm_content": "fb_daily_growth_20261106"
+}
