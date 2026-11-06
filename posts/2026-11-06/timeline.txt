@@ -1,0 +1,14 @@
+08:02:35 step0 start/end setup ok
+08:03:03 step1 dup-check: no posts today, state clean; run02 exit=2 OUTSIDE_RUN
+08:04:09 step3 pre-capture start
+08:04:36 step3 pre-capture end
+08:05:38 step2 topic selected: 2330 均價 vs 收盤
+08:05:58 step3b draft written
+08:06:28 step4 gate start
+08:06:40 step4 gate end
+08:06:52 step5 evidence commit start
+08:06:56 step5 end
+08:07:02 step6 schedule start
+08:07:29 step6 createScheduledPost id=418379026 PENDING
+08:07:52 step7 readback done
+08:08:02 step8 notify+report
