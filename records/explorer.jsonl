@@ -51,3 +51,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1793609346.939979","reply_ts":"1793610838.415799","key":"human:1793610746.446269","at":"2026-11-02T09:13:58.480Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1793609346.939979","message_ts":"1793610746.446269","outcome":"HANDLED","reason":"真人問能否採用 App Explorer 交件；說明 11/4 委託單已交件，由 App 文流程處理","at":"2026-11-02T09:14:05.877Z"}
 {"event":"NOTE_POSTED","thread_ts":"1793599823.133479","reply_ts":"1793686217.952509","key":"result:exp_20261102_165615_758","at":"2026-11-03T06:10:18.005Z"}
+{"event":"BRIEF_POSTED","thread_ts":"1793945255.063589","work_item_id":"fb_app:2026-11-08:post","at":"2026-11-06T06:07:35.121Z"}
