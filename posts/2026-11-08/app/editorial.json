@@ -1,0 +1,5 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_app:2026-11-08:post","category":"App 功能","objective":"帶動使用（融資融券圖表模式）","opening":"讀者問題：以為融資餘額減少、維持率就會回升","visual":"App Explorer 截圖（融資融券－上市－圖表模式）",
+ "learning":{"version":"2026-W45","decisions":[
+  {"id":"P1","adopted":true,"reason":"以讀者一眼認得的大盤與融資維持率當錨點，結果和直覺相反（融資餘額減少但維持率仍下降）"},
+  {"id":"P2","adopted":true,"reason":"第一句就丟出反常結果，第二段才用算法解釋，再讓圖表模式回答怎麼分辨"},
+  {"id":"E1","adopted":true,"reason":"題目只有一個反常結論與一個算法原因，適合縮短篇幅：只留結論、原因、一個限制與下載頁連結；本週第二篇採用"}]}}

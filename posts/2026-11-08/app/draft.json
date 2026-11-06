@@ -1,0 +1,19 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_app:2026-11-08:post",
+  "lane": "fb_app",
+  "test_only": false,
+  "scheduled_at": "2026-11-08T09:30:00+08:00",
+  "content_type": "TOOL_FEATURE",
+  "publication_risk": "GREEN",
+  "evidence": [],
+  "visual": {
+    "source": "APP_EXPLORER_CAPTURE",
+    "thread_ts": "1793945255.063589",
+    "job_id": "exp_20261106_140735_538",
+    "screenshot": "01-融資融券圖表模式.png",
+    "selection_reason": "圖表模式同一畫面有 11/05 的加權指數與融資維持率、融資餘額，文中「融資減少但維持率仍往下」的對照與算法說明都在這張圖上",
+    "account_check": "NO_ACCOUNT_DETAILS"
+  },
+  "text": "融資餘額連續幾天減少，融資維持率卻沒有回升。以 11/05 的資料為例，玩股網 App 的融資融券圖表上，加權指數當天下跌 3.2%，下方的融資餘額和融資維持率兩條線一起往下走。\n\n直覺上會以為融資變少、維持率就會變好，問題出在算法：融資維持率是擔保股票的市值除以融資金額。融資減少讓分母變小，但股價下跌讓擔保品市值縮得更多，維持率還是往下。\n\n圖表模式把加權指數 K 線、融資維持率和融資餘額疊在同一條時間軸，先看指數、再看維持率，就能分辨維持率的變化主要來自股價還是融資增減。這裡是上市整體的數字，不代表任何一檔股票或個人帳戶的維持率。\n\nApp 裡的位置：「股市」上方的「融資融券」方塊，右上角可以切換圖表和列表。\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261108_post"
+}
