@@ -53,3 +53,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1793599823.133479","reply_ts":"1793686217.952509","key":"result:exp_20261102_165615_758","at":"2026-11-03T06:10:18.005Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1793945255.063589","work_item_id":"fb_app:2026-11-08:post","at":"2026-11-06T06:07:35.121Z"}
 {"event":"PROPOSAL_REPLIED","thread_ts":"1793945255.063589","job_id":"exp_20261106_140735_538","turn":1,"decision":"同意","option":"A","reply_ts":"1793945691.690329","at":"2026-11-06T06:14:51.750Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1793945255.063589","message_ts":"1793945634.109959","outcome":"HANDLED","reason":"第 1 輪提案已回覆：同意 A（融資融券圖表模式）","at":"2026-11-06T06:14:58.798Z"}
