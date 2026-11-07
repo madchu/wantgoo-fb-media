@@ -1,0 +1,36 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-07",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-07T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "11/06 加權指數收 39,701.64 點，跌 1,873.08 點，跌幅 4.51%。但在玩股網打開加權指數的日 K 線，這一天的 K 棒是紅的。\n\nK 棒的顏色不是看漲跌，而是看收盤和開盤：收盤高於開盤就是紅K。這天開盤 38,915.76 點，一開盤就比昨收 41,574.72 點低了一大截，盤中最低到 37,837.05 點，收盤時回到開盤之上，所以畫出紅K；漲跌則是拿收盤和昨收比，所以仍然是跌幅 4.51%。\n\n紅K 只說明這一天收盤比開盤高，不代表當天上漲，也說明不了接下來的方向。看 K 線時，把顏色和報價區的漲跌放在一起看，就不會把大跌的一天讀成上漲。\n\n加權指數每個交易日的開盤、昨收和日 K 線，都在同一頁：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261107",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/index/0000",
+   "role": "primary",
+   "data_as_of": "2026-11-06"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9861986",
+   "role": "supporting",
+   "title": "台股失守4萬點 收39701點 大跌4.51％ 盤中暴跌逾3700點 史上最殺",
+   "published_at": "2026-11-06T14:40:01+08:00"
+  }
+ ],
+ "claims": [],
+ "sources": [
+  "https://www.wantgoo.com/index/0000",
+  "https://money.udn.com/money/story/5607/9861986"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.index.technical",
+  "params": {
+   "code": "0000"
+  },
+  "selection_reason": "加權指數 11/06 報價區同時列出收盤、跌點、跌幅、開盤、昨收、最低，下方日 K 線最後一根是紅K，直接支持全文核心：K 棒顏色看收盤對開盤，漲跌看收盤對昨收"
+ }
+}

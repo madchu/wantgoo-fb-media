@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-07","category":"市場數據、熱門話題","objective":"帶動網站使用","opening":"數字反差：跌 4.51% 的一天 K 棒卻是紅的","visual":"wantgoo.index.technical code=0000",
+ "learning":{"version":"2026-W45","decisions":[{"id":"P1","adopted":true,"reason":"大盤是讀者一眼認得的錨點，跌 4.51% 卻是紅K 是反直覺結果"},{"id":"P2","adopted":true,"reason":"第一、二句直接丟出跌幅與紅K 的矛盾，定義放第二段"},{"id":"E1","adopted":false,"reason":"本週 E1 已用兩篇（11/05、11/08 App），兩週內一到兩篇的上限已到"}]}}
