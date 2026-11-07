@@ -1,0 +1,12 @@
+08:02:27 step0 start
+08:03:07 step0 media repo shallow-divergence fixed by deepen+ff
+08:03:18 step1 start
+08:04:04 step2 topic: precapture index
+08:05:18 step2 topic chosen: 11/06 跌4.51%卻是紅K
+08:05:55 step3b draft done; step4 gate start
+08:06:15 step4 run/negatives done
+08:06:25 step5 evidence+claim pushed
+08:06:31 step6 schedule start
+08:06:57 step6 createScheduledPost id=419543503 PENDING
+08:07:20 step7 readback done
+08:07:29 step8 notify+status done
