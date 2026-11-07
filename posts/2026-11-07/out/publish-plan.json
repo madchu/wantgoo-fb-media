@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-07",
+  "blogId": "6948585",
+  "date": "2026-11-07T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/924922a66420168e2de414230dfc2f621c8f4d26/posts/2026-11-07/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/06\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-07T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"11/06 加權指數收 39,701.64 點，跌 1,873.08 點，跌幅 4.51%。但在玩股網打開加權指數的日 K 線，這一天的 K 棒是紅的。\\n\\nK 棒的顏色不是看漲跌，而是看收盤和開盤：收盤高於開盤就是紅K。這天開盤 38,915.76 點，一開盤就比昨收 41,574.72 點低了一大截，盤中最低到 37,837.05 點，收盤時回到開盤之上，所以畫出紅K；漲跌則是拿收盤和昨收比，所以仍然是跌幅 4.51%。\\n\\n紅K 只說明這一天收盤比開盤高，不代表當天上漲，也說明不了接下來的方向。看 K 線時，把顏色和報價區的漲跌放在一起看，就不會把大跌的一天讀成上漲。\\n\\n加權指數每個交易日的開盤、昨收和日 K 線，都在同一頁：\\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261107\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/924922a66420168e2de414230dfc2f621c8f4d26/posts/2026-11-07/out/evidence.png",
+  "image_sha256": "aae2e0868ec87921b10603cfd4f84f4970957104e32dbe10ea58b76dc507e2d3",
+  "plan_sha256": "60457fe6b31d3b514f84b718c82328b17d18cc5f0b2e1597689134e253a43145",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-07T00:06:23.433Z"
+}
