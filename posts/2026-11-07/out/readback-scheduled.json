@@ -1,0 +1,16 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-07",
+  "read_at": "2026-11-07T00:07:19.260Z",
+  "matches": 1,
+  "status": "SCHEDULED",
+  "provider_status": "PENDING",
+  "provider_id": "metricool:419543503",
+  "public_url": null,
+  "checks": {
+    "text": true,
+    "time": true,
+    "media": true,
+    "permalink": null
+  },
+  "ok": true
+}

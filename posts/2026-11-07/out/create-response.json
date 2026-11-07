@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 419543503,
+    "uuid": "-9171142960407494408",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-07T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-07T08:06:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "11/06 加權指數收 39,701.64 點，跌 1,873.08 點，跌幅 4.51%。但在玩股網打開加權指數的日 K 線，這一天的 K 棒是紅的。\n\nK 棒的顏色不是看漲跌，而是看收盤和開盤：收盤高於開盤就是紅K。這天開盤 38,915.76 點，一開盤就比昨收 41,574.72 點低了一大截，盤中最低到 37,837.05 點，收盤時回到開盤之上，所以畫出紅K；漲跌則是拿收盤和昨收比，所以仍然是跌幅 4.51%。\n\n紅K 只說明這一天收盤比開盤高，不代表當天上漲，也說明不了接下來的方向。看 K 線時，把顏色和報價區的漲跌放在一起看，就不會把大跌的一天讀成上漲。\n\n加權指數每個交易日的開盤、昨收和日 K 線，都在同一頁：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261107",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-12122616091754488940.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
