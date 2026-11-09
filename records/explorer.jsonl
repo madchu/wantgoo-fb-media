@@ -58,3 +58,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1793945255.063589","reply_ts":"1793946185.089319","key":"result:exp_20261106_140735_538","at":"2026-11-06T06:23:05.147Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1794204769.152029","work_item_id":"fb_app:2026-11-11:post","at":"2026-11-09T06:12:49.256Z"}
 {"event":"PROPOSAL_REPLIED","thread_ts":"1794204769.152029","job_id":"exp_20261109_141249_612","turn":1,"decision":"同意","option":"A","reply_ts":"1794205196.918579","at":"2026-11-09T06:19:56.985Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1794204769.152029","message_ts":"1794205130.992389","outcome":"HANDLED","reason":"回第 1 輪提案：同意 A（集保分頁），示範股改 2330、第 2 張用前一週集保對照","at":"2026-11-09T06:20:04.756Z"}
