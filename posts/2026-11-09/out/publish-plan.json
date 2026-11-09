@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-09",
+  "blogId": "6948585",
+  "date": "2026-11-09T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/14e6fa1bac68c39db59156ac90150b5874de6b21/posts/2026-11-09/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/06\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-09T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"11/06 加權指數跌幅 4.51%；同一頁的「大盤扣除台積電」，跌幅是 4.53%。把台積電拿掉，這天的跌幅幾乎沒有變小。\\n\\n大盤重挫時，很多人第一個想到的是台積電。這個對照可以拿來檢查：如果某天的跌幅主要是台積電造成的，扣掉它之後，跌幅會明顯縮小。11/06 兩個數字幾乎一樣，在數學上代表台積電當天的跌幅和其餘股票的市值加權整體相當接近，所以加權指數這天的跌幅，不是台積電單獨拉下來的。\\n\\n要記得的限制是，「大盤扣除台積電」一樣按市值加權，其他大型權值股的份量仍然很大。它只說明台積電以外的市值加權整體跌了多少，不代表多數股票都跌這麼多，也說明不了下跌的原因或接下來的方向。\\n\\n今天開盤後，想看大盤的漲跌跟台積電有多少關係，同一頁就能對照：\\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261109\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/14e6fa1bac68c39db59156ac90150b5874de6b21/posts/2026-11-09/out/evidence.png",
+  "image_sha256": "a5e07f19fdff28f0d8c7d557c5b9b55f8c0b926f1eb58562bc9593074ae3b644",
+  "plan_sha256": "e26dfe0bdf448d8dd78c5ddae3e97354abc43b2b7ce3286a9d1f3cb77506c035",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-09T00:06:44.400Z"
+}
