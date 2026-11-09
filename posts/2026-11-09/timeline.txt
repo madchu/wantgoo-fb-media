@@ -1,0 +1,11 @@
+08:02:32 step0 start
+08:03:08 step0 end ok; media fast-forwarded to 7ec9972 after unshallow
+08:03:17 step1 start
+08:03:22 step1 end ok; step2 start
+08:05:10 step2 topic chosen: index vs ex-TSMC 11/06
+08:06:04 step3b draft done; step4 start
+08:06:41 step4 end PASS LIVE, negatives 0; step5 start
+08:06:52 step5 end plan ok; step6 start
+08:07:36 step6 created id=421214455 PENDING; step7 start
+08:07:43 step7 end readback SCHEDULED ok; step8
+08:07:52 step8 office end + push sent
