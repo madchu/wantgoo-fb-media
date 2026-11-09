@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-09","category":"市場數據、熱門話題","objective":"帶動網站使用","opening":"數字反差：拿掉台積電，11/06 的跌幅幾乎沒變","visual":"wantgoo.index.technical code=0000",
+ "learning":{"version":"2026-W46","decisions":[{"id":"P1","adopted":true,"reason":"上週重挫後第一個交易日，用大盤和台積電兩個熟悉錨點，改變讀者怎麼解讀這次下跌"},{"id":"P2","adopted":true,"reason":"第一句直接給兩個跌幅，第二句交付只看台積電會漏掉的事"},{"id":"E1","adopted":false,"reason":"第一週已做兩篇短版，達老闆定的兩週上限，本週一律不採用"}]}}
