@@ -1,0 +1,26 @@
+{
+  "data": {
+    "id": 421412744,
+    "uuid": "7326232933454072584",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-11T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-09T14:25:00",
+      "timezone": "Asia/Taipei"
+    },
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-13570213233142592739.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
