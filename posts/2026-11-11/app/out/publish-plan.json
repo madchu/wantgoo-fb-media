@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_app:2026-11-11:post",
+  "blogId": "6948585",
+  "date": "2026-11-11T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/c5ddbf51c590c6761e8f2d6366cda209219b8324/posts/2026-11-11/app/out/evidence.png\"],\"mediaAltText\":[\"玩股網 App 畫面截圖，擷取於 2026/11/09\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-11T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"台積電的股東人數一週就多了好幾萬人，看到這種消息，很多人會解讀成「散戶大舉湧入」。打開玩股網 App 個股頁的「集保」分頁對照，多出來的人絕大多數落在最下面「未滿一張」的零股那一列，這一列的持股比例只小幅增加；最上面千張以上的大戶，持股比例仍占全部股數的八成以上。\\n\\n會看錯，是因為把「人數」當成「股數」。集保表把股東依持股張數分成十五級，每一級有兩個欄位：持股人數算的是人，持股比例算的是股。零股族一次多了幾萬人，總人數就跳一大段，但他們手上的股數加起來占比很小；想知道籌碼往哪裡移動，持股比例的增減比人數更值得看。\\n\\n也別把單一級距的變化直接當成買賣：每一格的增減都是和前一週相比，股東持股跨過級距門檻（例如從九百多張增加到一千張以上）也會讓人數和比例跟著移動。集保是週資料，上方可以切換前幾週對照，看一段時間的方向比看單週準。這裡只示範怎麼讀這張表，不代表對任何個股的看法。\\n\\nApp 裡的位置：個股頁分頁列往右滑到「集保」，上方可以切換週次。\\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261111_post\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/c5ddbf51c590c6761e8f2d6366cda209219b8324/posts/2026-11-11/app/out/evidence.png",
+  "image_sha256": "3ead9d99f479b836da1dafd035c82e3bac10cfe91f0aa41812a6f099cfc8bfa4",
+  "plan_sha256": "0569af790143d9ba223081176198ecd020ed2db961a09cd17ad6460de715bc41",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-09T06:25:32.641Z"
+}
