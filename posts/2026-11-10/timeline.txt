@@ -1,0 +1,12 @@
+08:02:45 step0 start
+08:03:00 step0 end ok
+08:03:08 step1 start
+08:03:19 step1 end ok; step2 start
+08:04:30 step3 precapture start
+08:05:58 step3 precapture end; step3b write start
+08:07:16 step3b end; step4 gate start
+08:07:52 step4 end PASS; step5 start
+08:08:03 step5 end; step6 start
+08:08:39 step6 created id=422561562; step7 readback start
+08:08:46 step7 end readback ok; step8 start
+08:08:56 step8 office+push done
