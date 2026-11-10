@@ -1,0 +1,55 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-10",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-10T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "11/09 槓桿型 ETF 00631L 收 28.90 元，漲幅 9.89%。但同一個報價區的「離季線」還是 -20.38%：大漲一天之後，價格離過去一季的平均仍有一大段距離。\n\n會覺得對不起來，是因為很多人把槓桿型 ETF 想成「一段時間的漲跌都放大兩倍」。它追求的其實是每一天的報酬放大，每天收盤後重新調整部位。下跌的日子損失被放大，淨值變小之後，要漲回原來的位置，需要的漲幅會比跌掉的幅度更大；連跌幾天累積的距離，一天的大漲補不完。證交所的說明也寫明，這類 ETF 的倍數報酬只限於單日，每日複利下長期報酬會偏離指數的倍數表現。\n\n所以手上有 00631L，看完當天漲跌幅，再看一眼離季線，才知道價格現在站在哪裡。這一欄只描述位置，說明不了漲跌的原因，也不代表接下來的方向。\n\n00631L 每個交易日的漲跌幅和離季線，都在同一個報價區：\nhttps://www.wantgoo.com/stock/00631L/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261110",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/00631L/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-09"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/6653258",
+   "role": "supporting",
+   "title": "台股強彈1960點創歷史次高！00910飆漲11%贏過正2 重返50元大關",
+   "published_at": "2026-11-09T15:28:00+08:00"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9866959",
+   "role": "supporting",
+   "title": "國安基金穩信心　台股收漲1960點改寫史上次高漲點",
+   "published_at": "2026-11-09T15:07:42+08:00"
+  },
+  {
+   "url": "https://www.twse.com.tw/zh/products/securities/etf/products/li.html",
+   "role": "supporting",
+   "title": "槓桿型及反向型ETF - 臺灣證券交易所"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "槓桿型 ETF 的倍數報酬只限於單日，每日複利下長期報酬會偏離指數的倍數表現",
+   "source": "https://www.twse.com.tw/zh/products/securities/etf/products/li.html",
+   "quote": "追求之正、反向倍數報酬率僅限於單日，每日複利計算下，長期報酬率會偏離原型指數之正、反向倍數表現"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/00631L/technical-chart",
+  "https://www.twse.com.tw/zh/products/securities/etf/products/li.html",
+  "https://news.cnyes.com/news/id/6653258",
+  "https://money.udn.com/money/story/5607/9866959"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical",
+  "params": {
+   "code": "00631L"
+  },
+  "selection_reason": "00631L 11/09 報價區同時列出收盤、漲幅 9.89% 與離季線 -20.38%，下方日 K 線看得到前一週的下跌，直接支持全文核心：單日大漲後價格仍遠在季線下方"
+ }
+}
