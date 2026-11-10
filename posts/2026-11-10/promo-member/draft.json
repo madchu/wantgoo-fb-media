@@ -1,0 +1,25 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_promo:2026-11-10:member",
+  "lane": "fb_promo",
+  "test_only": false,
+  "scheduled_at": "2026-11-10T19:30:00+08:00",
+  "content_type": "PRODUCT_CLAIM",
+  "publication_risk": "YELLOW",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/event/advanced",
+      "role": "primary",
+      "data_as_of": "2026-11-10"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.event.advanced",
+    "params": {
+      "group": "chart"
+    },
+    "selection_reason": "進階會員 vs 免費會員比較表的個股指數線圖組（台股走勢圖均價線 有/無、台股線圖分時 K 線 全開放/有限制、即時走勢自動更新 有/無、技術線圖自動更新 有/無）與方案頁，對應本文三項功能與價格"
+  },
+  "text": "盤中看走勢圖，股價在今天的平均成交價之上還是之下？很多人想看這一條線，卻得自己在腦中估。\n\n看盤中走勢，常見的三個問題：今天買進的人平均成本在哪裡、更短週期的 K 棒長什麼樣子、畫面上的數字是不是最新的。這三件事，都跟線圖給你多少資訊有關。\n\n免費會員的台股走勢圖沒有均價線，分時 K 線有限制，走勢與技術線圖也不會自動更新。盤中想對照，就得自己換頁、重新整理。\n\n進階會員的個股指數線圖，把這幾個地方補齊：\n・台股走勢圖加上均價線，盤中一眼看出價格在均價上方還是下方\n・台股線圖分時 K 線全開放，不同週期可以切換對照\n・即時走勢和技術線圖自動更新，不用一直按重新整理\n\n線圖是整理價量資訊的工具，不是買賣訊號，每一檔還是要自己看過。\n\n如果平常只看收盤後的日線，免費版就夠用。盤中常需要看均價和分時 K 線的人，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\n\n看免費版跟進階會員的完整比較：\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261110_member"
+}
