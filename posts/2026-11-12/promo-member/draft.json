@@ -1,0 +1,25 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_promo:2026-11-12:member",
+  "lane": "fb_promo",
+  "test_only": false,
+  "scheduled_at": "2026-11-12T19:30:00+08:00",
+  "content_type": "PRODUCT_CLAIM",
+  "publication_risk": "YELLOW",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/event/advanced",
+      "role": "primary",
+      "data_as_of": "2026-11-12"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.event.advanced",
+    "params": {
+      "group": "watchlist"
+    },
+    "selection_reason": "進階會員 vs 免費會員比較表的自選庫存股票組（庫存股群組數量 5組30支/1組6支、自選股群組數量 50/10）與方案頁，對應本文兩項功能與價格"
+  },
+  "text": "自選股一多，觀察中的、手上有的、想追的族群全擠在同一個群組裡，看盤時要找一檔得往下滑半天。\n\n研究分點或追族群的人，通常不只一份名單：一份放手上的庫存，幾份照產業或題材分開，再留一份給最近想觀察的個股。分得越細，每天打開就越快對到要看的那幾檔。\n\n免費會員的自選股群組數量是 10 組，庫存股群組數量是 1 組 6 支。持股超過 6 檔，或想把不同策略的庫存分開記，很快就不夠用。\n\n進階會員把這兩個上限拉高：\n・自選股群組數量 50 組，族群、題材、觀察名單可以各自分開\n・庫存股群組數量 5 組 30 支，不同策略的持股可以分組記錄\n\n自選清單是整理研究的工具，不是買賣訊號，每一檔還是要自己看過。\n\n如果平常只追幾檔股票，免費版就夠用。名單多、想分得細的人，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\n\n看免費版跟進階會員的完整比較：\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261112_member"
+}

@@ -1,0 +1,97 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-12T05:43:07.158Z",
+  "work_item_id": "fb_promo:2026-11-12:member",
+  "draft_sha256": "c5b01bb7acbf031963c9d25a0a52a2f2572d8b607a2276838829c89d356cdccf",
+  "captures": {
+    "wantgoo.event.advanced": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.event.advanced",
+      "params": {
+        "group": "watchlist"
+      },
+      "work_item_id": "fb_promo:2026-11-12:member",
+      "url": "https://www.wantgoo.com/event/advanced",
+      "final_url": "https://www.wantgoo.com/event/advanced",
+      "http_status": 200,
+      "captured_at": "2026-11-12T05:43:05.638Z",
+      "data_as_of": "2026-11-12",
+      "data_date_source": "capture",
+      "extracted": {
+        "title": "進階會員 vs 免費會員",
+        "columns": "功能項目 進階會員 免費會員",
+        "rows": "自選庫存股票 庫存股群組數量 5組30支 1組6支 自選股群組數量 50 10",
+        "pricing": "推薦年訂 最推薦 $1,990 ／年 平均每月約 $166，一年省 $398 $199／月 月訂，可取消下期續訂 $2,388／13 個月 單次購買，不自動續訂 詳細方案與續訂方式請見下方訂閱方案。"
+      },
+      "checks": [
+        {
+          "selector": "#compare table.compare-table tbody tr",
+          "min": 20,
+          "actual": 25,
+          "pass": true
+        },
+        {
+          "selector": ".hero-plan-price",
+          "min": 1,
+          "actual": 1,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": "#compare table.compare-table",
+      "title": "進階會員｜玩股網",
+      "file": "evidence.png",
+      "bytes": 97123,
+      "width": 1440,
+      "height": 740,
+      "sha256": "e398912c4f1d5c99b4b73ef6c8cc3699c8920593867e7225f3070b04dfcfb7d3"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "BLOCKED",
+  "block_class": "BLOCKED_NEEDS_APPROVAL",
+  "reasons": [
+    {
+      "code": "NEEDS_APPROVAL",
+      "message": "YELLOW post needs a recorded approval of this destination, time, text and image"
+    },
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "publish_target": null,
+  "approval_version": "79a51dc2d4d7a8af4f2913a891d2fc5b8bc7cde289e507781b4b8b66fb119c0e",
+  "image_sha256": "e398912c4f1d5c99b4b73ef6c8cc3699c8920593867e7225f3070b04dfcfb7d3",
+  "effective_risk": "YELLOW",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": true,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "199 元",
+      "1,990 元",
+      "166 元"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261112_member"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "YELLOW"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "0f15f03443153f8623b34f978b526d2b1f45f57cc5ef7f29ec8fbf750d9d6e0e"
+  }
+}
