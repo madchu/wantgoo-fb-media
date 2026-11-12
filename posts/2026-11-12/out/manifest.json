@@ -1,0 +1,75 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-12T00:07:58.298Z",
+  "work_item_id": "fb_daily_growth:2026-11-12",
+  "draft_sha256": "b9b1363cd7f8d1903f86eddc6aa9dde4873b55e02bdec163ee4218447c5c28aa",
+  "captures": {
+    "wantgoo.etf.ranking": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.etf.ranking",
+      "params": {
+        "kind": "fund-size"
+      },
+      "work_item_id": "fb_daily_growth:2026-11-12",
+      "url": "https://www.wantgoo.com/stock/etf/ranking/fund-size",
+      "final_url": "https://www.wantgoo.com/stock/etf/ranking/fund-size",
+      "http_status": 200,
+      "captured_at": "2026-11-12T00:07:54.995Z",
+      "data_as_of": "2026-11-11",
+      "extracted": {
+        "title": "台股ETF基金規模排行",
+        "columns": "代碼 名稱 資產規模 (億)",
+        "top_rows": "0050 元大台灣50 26002.33 | 0056 元大高股息 8123.27 | 00878 國泰永續高股息 6619.55 | 00919 群益台灣精選高息 6122.07 | 006208 富邦台50 4598.34 | 00631L 元大台灣50正2 3197.32 | 00981A 主動統一台股增長 2828.55 | 00937B 群益ESG投等債20+ 2349.20 | 009816 凱基台灣TOP50 2261.45 | 0052 富邦科技 1625.70"
+      },
+      "checks": [
+        {
+          "selector": "table.table-sequence tbody tr",
+          "min": 20,
+          "actual": 364,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": "table.table-sequence",
+      "title": "台股ETF基金規模排行 - ETF - 台股 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 114997,
+      "width": 840,
+      "height": 938,
+      "sha256": "657365513038904444475953cbc3ce05e5143fd7142d10239e974a7fa71a5af9"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "81a1497ee3c5c8c0b9b71008fd2d3362549df48710ecd9ff3cf7d45f760a5f71",
+  "image_sha256": "657365513038904444475953cbc3ce05e5143fd7142d10239e974a7fa71a5af9",
+  "effective_risk": "GREEN",
+  "live_requirements": [],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "11/11",
+      "26,002.33 億",
+      "8,123.27 億"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/stock/etf/ranking/fund-size?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261112"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "31a7388bf0d1c25886da1d9d7c421b461cd063dcb996058b469a8b6f3adada3f"
+  }
+}
