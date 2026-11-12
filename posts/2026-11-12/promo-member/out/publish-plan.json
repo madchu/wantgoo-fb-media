@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-11-12:member",
+  "blogId": "6948585",
+  "date": "2026-11-12T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/12f991f635d3328edc16b6d6f815764d2a7cf457/posts/2026-11-12/promo-member/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/12\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-12T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"自選股一多，觀察中的、手上有的、想追的族群全擠在同一個群組裡，看盤時要找一檔得往下滑半天。\\n\\n研究分點或追族群的人，通常不只一份名單：一份放手上的庫存，幾份照產業或題材分開，再留一份給最近想觀察的個股。分得越細，每天打開就越快對到要看的那幾檔。\\n\\n免費會員的自選股群組數量是 10 組，庫存股群組數量是 1 組 6 支。持股超過 6 檔，或想把不同策略的庫存分開記，很快就不夠用。\\n\\n進階會員把這兩個上限拉高：\\n・自選股群組數量 50 組，族群、題材、觀察名單可以各自分開\\n・庫存股群組數量 5 組 30 支，不同策略的持股可以分組記錄\\n\\n自選清單是整理研究的工具，不是買賣訊號，每一檔還是要自己看過。\\n\\n如果平常只追幾檔股票，免費版就夠用。名單多、想分得細的人，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\\n\\n看免費版跟進階會員的完整比較：\\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261112_member\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/12f991f635d3328edc16b6d6f815764d2a7cf457/posts/2026-11-12/promo-member/out/evidence.png",
+  "image_sha256": "e398912c4f1d5c99b4b73ef6c8cc3699c8920593867e7225f3070b04dfcfb7d3",
+  "plan_sha256": "f1391261dc96e8da40a16660afa1e1c031cced851b43d249da24e9bf29a5fbd0",
+  "version": "79a51dc2d4d7a8af4f2913a891d2fc5b8bc7cde289e507781b4b8b66fb119c0e",
+  "thread_ts": "1794462200.403279",
+  "lock_run": "20261112T060526Z-1216",
+  "claimed_at": "2026-11-12T06:05:46.495Z"
+}
