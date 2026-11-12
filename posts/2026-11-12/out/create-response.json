@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 425107945,
+    "uuid": "70895583549606768",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-12T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-12T08:08:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "ETF 的規模又變大，常被讀成「又有一大筆錢湧進來」。但玩股網「台股ETF基金規模排行」頁面寫的算法是：已發行受益單位乘上每單位淨值。11/11 的名單上，元大台灣50（0050）資產規模 26,002.33 億元排第一，元大高股息（0056）8,123.27 億元排第二。\n\n照這個算法，規模變大有兩條路：一是有人申購，受益單位變多；二是手上的持股漲價，淨值變高。後者就算一筆新錢都沒有進來，規模也會跟著變大；反過來，持股下跌的日子，規模也會縮水。所以單看規模的增減，分不出是錢進來了，還是價格動了。\n\n規模說明的是這檔 ETF 管理了多少資產，不代表費用比較低，也不代表之後的報酬。它真正值得檢查的地方在另一端：頁面也提醒，規模長期過小或淨值過低的 ETF 會下市，以淨值清算給受益人。\n\n查手上那檔 ETF 的資產規模排在哪裡：\nhttps://www.wantgoo.com/stock/etf/ranking/fund-size?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261112",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-4090273545528219324.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
