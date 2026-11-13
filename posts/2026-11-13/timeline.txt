@@ -1,0 +1,12 @@
+08:02:40 step0 start
+08:02:53 step0 ok: live=true tests pass
+08:03:05 step1 metricool today: no FB post near 09:30
+08:05:10 step2 topic research; pre-capture start
+08:07:22 step2 topic chosen: 爆量大跌與成交量 (index 0000)
+08:08:11 step3b draft done, prechecks ok
+08:08:28 step4 run+negatives done
+08:08:46 step5 evidence+claim pushed
+08:08:54 step6 slot-claim done
+08:09:19 step6 createScheduledPost ok id=426384475 PENDING
+08:09:45 step7 readback done
+08:09:53 step8 office end + push notification sent
