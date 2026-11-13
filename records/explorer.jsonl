@@ -61,3 +61,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1794204769.152029","message_ts":"1794205130.992389","outcome":"HANDLED","reason":"回第 1 輪提案：同意 A（集保分頁），示範股改 2330、第 2 張用前一週集保對照","at":"2026-11-09T06:20:04.756Z"}
 {"event":"NOTE_POSTED","thread_ts":"1794204769.152029","reply_ts":"1794205576.445109","key":"result:exp_20261109_141249_612","at":"2026-11-09T06:26:16.514Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1794550102.220219","work_item_id":"fb_app:2026-11-15:post","at":"2026-11-13T06:08:22.299Z"}
+{"event":"PROPOSAL_REPLIED","thread_ts":"1794550102.220219","job_id":"exp_20261113_140822_905","turn":1,"decision":"同意","option":"A","reply_ts":"1794550437.201879","at":"2026-11-13T06:13:57.262Z"}
