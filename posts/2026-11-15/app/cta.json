@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v2",
+  "policy": "fb_cta_direct",
+  "work_item_id": "fb_app:2026-11-15:post",
+  "lane": "fb_app",
+  "scheduled_at": "2026-11-15T09:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/app",
+  "search_term": null,
+  "cta_mode": "direct_utm",
+  "reason": "DIRECT_DEFAULT",
+  "final_url": "https://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261115_post",
+  "utm_campaign": "fb_cta_direct",
+  "utm_content": "fb_app_20261115_post"
+}

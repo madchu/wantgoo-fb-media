@@ -1,0 +1,131 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-13T06:20:40.702Z",
+  "work_item_id": "fb_app:2026-11-15:post",
+  "draft_sha256": "daad040a87f2ffbdfcba9a7a4f38fd554311575c357749a6369226dce3181b6b",
+  "captures": {},
+  "explorer": {
+    "exp_20261113_140822_905": {
+      "tool": "fb-pipeline/explorer-fetch@1",
+      "channel": "C0C3Y04MPUK",
+      "thread_ts": "1794550102.220219",
+      "job_id": "exp_20261113_140822_905",
+      "fetched_at": "2026-11-13T06:20:40.688Z",
+      "status": "done",
+      "app_version": "3.4.2",
+      "logged_in": null,
+      "feature": {
+        "title": "市場多空指標：騰落線＋市場寬度，看大盤反彈有多少股票跟上",
+        "member_only": false,
+        "is_new": true
+      },
+      "data_context": {
+        "captured_at": "2026-11-13T14:15:00+08:00",
+        "market_state": "盤後"
+      },
+      "screenshots": [
+        {
+          "file": "01-市場多空-騰落線.png",
+          "order": 1,
+          "screen": "市場多空指標－騰落線分頁（所有）",
+          "visible_text": [
+            "市場多空指標",
+            "騰落線",
+            "多空頭排列",
+            "市場寬度",
+            "新高-新低",
+            "所有",
+            "上市",
+            "上櫃",
+            "加權指數 2026/11/13 43,675.12 ▲583.25 1.35%",
+            "開 43,719.75 高 44,489.48 低 43,534.12",
+            "騰落線 -215,833",
+            "49968.92",
+            "37837.05",
+            "Y 軸 51183 / 47543 / 43903 / 40263 / 36623",
+            "X 軸 09-04 / 09-30 / 10-27",
+            "淨上漲家數 963  3日上漲 56.14%  5日上漲 60.78%",
+            "1K / 501 / -245 / -991 / -1K",
+            "漲跌家數分佈 2026/11/13",
+            "上漲 1,399",
+            "漲停 69",
+            "紅K 1,026",
+            "下跌 436",
+            "跌停 4",
+            "黑K 789"
+          ],
+          "slack_file_id": "F0CHDQC2FT4",
+          "ok": true,
+          "sha256": "6eb6a392510a1b84500e4a445301c3465f2e35ec5c0da22a5e868be8e8afcfc7",
+          "bytes": 310446,
+          "width": 1206,
+          "height": 2622,
+          "slack_name": "01-市場多空-騰落線.png"
+        },
+        {
+          "file": "02-市場多空-市場寬度.png",
+          "order": 2,
+          "screen": "市場多空指標－市場寬度分頁（所有）",
+          "visible_text": [
+            "市場多空指標",
+            "騰落線",
+            "多空頭排列",
+            "市場寬度",
+            "新高-新低",
+            "所有",
+            "上市",
+            "上櫃",
+            "加權指數 2026/11/13 43,675.12 ▲583.25 1.35%",
+            "開 43,719.75 高 44,489.48 低 43,534.12",
+            "49968.92",
+            "37837.05",
+            "Y 軸 51183 / 47543 / 43903 / 40263 / 36623",
+            "X 軸 08-31 / 09-22 / 10-19 / 11-12",
+            "短期市場寬度  20日 23.18%  60日 24.11%",
+            "長期市場寬度  240日 29.83%",
+            "Y 軸 100.00 / 75.00 / 50.00 / 25.00 / 0.00"
+          ],
+          "slack_file_id": "F0CHHM28EKE",
+          "ok": true,
+          "sha256": "1e9177332ac53c4f4586f2fc07a2a5896d2fa8935c218e528268c999836ab498",
+          "bytes": 314593,
+          "width": 1206,
+          "height": 2622,
+          "slack_name": "02-市場多空-市場寬度.png"
+        }
+      ]
+    }
+  },
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "3153d0239ff4f3ac18f8b5b6c23cec996b57de38c68ba725dba0b8f27a3dd926",
+  "image_sha256": "1e9177332ac53c4f4586f2fc07a2a5896d2fa8935c218e528268c999836ab498",
+  "effective_risk": "GREEN",
+  "live_requirements": [],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "11/13",
+      "583.25 點",
+      "1.35%"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261115_post"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "3504bcb95425c531b7e98f845d72722e7154d6680f8931ce8fddba15d42936ee"
+  }
+}

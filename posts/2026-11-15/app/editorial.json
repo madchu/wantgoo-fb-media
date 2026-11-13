@@ -1,0 +1,5 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_app:2026-11-15:post","category":"App 功能","objective":"帶動使用（市場多空指標・市場寬度分頁）","opening":"數字反差：指數大漲但站上月線的股票仍是少數","visual":"App Explorer 截圖（市場多空指標・市場寬度分頁）",
+ "learning":{"version":"2026-W46","decisions":[
+  {"id":"P1","adopted":true,"reason":"用讀者最熟悉的大盤當錨點，題目會改變讀者怎麼解讀最近一天的指數反彈"},
+  {"id":"P2","adopted":true,"reason":"前兩句同時交付結果（站上月線的股票仍是少數）與只看指數會漏掉的事"},
+  {"id":"E1","adopted":false,"reason":"本週不再做短版（兩週上限已達），照一般篇幅寫"}]}}
