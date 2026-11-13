@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v2",
+  "policy": "fb_cta_direct",
+  "work_item_id": "fb_daily_growth:2026-11-13",
+  "lane": "fb_daily_growth",
+  "scheduled_at": "2026-11-13T09:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/index/0000",
+  "search_term": "玩股網 加權指數",
+  "cta_mode": "direct_utm",
+  "reason": "DIRECT_DEFAULT",
+  "final_url": "https://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261113",
+  "utm_campaign": "fb_cta_direct",
+  "utm_content": "fb_daily_growth_20261113"
+}

@@ -1,0 +1,36 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-13",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-13T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "11/12 加權指數跌 1,165.28 點、跌幅 2.63%，同一天大盤成交量 10,151.11 億元，超過一兆。大跌又爆量，很容易被讀成「這天賣的人比買的人多」。\n\n但成交量分不出哪一邊多。每一筆成交都有一個賣方和一個買方，同一筆金額既是賣掉的錢，也是買走的錢，所以這天賣方成交的金額和買方成交的金額，是同一個數字。量大，只說明這天換手的金額很大。\n\n指數下跌，反映的是成交價格比前一天低：這天收 43,091.87 點，昨收是 44,257.15 點。至於是誰在賣、為什麼賣，量和價都回答不了，也看不出接下來的方向。\n\n想把量和價放在一起看，加權指數頁的同一個報價區兩個都有：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261113",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/index/0000",
+   "role": "primary",
+   "data_as_of": "2026-11-12"
+  },
+  {
+   "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%8B%82%E6%AE%BA1165%E9%BB%9E-%E5%A4%96%E8%B3%87%E5%8D%BB%E5%81%B7%E8%B2%B710%E6%AA%94%E7%8D%B2%E5%88%A9%E9%A3%86%E8%82%A1-%E4%B8%AD%E9%BC%8E4%E5%A4%A9%E6%8E%83%E9%80%BE2%E8%90%AC%E5%BC%B5-%E5%8D%97%E4%BA%9E%E7%A7%91%E4%B9%9F%E5%85%A5%E5%88%97-225000577.html",
+   "role": "supporting",
+   "title": "台股狂殺1165點！外資卻偷買10檔獲利飆股　中鼎4天掃逾2萬張、南亞科也入列",
+   "published_at": "2026-11-12T16:50:00+08:00"
+  }
+ ],
+ "claims": [],
+ "sources": [
+  "https://www.wantgoo.com/index/0000",
+  "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%8B%82%E6%AE%BA1165%E9%BB%9E-%E5%A4%96%E8%B3%87%E5%8D%BB%E5%81%B7%E8%B2%B710%E6%AA%94%E7%8D%B2%E5%88%A9%E9%A3%86%E8%82%A1-%E4%B8%AD%E9%BC%8E4%E5%A4%A9%E6%8E%83%E9%80%BE2%E8%90%AC%E5%BC%B5-%E5%8D%97%E4%BA%9E%E7%A7%91%E4%B9%9F%E5%85%A5%E5%88%97-225000577.html"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.index.technical",
+  "params": {
+   "code": "0000"
+  },
+  "selection_reason": "加權指數頁報價區同時顯示 11/12 的跌點、跌幅、成交量(億)、收盤與昨收，直接支持全文「量和價要放在一起看」"
+ }
+}
