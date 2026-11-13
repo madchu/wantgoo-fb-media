@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_app:2026-11-15:post",
+  "blogId": "6948585",
+  "date": "2026-11-15T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/edee007adc6c3d5f9d859486206fc5d9c1a6822e/posts/2026-11-15/app/out/evidence.png\"],\"mediaAltText\":[\"玩股網 App 畫面截圖，擷取於 2026/11/13\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-15T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"以 11/13 的資料為例，加權指數那天漲 583.25 點、漲幅 1.35%，K 線已經從低點彈上來一大段。但切到玩股網 App「市場多空指標」的「市場寬度」分頁，同一天站上月線的股票仍是少數，多數股票其實還在月線之下。\\n\\n會看錯，是因為加權指數是市值加權，少數大型權值股的漲跌就占了很大比重；它說的是「市值大的股票」走到哪裡，不是多數股票走到哪裡。市場寬度算的是家數比例：在選定的範圍裡，股價高於月線、季線、年線的股票各占多少，每檔不分大小都算一票。圖上把長期那一格也列出來，站上年線的股票同樣是少數，和指數 K 線的反彈放在一起看，落差就很清楚。\\n\\n這個畫面把指數 K 線和寬度線上下對齊，正好用來分辨兩件常被混在一起的事：指數反彈，和多數股票回到均線之上。比例只描述當天有多少股票在均線之上，不代表後面會往哪個方向走。\\n\\nApp 裡的位置：股市 › 台股總覽 › 往下捲到「騰落線」，點標題進入「市場多空指標」，再切到「市場寬度」分頁；上方可以切換所有、上市、上櫃。\\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261115_post\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/edee007adc6c3d5f9d859486206fc5d9c1a6822e/posts/2026-11-15/app/out/evidence.png",
+  "image_sha256": "1e9177332ac53c4f4586f2fc07a2a5896d2fa8935c218e528268c999836ab498",
+  "plan_sha256": "40c78e5507512b1f326fd35c79bde90130f6474052224fbc44d379af2a62900a",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-13T06:21:08.682Z"
+}
