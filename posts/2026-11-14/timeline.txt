@@ -1,0 +1,15 @@
+08:02:34 step0 setup start/end
+08:02:51 step1 dup-check done: no slot conflict, no state for WID
+08:03:22 step2 topic start
+08:04:27 step2 topic end: ETF 報酬率排行 公式
+08:04:27 step3b write start
+08:05:10 step3b write end
+08:05:10 step4 gate start
+08:05:33 step4 gate end PASS
+08:05:33 step5 evidence start
+08:05:41 step5 evidence end, claimed
+08:05:41 step6 schedule start
+08:06:27 step6 schedule end: createScheduledPost id=427606863 PENDING
+08:06:27 step7 readback start
+08:06:30 step7 readback end
+08:06:38 step8 notify+report
