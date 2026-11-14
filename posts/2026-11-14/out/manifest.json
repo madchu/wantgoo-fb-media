@@ -1,0 +1,75 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-14T00:05:27.267Z",
+  "work_item_id": "fb_daily_growth:2026-11-14",
+  "draft_sha256": "99bdc48a2f111c8fb532565de7e050c4570c6806a712feec1136bba8ff837f93",
+  "captures": {
+    "wantgoo.etf.ranking": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.etf.ranking",
+      "params": {
+        "kind": "compensation"
+      },
+      "work_item_id": "fb_daily_growth:2026-11-14",
+      "url": "https://www.wantgoo.com/stock/etf/ranking/compensation",
+      "final_url": "https://www.wantgoo.com/stock/etf/ranking/compensation",
+      "http_status": 200,
+      "captured_at": "2026-11-14T00:05:23.968Z",
+      "data_as_of": "2026-11-13",
+      "extracted": {
+        "title": "台股ETF報酬率排行",
+        "columns": "代碼 名稱 年報酬率 (含息)",
+        "top_rows": "00715L 期街口布蘭特正2 210.8% | 00631L 元大台灣50正2 114.2% | 00685L 群益臺灣加權正2 113.2% | 00663L 國泰臺灣加權正2 112.2% | 00675L 富邦臺灣加權正2 110.9% | 00913 兆豐台灣晶圓製造 100.4% | 00642U 期元大S&P石油 100.3% | 00891 中信關鍵半導體 97.6% | 00735 國泰臺韓科技 96.2% | 00947 台新臺灣IC設計 95.3%"
+      },
+      "checks": [
+        {
+          "selector": "table.table-sequence tbody tr",
+          "min": 20,
+          "actual": 365,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": "table.table-sequence",
+      "title": "台股ETF報酬率排行 - ETF - 台股 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 116419,
+      "width": 840,
+      "height": 938,
+      "sha256": "3cad1cecc36beb28045a5ac17ba6c15d80dbfbd9ae89a5c7689962ef7f482fbe"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "PASS",
+  "block_class": null,
+  "reasons": [],
+  "publish_target": "LIVE",
+  "approval_version": "5e10ee7c5cb24ba5d9b5278cc05accfcfb8ea3de09b8c5264a17a3ff53fc97dd",
+  "image_sha256": "3cad1cecc36beb28045a5ac17ba6c15d80dbfbd9ae89a5c7689962ef7f482fbe",
+  "effective_risk": "GREEN",
+  "live_requirements": [],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": false,
+    "market_time": false,
+    "profiles": [],
+    "data_claims": [
+      "11/13",
+      "114.2%",
+      "11/13"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/stock/etf/ranking/compensation?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261114"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "GREEN"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "c08070d8b8a9ae1c845bc3708cf6ad914ea4eb4d0ccccdd5885016d519d7f14f"
+  }
+}

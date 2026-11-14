@@ -1,0 +1,45 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-14",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-14T09:30:00+08:00",
+ "content_type": "RANKING",
+ "publication_risk": "GREEN",
+ "text": "元大台灣50正2（00631L）在玩股網「台股ETF報酬率排行」11/13 的名單上排第二，年報酬率（含息）114.2%。但除非你剛好從一年前那一天開始持有、一路放到 11/13，這個數字都不是你帳上的報酬。\n\n排行頁寫明了算法：結束日市價減開始日市價，加上每單位配息金額，再除以開始日市價。也就是只拿一年前和資料日這兩天的市價相比，再把這段期間的配息加回去。中間這一年怎麼漲跌、你哪一天開始持有、是不是定期定額，都不在這個數字裡；頁面也註明，這個算法不考慮單筆投入、定期定額和交易成本。\n\n所以同一檔 ETF，排行上的年報酬率和自己帳上的報酬差很多，是很正常的事。資料日每天更新，近一年的起點也跟著往後移，數字和名次會一起變；它描述的是過去這一年頭尾兩天的結果，不代表之後的表現。\n\n查手上那檔 ETF 近一年的含息報酬率排在哪裡：\nhttps://www.wantgoo.com/stock/etf/ranking/compensation?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261114",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/etf/ranking/compensation",
+   "role": "primary",
+   "data_as_of": "2026-11-13"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "年報酬率的算法是結束日市價減開始日市價加每單位配息金額，再除以開始日市價",
+   "source": "https://www.wantgoo.com/stock/etf/ranking/compensation",
+   "quote": "公式：(結束日市價-開始日市價+每單位配息金額)/開始日市價*100%"
+  },
+  {
+   "claim": "近一年含息報酬率以市價漲跌加上配息計算",
+   "source": "https://www.wantgoo.com/stock/etf/ranking/compensation",
+   "quote": "近一年含息報酬率單純以市價漲跌包含配息做計算"
+  },
+  {
+   "claim": "算法不考慮單筆投入、定期定額和交易成本",
+   "source": "https://www.wantgoo.com/stock/etf/ranking/compensation",
+   "quote": "不考慮單筆投入、定期定額、交易成本等情況"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/etf/ranking/compensation"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.etf.ranking",
+  "params": {
+   "kind": "compensation"
+  },
+  "selection_reason": "玩股網台股ETF報酬率排行 11/13 前十名（代碼、名稱、年報酬率含息），直接支持 00631L 的年報酬率與名次，承接頁就是這一頁"
+ }
+}
