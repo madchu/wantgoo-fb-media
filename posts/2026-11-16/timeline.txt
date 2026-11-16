@@ -1,0 +1,7 @@
+2026-11-16 08:02:09 step0 start
+2026-11-16 08:02:28 step0 done: tests ok, live true
+2026-11-16 08:02:40 step1 dup check: none today
+2026-11-16 08:04:19 step2 topic: 00878 除息/配息組成, run02 OUTSIDE_RUN
+2026-11-16 08:04:19 step3 pre-capture start
+2026-11-16 08:04:53 step3 pre-capture UNSTABLE, retry
+2026-11-16 08:07:24 step3 pre-capture UNSTABLE x2 (00878); diag 0056/2330 UNSTABLE, 0000 ok -> BLOCKED (no topic switch)
