@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_app:2026-11-18:post",
+  "blogId": "6948585",
+  "date": "2026-11-18T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/452f9f56611a71183dd5026cc09ef6a7ae6529c9/posts/2026-11-18/app/out/evidence.png\"],\"mediaAltText\":[\"玩股網 App 畫面截圖，擷取於 2026/11/16\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-18T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"常聽到「ETF 都在買台積電」，那到底買了多少？打開玩股網 App 台積電的「相關ETF」分頁，答案有點反直覺：持有它的 ETF 有好幾十檔、合計上百萬張，但加起來只占台積電總股數的個位數百分比。\\n\\n會覺得很多，是因為我們習慣看檔數和金額。這個分頁把同一件事拆成四張卡：ETF總檔數、總持股數、總持股市值、佔個股總比重。前三張回答「有幾檔 ETF、抱了多少」，最後一張才回答「在這家公司的股份裡占多大」。檔數多、金額大，不等於占比高，要把四張卡放在一起看。\\n\\n另一個容易混淆的地方是總持股市值：它是持有張數用股價換算出來的金額，股價大跌那幾天，這張卡會跟著變小，持有的張數不一定有變。想知道 ETF 實際持有的份量，先看張數和比重；下方列表列出每檔 ETF 是主動還是被動、成交價和漲幅，右側「＋」可以直接加入自選。\\n\\nApp 裡的位置：股市 › 搜尋個股（例如台積電）› 個股詳細頁 › 分頁列往右滑，點「相關ETF」。\\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261118_post\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/452f9f56611a71183dd5026cc09ef6a7ae6529c9/posts/2026-11-18/app/out/evidence.png",
+  "image_sha256": "cfb1a4577f986f0eede1c43eaa18548975f2ede34c1fc0157da4a483bf737c58",
+  "plan_sha256": "572746b4cc112e79cf0d66b651950d2a6bd660910a4e5c85c1d4b89d5635378c",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-16T06:22:31.359Z"
+}
