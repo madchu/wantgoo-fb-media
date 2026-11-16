@@ -1,0 +1,109 @@
+{
+  "schema": "wantgoo.fb_manifest.v1",
+  "generated_at": "2026-11-16T05:42:19.385Z",
+  "work_item_id": "fb_promo:2026-11-16:radar",
+  "draft_sha256": "36d1b94648e95d879d22b95524c548359707820a8a926f3e1e70ab8d88e61bce",
+  "captures": {
+    "wantgoo.radar.watch": {
+      "tool": "fb-pipeline/capture@2",
+      "profile": "wantgoo.radar.watch",
+      "work_item_id": "fb_promo:2026-11-16:radar",
+      "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+      "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+      "http_status": 200,
+      "captured_at": "2026-11-16T05:42:15.687Z",
+      "data_as_of": "2026-11-16",
+      "shown_date": "2026-11-06",
+      "data_date_source": "capture",
+      "extracted": {
+        "title": "11/06 觀察股",
+        "columns": "股票 券商分點 買超 買超比 成交量",
+        "rows": "昇銳 3128 凱基台北 9268 +85 25.45% 334",
+        "gate": "免費會員看的是 11-06 的觀察股，訂閱主力券商雷達就能看每天最新的完整名單「還有 18 檔」",
+        "pricing": "訂閱方案 選擇適合你的方案 享有進階會員完整權益（價值$1,990/年）＋主力券商雷達本日觀察股完整名單 年訂方案 最推薦 $3,490 ／年 平均每月約 $291，相較月訂一年省 $698 每年自動續訂，可取消下期續訂 選擇年訂方案 月訂方案 $349 ／月 適合想先使用看看的人 每月自動續訂，可取消下期續訂 選擇月訂 不想自動續訂？ 也可以選擇單次購買 $4,188／13 個月（買 12 個月送 1 個月），一次付款，不自動續訂 單次購買",
+        "rules": "資料更新 每個交易日盤後 監控門檻 單日買超 ≥ 25% 回測基準 6 個月飆股歷史 驗證方式 可回測 · 可重現"
+      },
+      "also_read": {
+        "url": "https://www.wantgoo.com/event/broker-radar",
+        "final_url": "https://www.wantgoo.com/event/broker-radar",
+        "http_status": 200
+      },
+      "checks": [
+        {
+          "selector": "#screeningResultTable tbody tr",
+          "min": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "selector": ".today-watchlist .gate-block__text",
+          "min": 1,
+          "actual": 1,
+          "pass": true
+        }
+      ],
+      "stable_frames": 2,
+      "selector": ".today-watchlist",
+      "title": "主力券商雷達 - 績優券商 | 玩股網",
+      "file": "evidence.png",
+      "bytes": 78374,
+      "width": 800,
+      "height": 588,
+      "sha256": "6ee32627f1ddf11e7e5b106236e80381178ae5a40bd5ec564b2ec0ed8e4fa3fa"
+    }
+  },
+  "explorer": {},
+  "capture_failures": [],
+  "decision": "BLOCKED",
+  "block_class": "BLOCKED_NEEDS_APPROVAL",
+  "reasons": [
+    {
+      "code": "NEEDS_APPROVAL",
+      "message": "YELLOW post needs a recorded approval of this destination, time, text and image"
+    },
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "publish_target": null,
+  "approval_version": "dfd267b7a6e4d0754a04fe38d0dfe5295aab5078e56013f203d2f21bb89cdf22",
+  "image_sha256": "6ee32627f1ddf11e7e5b106236e80381178ae5a40bd5ec564b2ec0ed8e4fa3fa",
+  "effective_risk": "YELLOW",
+  "live_requirements": [
+    {
+      "code": "LIVE_NOT_ENABLED",
+      "message": "no trusted publisher in this version; only DRY_RUN"
+    }
+  ],
+  "classification": {
+    "site_data": true,
+    "evidence_type": true,
+    "brand_mention": true,
+    "commercial": true,
+    "market_time": true,
+    "profiles": [
+      "wantgoo.radar.history",
+      "wantgoo.radar.rows",
+      "wantgoo.radar.watch"
+    ],
+    "data_claims": [
+      "11/06",
+      "85 張",
+      "25.45%",
+      "25%",
+      "349 元",
+      "3,490 元"
+    ],
+    "first_party_links": [
+      "https://www.wantgoo.com/event/broker-radar?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261116_radar"
+    ],
+    "unknown_link_hosts": [],
+    "risk_floor": "YELLOW"
+  },
+  "cta": {
+    "required": true,
+    "cta_mode": "direct_utm",
+    "record_sha256": "775cf0063815fe768cf7ce9161bfa1750d6fc00e6474b01b20e2e766514b141e"
+  }
+}
