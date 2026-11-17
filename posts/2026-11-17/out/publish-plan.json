@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-17",
+  "blogId": "6948585",
+  "date": "2026-11-17T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/14e399578e401210c31c53226aef8a7bf174c3ad/posts/2026-11-17/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/16\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-17T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"11/16 加權指數跌 2,635.04 點，新聞標題寫的是「收盤第二大跌點」。但要拿這天和過去的大跌比，或拿來對照自己手上那一檔，該看的是報價區旁邊那個數字：跌幅 6.03%。\\n\\n跌點排名有個先天偏差：指數越高，同樣的跌幅換算出來的點數就越大。這天的昨收是 43,675.12 點，同樣跌一個百分比，換算的點數比指數還在低檔的年代多得多，跌點紀錄自然更容易被刷新。點數有多嚇人，有一部分只是反映指數本身已經漲得很高；跌幅才是不同時期能放在一起比的尺。\\n\\n同一頁還有「大盤扣除台積電」，11/16 跌 1,628.88 點、跌幅 6.51%。手上不是台積電的人，可以拿自己那一檔的跌幅和這兩個百分比對照，而不是和跌點比。\\n\\n加權指數和大盤扣除台積電的跌幅，都在這一頁的報價區：\\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261117\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/14e399578e401210c31c53226aef8a7bf174c3ad/posts/2026-11-17/out/evidence.png",
+  "image_sha256": "d41caec685b5ae33e4a65564f71e71a39259f0adc98e32b712f7965965e283b7",
+  "plan_sha256": "98bee163611ab85537fe1486d26fd49744446c6e90d809ec97b41a9c11db47b5",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-17T00:06:33.034Z"
+}

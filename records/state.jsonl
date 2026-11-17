@@ -109,3 +109,4 @@
 {"work_item_id":"fb_promo:2026-11-16:radar","event":"READBACK_FOUND","status":"SCHEDULED","provider_id":"metricool:429616396","public_url":null,"at":"2026-11-16T05:44:44.117Z"}
 {"work_item_id":"fb_app:2026-11-18:post","event":"ATTEMPT_STARTED","at":"2026-11-16T06:22:31.359Z"}
 {"work_item_id":"fb_app:2026-11-18:post","event":"READBACK_FOUND","status":"SCHEDULED","provider_id":"metricool:429638973","public_url":null,"at":"2026-11-16T06:23:06.233Z"}
+{"work_item_id":"fb_daily_growth:2026-11-17","event":"ATTEMPT_STARTED","at":"2026-11-17T00:06:33.034Z"}
