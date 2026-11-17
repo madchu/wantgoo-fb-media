@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 430836497,
+    "uuid": "-3526797292600541045",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-17T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-17T08:06:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "11/16 加權指數跌 2,635.04 點，新聞標題寫的是「收盤第二大跌點」。但要拿這天和過去的大跌比，或拿來對照自己手上那一檔，該看的是報價區旁邊那個數字：跌幅 6.03%。\n\n跌點排名有個先天偏差：指數越高，同樣的跌幅換算出來的點數就越大。這天的昨收是 43,675.12 點，同樣跌一個百分比，換算的點數比指數還在低檔的年代多得多，跌點紀錄自然更容易被刷新。點數有多嚇人，有一部分只是反映指數本身已經漲得很高；跌幅才是不同時期能放在一起比的尺。\n\n同一頁還有「大盤扣除台積電」，11/16 跌 1,628.88 點、跌幅 6.51%。手上不是台積電的人，可以拿自己那一檔的跌幅和這兩個百分比對照，而不是和跌點比。\n\n加權指數和大盤扣除台積電的跌幅，都在這一頁的報價區：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261117",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-17956873517918425346.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
