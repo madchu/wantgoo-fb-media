@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-17","category":"市場數據、熱門話題","objective":"帶動網站使用","opening":"數字反差：跌 2,635.04 點是收盤第二大跌點，但比較要看跌幅 6.03%","visual":"wantgoo.index.technical code=0000",
+ "learning":{"version":"2026-W47","decisions":[{"id":"P1","adopted":true,"reason":"扣住持有人眼前的大跌，請讀者拿自己那一檔的跌幅對照頁面上的兩個百分比；承接頁仍是大盤頁，因為當天核心數字都在這裡"},{"id":"P2","adopted":true,"reason":"前兩句同時交付跌點紀錄與「只看跌點會漏掉什麼」"}]}}

@@ -1,0 +1,42 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-17",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-17T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "11/16 加權指數跌 2,635.04 點，新聞標題寫的是「收盤第二大跌點」。但要拿這天和過去的大跌比，或拿來對照自己手上那一檔，該看的是報價區旁邊那個數字：跌幅 6.03%。\n\n跌點排名有個先天偏差：指數越高，同樣的跌幅換算出來的點數就越大。這天的昨收是 43,675.12 點，同樣跌一個百分比，換算的點數比指數還在低檔的年代多得多，跌點紀錄自然更容易被刷新。點數有多嚇人，有一部分只是反映指數本身已經漲得很高；跌幅才是不同時期能放在一起比的尺。\n\n同一頁還有「大盤扣除台積電」，11/16 跌 1,628.88 點、跌幅 6.51%。手上不是台積電的人，可以拿自己那一檔的跌幅和這兩個百分比對照，而不是和跌點比。\n\n加權指數和大盤扣除台積電的跌幅，都在這一頁的報價區：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261117",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/index/0000",
+   "role": "primary",
+   "data_as_of": "2026-11-16"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9881690",
+   "role": "supporting",
+   "title": "台股重挫2635點寫史上第2大跌點 台積電跌135元",
+   "published_at": "2026-11-16T14:06:36+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "11/16 加權指數跌點為收盤第二大跌點",
+   "source": "https://money.udn.com/money/story/5607/9881690",
+   "quote": "為收盤第2大跌點"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/index/0000",
+  "https://money.udn.com/money/story/5607/9881690"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.index.technical",
+  "params": {
+   "code": "0000"
+  },
+  "selection_reason": "加權指數頁報價區同時顯示 11/16 的跌點、跌幅與昨收，以及大盤扣除台積電的跌幅，直接支持「比較要看跌幅」"
+ }
+}
