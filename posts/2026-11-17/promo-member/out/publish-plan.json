@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-11-17:member",
+  "blogId": "6948585",
+  "date": "2026-11-17T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/986b28c2b8749b2d4d2501c0ebca7af8700590c0/posts/2026-11-17/promo-member/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/17\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-17T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"看籌碼的人大概都有過這種時候：想知道一檔股票是誰在買，點開券商買賣超，名單只到第 5 家就停了，統計區間也只能拉到近一月。\\n\\n研究分點，需要的其實是三件事：\\n\\n・完整的名單：前幾名常是成交量本來就大的券商。進階會員的券商買賣超公布家數全開放，不只看到前 5 家，買超、賣超的分點都能攤開來比。\\n・夠長的期間：一個月的資料，容易被幾天的短線進出帶著走。進階會員的統計區間可以拉到近一年，看較長期間的累計買賣超。\\n・自己的大戶標準：多少張才算大戶，每個人想法不同。進階會員的股權分散可以自訂持股數，用自己的門檻切出大戶持股。\\n\\n這些工具是幫你把籌碼資料整理完整，不是買賣訊號，判斷還是要自己做。\\n\\n只想看前幾名，免費版就夠用；想把分點名單和期間都看完整，進階會員月訂 199 元，年訂 1,990 元，平均每月約 166 元。\\n\\n看免費會員和進階會員的完整比較：\\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261117_member\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/986b28c2b8749b2d4d2501c0ebca7af8700590c0/posts/2026-11-17/promo-member/out/evidence.png",
+  "image_sha256": "f464344ada843c6ac71c8cfa99606a1f32afb50b4fa68b573f7dd6656b649967",
+  "plan_sha256": "2ee3a45aacf967a8ad4a0db10f9800c6150ae5be3c8fa7fdd4363ff7d7292d12",
+  "version": "84e4b7a648645d07bc169624e28477ace57c4adb7f3ae58040894d938a9d1f6d",
+  "thread_ts": "1794894125.195299",
+  "lock_run": "20261117T065504Z-18109",
+  "claimed_at": "2026-11-17T06:55:15.627Z"
+}
