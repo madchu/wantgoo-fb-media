@@ -1,0 +1,25 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_promo:2026-11-17:member",
+ "lane": "fb_promo",
+ "test_only": false,
+ "scheduled_at": "2026-11-17T19:30:00+08:00",
+ "content_type": "PRODUCT_CLAIM",
+ "publication_risk": "YELLOW",
+ "text": "看籌碼的人大概都有過這種時候：想知道一檔股票是誰在買，點開券商買賣超，名單只到第 5 家就停了，統計區間也只能拉到近一月。\n\n研究分點，需要的其實是三件事：\n\n・完整的名單：前幾名常是成交量本來就大的券商。進階會員的券商買賣超公布家數全開放，不只看到前 5 家，買超、賣超的分點都能攤開來比。\n・夠長的期間：一個月的資料，容易被幾天的短線進出帶著走。進階會員的統計區間可以拉到近一年，看較長期間的累計買賣超。\n・自己的大戶標準：多少張才算大戶，每個人想法不同。進階會員的股權分散可以自訂持股數，用自己的門檻切出大戶持股。\n\n這些工具是幫你把籌碼資料整理完整，不是買賣訊號，判斷還是要自己做。\n\n只想看前幾名，免費版就夠用；想把分點名單和期間都看完整，進階會員月訂 199 元，年訂 1,990 元，平均每月約 166 元。\n\n看免費會員和進階會員的完整比較：\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261117_member",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/event/advanced",
+   "role": "primary",
+   "data_as_of": "2026-11-17"
+  }
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.event.advanced",
+  "params": {
+   "group": "chip"
+  },
+  "selection_reason": "進階會員 vs 免費會員比較表的個股主力籌碼組（券商買賣超統計區間 近一年/近一月、券商買賣超公布家數 全開放/5 家、股權分散自訂持股數 有/無）與方案頁價格，對應本文三項功能與價格"
+ }
+}
