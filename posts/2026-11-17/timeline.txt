@@ -1,0 +1,13 @@
+08:02:25 step0 start
+08:02:37 step0 end ok
+08:02:44 step1 start
+08:03:29 step2 topic; pre-capture index 0000
+08:05:12 topic selected; cta-plan
+08:05:55 step3b draft done
+08:06:07 step4 run start
+08:06:17 step4 run end
+08:06:25 step5 start
+08:06:38 step5 end claimed pushed
+08:07:17 step6 created id=430836497
+08:07:45 step7 readback ok SCHEDULED
+08:07:55 step8 notify+status done
