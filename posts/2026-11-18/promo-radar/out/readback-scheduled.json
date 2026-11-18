@@ -1,0 +1,16 @@
+{
+  "work_item_id": "fb_promo:2026-11-18:radar",
+  "read_at": "2026-11-18T05:54:40.276Z",
+  "matches": 1,
+  "status": "SCHEDULED",
+  "provider_status": "PENDING",
+  "provider_id": "metricool:432415340",
+  "public_url": null,
+  "checks": {
+    "text": true,
+    "time": true,
+    "media": true,
+    "permalink": null
+  },
+  "ok": true
+}

@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-11-18:radar",
+  "blogId": "6948585",
+  "date": "2026-11-18T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/46fae618b0c001674859e31c000af3bc9e44b45c/posts/2026-11-18/promo-radar/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/18\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-18T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"11/10 的觀察股是新鼎（5209）：奔亞鑫豐一天買超 96 張，買超比 28.15%。這是主力券商雷達免費版看得到的那一檔，後面還有 15 檔，只有訂閱才看得到完整名單。\\n\\n股價漲完再回頭翻，誰買在前面一查就知道；難的是在起漲之前，就知道該盯哪幾個分點。\\n\\n主力券商雷達的做法是把順序反過來：先拿過去 6 個月的飆股歷史回測，找出在起漲前後明顯買超、而且在不同強勢股反覆出現的分點，再每個交易日盤後追蹤這批分點的最新買超。單日買超達到 25% 的監控門檻，就列進觀察名單。\\n\\n名單選出來，不等於馬上買。先看那個分點接下來幾天的買賣超，是在持續吃貨，還是已經在出貨；進場前也先想好停損放在哪裡。\\n\\n這是幫你縮小研究範圍的研究名單，不是買賣訊號，每一檔還是要自己看過。免費版只看得到過去某一天的一檔，訂閱看的是每天盤後最新的完整名單。\\n\\n主力券商雷達：月訂 349 元，年訂 3,490 元，訂閱同時享有進階會員的完整權益。\\n\\n看方案與功能說明：\\nhttps://www.wantgoo.com/event/broker-radar?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261118_radar\\n\\n以上為歷史紀錄與功能說明，不構成投資建議。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/46fae618b0c001674859e31c000af3bc9e44b45c/posts/2026-11-18/promo-radar/out/evidence.png",
+  "image_sha256": "570a2f19fef145bdf4a4ada310cb4c25cff262d752d6e9a32c1d97ae9eb667ee",
+  "plan_sha256": "ac88b0529e07be152ffac018a7dd3f5e380d3a4dd5251baedcb7b36730286f0b",
+  "version": "bd93f10842cda2d835ff634fb8d74227431933418cee42a9f69d8b72b1f6b3b2",
+  "thread_ts": "1794980526.136459",
+  "lock_run": "20261118T055342Z-22691",
+  "claimed_at": "2026-11-18T05:53:56.930Z"
+}
