@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-19","category":"投資觀念、互動與信任","objective":"帶動網站使用","opening":"讀者問題：法說會談的殖利率，是不是用我的成本算的","visual":"wantgoo.stock.technical code=2884",
+ "learning":{"version":"2026-W47","decisions":[{"id":"P1","adopted":true,"reason":"玉山金是存股讀者常持有的個股，扣住法說會後持有人在意的股利，CTA 請讀者換成自己的代號查"},{"id":"P2","adopted":true,"reason":"前兩句交付當日結果與持有人的問題，定義放第二段"}]}}

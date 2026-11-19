@@ -1,0 +1,49 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-19",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-19T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "玉山金（2884）11/18 收 42.15 元，跌幅 9.65%。前一天的法說會談到現金殖利率，手上有玉山金的人最想知道的是：公司說的殖利率，是用我的成本算的嗎？\n\n不是。董事長在法說會上說，計算基準採「全年平均股價」，不會刻意挑最高價或最低價。公司說的殖利率，分母是一整年的平均股價；你自己的殖利率，分母是你的持有成本。同一筆現金股利，成本比全年平均高的人，算出來就會比公司說的低。\n\n所以看到股利新聞，先換成自己那一筆：用公司宣布的現金股利除以你的持有成本，才是你實際的殖利率。光是 11/18 這一天，股價就從昨收 46.65 元到最低 42.00 元，同一檔股票，不同時間持有的人，成本可以差很多。\n\n玉山金的報價都在這一頁，手上是別檔，換成自己的代號就能查：\nhttps://www.wantgoo.com/stock/2884/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261119",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/2884/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-18"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/6664978",
+   "role": "supporting",
+   "title": "〈玉山金法說〉黃男州誇三商壽「好媳婦旺夫家」明年股利只增不減、現金殖利率4%以上",
+   "published_at": "2026-11-17T15:16:00+08:00"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9886696",
+   "role": "supporting",
+   "title": "台股續演千點震盪收漲102點 投顧：最恐慌時間點已過",
+   "published_at": "2026-11-18T15:02:00+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "玉山金董事長在法說會表示，殖利率的計算基準採全年平均股價，不刻意挑最高價或最低價",
+   "source": "https://news.cnyes.com/news/id/6664978",
+   "quote": "全年平均股價"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/2884/technical-chart",
+  "https://news.cnyes.com/news/id/6664978",
+  "https://money.udn.com/money/story/5607/9886696"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical",
+  "params": {
+   "code": "2884"
+  },
+  "selection_reason": "玉山金技術分析頁報價區顯示 11/18 收盤、跌幅、昨收與最低，K 線圖顯示這天的長黑，直接對應文中「同一檔、不同價位持有成本不同」"
+ }
+}
