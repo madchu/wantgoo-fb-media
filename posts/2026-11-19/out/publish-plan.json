@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-19",
+  "blogId": "6948585",
+  "date": "2026-11-19T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/5df8a1acadb4f844a3469ec8ea2bcfe9024b58f1/posts/2026-11-19/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/18\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-19T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"玉山金（2884）11/18 收 42.15 元，跌幅 9.65%。前一天的法說會談到現金殖利率，手上有玉山金的人最想知道的是：公司說的殖利率，是用我的成本算的嗎？\\n\\n不是。董事長在法說會上說，計算基準採「全年平均股價」，不會刻意挑最高價或最低價。公司說的殖利率，分母是一整年的平均股價；你自己的殖利率，分母是你的持有成本。同一筆現金股利，成本比全年平均高的人，算出來就會比公司說的低。\\n\\n所以看到股利新聞，先換成自己那一筆：用公司宣布的現金股利除以你的持有成本，才是你實際的殖利率。光是 11/18 這一天，股價就從昨收 46.65 元到最低 42.00 元，同一檔股票，不同時間持有的人，成本可以差很多。\\n\\n玉山金的報價都在這一頁，手上是別檔，換成自己的代號就能查：\\nhttps://www.wantgoo.com/stock/2884/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261119\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/5df8a1acadb4f844a3469ec8ea2bcfe9024b58f1/posts/2026-11-19/out/evidence.png",
+  "image_sha256": "318be1c720b0cdd6b90ec83f3f6e59d6e61156b2bc0a13050a5622de287221be",
+  "plan_sha256": "fc0a0109239d9c1ecaa9bdf2c9a36636f4e22edc9d63cfd06ea642b50c9be681",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-19T00:06:27.525Z"
+}
