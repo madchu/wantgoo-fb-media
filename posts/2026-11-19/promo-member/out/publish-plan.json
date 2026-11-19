@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_promo:2026-11-19:member",
+  "blogId": "6948585",
+  "date": "2026-11-19T19:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/13907254ee83183c38e1c0b54ee0c12f24fc074e/posts/2026-11-19/promo-member/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/19\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-19T19:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"開盤後篩出來的名單，到了中午還是同一批嗎？盤中價量一直在變，用同一套條件再跑一次，名單常常就不一樣了。\\n\\n想在盤中重跑，最麻煩的不是按下搜尋，而是把條件一個一個重新設回去。如果手上還有好幾套策略要輪流看，光是重設就占掉大半時間。\\n\\n進階會員的盤中即時選股，針對這幾件事：\\n・選股策略一鍵刷新：存好的策略按一下就重跑，不用重設條件\\n・自訂選股策略可以存 50 組，免費會員是 2 組\\n・選股條件全開放，免費會員有限制\\n\\n比較實際的用法，是把條件寬一點和嚴一點的版本各存一組，盤中輪流刷新，看哪幾檔同時出現在兩份名單裡，再一檔一檔點進去看。篩出來的是研究名單，不是買賣訊號，每一檔還是要自己看過。\\n\\n平常只看收盤後的結果，免費版就夠用。想在盤中反覆重跑好幾套策略，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\\n\\n看免費版跟進階會員的完整比較：\\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261119_member\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/13907254ee83183c38e1c0b54ee0c12f24fc074e/posts/2026-11-19/promo-member/out/evidence.png",
+  "image_sha256": "133f20340551019a5d6744d8da5dc4e9fb03335f3acf15150113d09385ab0d9f",
+  "plan_sha256": "4f2bc944dc8b234e550a4e96da8fc9111d76e5c7a06f0281c4894edfe3ac3d0c",
+  "version": "dc4f79ed2c4a0ff809e2fea6a23f8008843702d41dd82571690b92b9c02487a0",
+  "thread_ts": "1795066970.403649",
+  "lock_run": "20261119T055250Z-11405",
+  "claimed_at": "2026-11-19T05:53:02.788Z"
+}
