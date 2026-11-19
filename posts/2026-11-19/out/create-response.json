@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 433588613,
+    "uuid": "1594565993360803505",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-19T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-19T08:06:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "玉山金（2884）11/18 收 42.15 元，跌幅 9.65%。前一天的法說會談到現金殖利率，手上有玉山金的人最想知道的是：公司說的殖利率，是用我的成本算的嗎？\n\n不是。董事長在法說會上說，計算基準採「全年平均股價」，不會刻意挑最高價或最低價。公司說的殖利率，分母是一整年的平均股價；你自己的殖利率，分母是你的持有成本。同一筆現金股利，成本比全年平均高的人，算出來就會比公司說的低。\n\n所以看到股利新聞，先換成自己那一筆：用公司宣布的現金股利除以你的持有成本，才是你實際的殖利率。光是 11/18 這一天，股價就從昨收 46.65 元到最低 42.00 元，同一檔股票，不同時間持有的人，成本可以差很多。\n\n玉山金的報價都在這一頁，手上是別檔，換成自己的代號就能查：\nhttps://www.wantgoo.com/stock/2884/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261119",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-6778078539776398768.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
