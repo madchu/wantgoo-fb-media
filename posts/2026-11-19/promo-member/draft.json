@@ -1,0 +1,25 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_promo:2026-11-19:member",
+  "lane": "fb_promo",
+  "test_only": false,
+  "scheduled_at": "2026-11-19T19:30:00+08:00",
+  "content_type": "PRODUCT_CLAIM",
+  "publication_risk": "YELLOW",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/event/advanced",
+      "role": "primary",
+      "data_as_of": "2026-11-19"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.event.advanced",
+    "params": {
+      "group": "screener"
+    },
+    "selection_reason": "進階會員 vs 免費會員比較表的盤中即時選股組（自訂選股策略數量 50 組/2 組、選股策略一鍵刷新 有/無、選股條件開放數量 全開放/有限制）與方案頁價格，對應本文三項功能與價格"
+  },
+  "text": "開盤後篩出來的名單，到了中午還是同一批嗎？盤中價量一直在變，用同一套條件再跑一次，名單常常就不一樣了。\n\n想在盤中重跑，最麻煩的不是按下搜尋，而是把條件一個一個重新設回去。如果手上還有好幾套策略要輪流看，光是重設就占掉大半時間。\n\n進階會員的盤中即時選股，針對這幾件事：\n・選股策略一鍵刷新：存好的策略按一下就重跑，不用重設條件\n・自訂選股策略可以存 50 組，免費會員是 2 組\n・選股條件全開放，免費會員有限制\n\n比較實際的用法，是把條件寬一點和嚴一點的版本各存一組，盤中輪流刷新，看哪幾檔同時出現在兩份名單裡，再一檔一檔點進去看。篩出來的是研究名單，不是買賣訊號，每一檔還是要自己看過。\n\n平常只看收盤後的結果，免費版就夠用。想在盤中反覆重跑好幾套策略，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\n\n看免費版跟進階會員的完整比較：\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261119_member"
+}
