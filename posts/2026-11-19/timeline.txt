@@ -1,0 +1,17 @@
+08:02:08 step0 start
+08:02:18 step0 end ok
+08:02:26 step1 start
+08:04:18 step1 end; step2 topic
+08:04:18 step3 precapture start
+08:04:30 step3 precapture end
+08:04:51 step3b write start
+08:05:51 step3b write end
+08:06:02 step4 gate start
+08:06:15 step4 gate end
+08:06:19 step5 start
+08:06:29 step5 end
+08:06:33 step6 start
+08:06:55 step6 end created id=433588613
+08:07:18 step7 readback start
+08:07:24 step7 readback end ok; step8 report
+08:07:34 step8 end SCHEDULED
