@@ -74,3 +74,4 @@
 {"event":"PROPOSAL_REPLIED","thread_ts":"1795154845.640719","job_id":"exp_20261120_140726_209","turn":1,"decision":"同意","option":"A","reply_ts":"1795155321.480949","at":"2026-11-20T06:15:21.536Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1795154845.640719","message_ts":"1795155264.797849","outcome":"HANDLED","reason":"回第 1 輪提案：同意 A（散戶多空比），回答 2 題","at":"2026-11-20T06:15:28.408Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1795154845.640719","message_ts":"1795157732.733069","outcome":"SKIPPED","reason":"App Explorer 任務失敗通知（逾時），不需處理","at":"2026-11-20T06:56:24.786Z"}
+{"event":"NOTE_POSTED","thread_ts":"1795154845.640719","reply_ts":"1795159703.777319","key":"human:1795159622.063339","at":"2026-11-20T07:28:23.836Z"}
