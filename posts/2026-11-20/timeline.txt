@@ -1,0 +1,13 @@
+08:02:17 step0 setup done
+08:02:33 step1 dup check: no FB post today near 09:30
+08:03:22 step3 pre-capture start
+08:03:38 step3 pre-capture end
+08:04:33 step2 topic chosen: 00662 還原日線
+08:05:23 step4 gate start
+08:05:38 step4 gate end
+08:05:45 step5 evidence start
+08:05:52 step5 evidence+claim pushed
+08:06:12 step6 slot-claim done
+08:07:07 step6 createScheduledPost ok id=434945699 PENDING
+08:07:10 step7 readback done
+08:07:23 step8 notify+office end
