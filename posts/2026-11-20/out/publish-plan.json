@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-20",
+  "blogId": "6948585",
+  "date": "2026-11-20T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/6d707de0c513644e724395fc9235f1472d96975b/posts/2026-11-20/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/19\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-20T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"00662（富邦NASDAQ）這週完成受益權單位分割、恢復交易。手上有它的人如果打開一般日線，會看到分割那天像暴跌的一道大缺口，但那不是跌出來的，是每一單位變小了。\\n\\n分割只改變單位數和每單位淨值，持有的總資產價值不因此改變。可是沒還原的 K 線只畫每單位的價格，前後價位差了好幾倍，就留下一道斷層；均線、KD、MACD 這些拿價格算的指標，也可能因此被扭曲。\\n\\n玩股網技術分析頁的週期選單裡有「還原日線」「還原周線」「還原月線」，會把分割和除權息調整進價格序列，比較適合觀察連續的趨勢。圖上就是 00662 的還原日線：11/19 收盤 23.13 元，前面的 K 線已經換算到同一個基準，看不到那道缺口。要注意，還原價是調整後的序列，不代表當時真的成交在那些價格；想對照當天的實際成交，還是看一般日線。\\n\\n00662 的還原日線在這一頁，手上是別檔、最近有分割或除權息，換成自己的代號切到還原線就能看：\\nhttps://www.wantgoo.com/stock/etf/00662/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261120\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/6d707de0c513644e724395fc9235f1472d96975b/posts/2026-11-20/out/evidence.png",
+  "image_sha256": "702f5594aee224590fedb4ddc7007ca0d4ca14b50fe19b1df65da1b53147d964",
+  "plan_sha256": "0d3a22681d523615e9ee8ea396bab8816e8267de690292c12fcd80427ec6c5bc",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-20T00:05:49.592Z"
+}
