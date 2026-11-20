@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-20","category":"網站實用功能","objective":"帶動網站使用","opening":"讀者問題：00662 分割後一般日線出現像暴跌的缺口","visual":"wantgoo.stock.technical.phone.adjusted code=00662",
+ "learning":{"version":"2026-W47","decisions":[{"id":"P1","adopted":true,"reason":"扣住 00662 持有人這週正在遇到的分割，CTA 請讀者換成自己手上那一檔切到還原線查"},{"id":"P2","adopted":true,"reason":"前兩句交付事件與持有人會看到的缺口，原理放第二段"}]}}

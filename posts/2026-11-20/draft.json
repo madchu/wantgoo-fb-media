@@ -1,0 +1,71 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-20",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-20T09:30:00+08:00",
+ "content_type": "TOOL_FEATURE",
+ "publication_risk": "GREEN",
+ "text": "00662（富邦NASDAQ）這週完成受益權單位分割、恢復交易。手上有它的人如果打開一般日線，會看到分割那天像暴跌的一道大缺口，但那不是跌出來的，是每一單位變小了。\n\n分割只改變單位數和每單位淨值，持有的總資產價值不因此改變。可是沒還原的 K 線只畫每單位的價格，前後價位差了好幾倍，就留下一道斷層；均線、KD、MACD 這些拿價格算的指標，也可能因此被扭曲。\n\n玩股網技術分析頁的週期選單裡有「還原日線」「還原周線」「還原月線」，會把分割和除權息調整進價格序列，比較適合觀察連續的趨勢。圖上就是 00662 的還原日線：11/19 收盤 23.13 元，前面的 K 線已經換算到同一個基準，看不到那道缺口。要注意，還原價是調整後的序列，不代表當時真的成交在那些價格；想對照當天的實際成交，還是看一般日線。\n\n00662 的還原日線在這一頁，手上是別檔、最近有分割或除權息，換成自己的代號切到還原線就能看：\nhttps://www.wantgoo.com/stock/etf/00662/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261120",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/etf/00662/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-19"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5618/9882640",
+   "role": "supporting",
+   "title": "00662一拆五 恢復交易",
+   "published_at": "2026-11-17T01:04:00+08:00"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/6604018",
+   "role": "supporting",
+   "title": "富邦00662啟動分割「1拆5」 11/10最後買進日、11/17恢復交易",
+   "published_at": "2026-09-10T20:34:00+08:00"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9864678",
+   "role": "supporting",
+   "title": "富邦 ETF 00662分割 11月11日起暫停交易 這天重新掛牌",
+   "published_at": "2026-11-08T10:34:00+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "00662 這週（11/17）完成受益權單位分割並恢復交易",
+   "source": "https://money.udn.com/money/story/5618/9882640",
+   "quote": "今（17）日以一拆五之姿恢復交易"
+  },
+  {
+   "claim": "00662 分割後於 11/17 恢復交易（第二來源）",
+   "source": "https://news.cnyes.com/news/id/6604018",
+   "quote": "11月17日恢復交易、申贖、借券及過戶"
+  },
+  {
+   "claim": "分割只改變單位數和每單位淨值，持有的總資產價值不因此改變",
+   "source": "https://news.cnyes.com/news/id/6604018",
+   "quote": "分割僅改變受益權單位數及每單位淨值，投資人持有基金的總資產價值不因分割而改變"
+  },
+  {
+   "claim": "分割前後每單位價位差了好幾倍（分割前最後交易日收盤與分割後參考價）",
+   "source": "https://money.udn.com/money/story/5618/9882640",
+   "quote": "分割後每受益權單位參考價為23.56元"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/etf/00662/technical-chart",
+  "https://money.udn.com/money/story/5618/9882640",
+  "https://news.cnyes.com/news/id/6604018",
+  "https://money.udn.com/money/story/5607/9864678"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical.phone.adjusted",
+  "params": {
+   "code": "00662"
+  },
+  "selection_reason": "00662 手機版技術分析頁切到還原日線，K 線跨過分割日仍連續、沒有斷層，直接呈現文中介紹的還原線功能；數字只用圖上 11/19 的收盤"
+ }
+}
