@@ -71,3 +71,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1794809306.394549","message_ts":"1794810024.492179","outcome":"SKIPPED","reason":"App 文委託單（fb_app:2026-11-18:post）交件，由 App 文 Routine 處理","at":"2026-11-16T06:21:18.216Z"}
 {"event":"NOTE_POSTED","thread_ts":"1794809306.394549","reply_ts":"1794810193.964629","key":"result:exp_20261116_140826_841","at":"2026-11-16T06:23:14.027Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1795154845.640719","work_item_id":"fb_app:2026-11-22:post","at":"2026-11-20T06:07:25.683Z"}
+{"event":"PROPOSAL_REPLIED","thread_ts":"1795154845.640719","job_id":"exp_20261120_140726_209","turn":1,"decision":"同意","option":"A","reply_ts":"1795155321.480949","at":"2026-11-20T06:15:21.536Z"}
