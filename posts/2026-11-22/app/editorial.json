@@ -1,0 +1,3 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_app:2026-11-22:post","category":"App 功能","objective":"帶動使用（散戶多空比・微台指多空比分頁的表格欄位）","opening":"讀者誤解：多空比走高不等於散戶做多變多","visual":"App Explorer 截圖（散戶多空比・微台指多空比分頁）",
+ "learning":{"version":"2026-W47","decisions":[
+  {"id":"P2","adopted":true,"reason":"前兩句同時交付結果（比例走高但做多口數沒增加）與只看比例會漏掉哪一層"}]}}
