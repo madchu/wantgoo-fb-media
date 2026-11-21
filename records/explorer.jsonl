@@ -76,3 +76,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1795154845.640719","message_ts":"1795157732.733069","outcome":"SKIPPED","reason":"App Explorer 任務失敗通知（逾時），不需處理","at":"2026-11-20T06:56:24.786Z"}
 {"event":"NOTE_POSTED","thread_ts":"1795154845.640719","reply_ts":"1795159703.777319","key":"human:1795159622.063339","at":"2026-11-20T07:28:23.836Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1795154845.640719","message_ts":"1795159622.063339","outcome":"HANDLED","reason":"回答真人：說明交件內容、資料日期與由 App 文流程負責","at":"2026-11-20T07:28:30.239Z"}
+{"event":"NOTE_POSTED","thread_ts":"1795154845.640719","reply_ts":"1795244939.227629","key":"result:exp_20261120_151656_583","at":"2026-11-21T07:08:59.281Z"}
