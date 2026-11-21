@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_app:2026-11-22:post",
+  "blogId": "6948585",
+  "date": "2026-11-22T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/13a3058d8c69c982903fb1a287ba9f3fae8ea3b8/posts/2026-11-22/app/out/evidence.png\"],\"mediaAltText\":[\"玩股網 App 畫面截圖，擷取於 2026/11/20\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-22T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"散戶多空比一天比一天高，很容易被讀成「越來越多散戶在做多」。以 11/19 的資料為例，玩股網 App 的微台指散戶多空比連續幾個交易日走高，但往下看表格，同一段時間散戶做多的口數並沒有跟著增加，一路變少的是散戶做空的口數；只看比例，就會漏掉這一層。\\n\\n多空比是把散戶做多和做空的口數放在一起換算的比例，所以它變大有兩種來源：做多變多，或做空變少。兩種情況在圖上都是紅柱變長，意思卻不一樣，前者是偏多的部位增加，後者是偏空的部位減少。\\n\\n所以看到紅柱一根比一根長，先往下拉到表格，把「散戶做多」和「散戶做空」兩欄分開看，確認比例是哪一邊推動的。圖上的灰線是台指期，同一段時間它和紅柱走的是相反方向；這個比例描述的是散戶的部位結構，不能拿來判斷指數往哪走。\\n\\nApp 裡的位置：股市 › 台股總覽 › 上方方塊「散戶多空比」，進去預設就是「微台指多空比」分頁。\\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261122_post\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/13a3058d8c69c982903fb1a287ba9f3fae8ea3b8/posts/2026-11-22/app/out/evidence.png",
+  "image_sha256": "0ac56e74c6e9a8ce0d7193e8790d2259390214da4d660cf9598cf5eba62fe4a1",
+  "plan_sha256": "719564505f6f1fa19c4e3ef045c2647d120e06b664c17c2f94f5e161bfe7e843",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-21T06:08:36.606Z"
+}
