@@ -1,0 +1,69 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-21",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-21T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "台積電（2330）11/20 收盤 2000 元，跌幅 4.76%。照金管會 11/20 起實施的新措施，這個跌幅已經超過 3.5% 的門檻：下一個交易日，台積電的融券和借券放空，價格都不能低於 2000 元。\n\n金管會的寫法是：上市櫃股票和臺灣存託憑證，當日收盤價跌幅達 3.5% 以上，次一交易日不得低於前一交易日收盤價放空；隔天收盤跌幅仍達 3.5% 以上，就繼續限制。所以這不是全面禁止放空，而是每一檔看自己的收盤跌幅，一天一天判斷；證券商、期貨商因報價或避險需求的融券和借券不在此限。\n\n想知道自己手上那一檔下一個交易日有沒有被限，要看的是它前一天報價區的收盤跌幅，不是大盤跌了多少。這項措施限制的是放空的價格，不代表股價會因此止穩。\n\n台積電的收盤與跌幅在這一頁，手上是別檔，換成自己的代號就能對照 3.5% 的門檻：\nhttps://www.wantgoo.com/stock/2330/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261121",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/2330/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-20"
+  },
+  {
+   "url": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611190001&dtable=News",
+   "role": "supporting",
+   "title": "金管會宣布當日收盤價跌幅達3.5%以上，次一交易日不得低於前一交易日收盤價放空，以及調整每日盤中借券賣出委託數量等措施",
+   "published_at": "2026-11-19T00:00:00+08:00"
+  },
+  {
+   "url": "https://tw.stock.yahoo.com/news/%E9%87%91%E7%AE%A1%E6%9C%83-11-20%E8%B5%B7%E8%B7%8C%E5%B9%85%E9%80%BE3-5-%E6%AC%A1-004400573.html",
+   "role": "supporting",
+   "title": "金管會：11/20起跌幅逾3.5%次一交易日禁平盤下放空，並調整盤中借券賣出委託量",
+   "published_at": "2026-11-19T18:44:00+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "金管會自 115 年 11 月 20 日起採行新措施",
+   "source": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611190001&dtable=News",
+   "quote": "自115年11月20日起"
+  },
+  {
+   "claim": "當日收盤價跌幅達 3.5% 以上，次一交易日不得低於前一交易日收盤價放空",
+   "source": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611190001&dtable=News",
+   "quote": "當日收盤價跌幅達3.5%以上，次一交易日不得低於前一交易日收盤價放空"
+  },
+  {
+   "claim": "適用上市櫃股票及臺灣存託憑證",
+   "source": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611190001&dtable=News",
+   "quote": "上市（櫃）股票及臺灣存託憑證"
+  },
+  {
+   "claim": "次一交易日收盤價跌幅仍達 3.5% 以上則持續限制",
+   "source": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611190001&dtable=News",
+   "quote": "惟次一交易日之收盤價跌幅仍達3.5%以上，則持續進行價格限制措施"
+  },
+  {
+   "claim": "證券商及期貨商因報價或避險需求之融券及借券不在此限",
+   "source": "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611190001&dtable=News",
+   "quote": "但證券商及期貨商因辦理業務之買賣報價或避險需求所為之融券及借券賣出，不在此限"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/2330/technical-chart",
+  "https://www.fsc.gov.tw/ch/home.jsp?id=96&parentpath=0,2&mcustomize=news_view.jsp&dataserno=202611190001&dtable=News",
+  "https://tw.stock.yahoo.com/news/%E9%87%91%E7%AE%A1%E6%9C%83-11-20%E8%B5%B7%E8%B7%8C%E5%B9%85%E9%80%BE3-5-%E6%AC%A1-004400573.html"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical.phone",
+  "params": {
+   "code": "2330"
+  },
+  "selection_reason": "台積電手機版技術分析頁的報價列顯示 11/20 收盤 2000 與跌幅 -4.76%，直接對應文中「跌幅已過 3.5% 門檻」，也是讀者換代號查自己那一檔的同一個畫面"
+ }
+}

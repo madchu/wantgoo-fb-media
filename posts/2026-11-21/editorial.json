@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-21","category":"市場數據、熱門話題","objective":"帶動網站使用","opening":"數字反差：台積電 11/20 收盤跌幅 4.76%，已過限空新措施的 3.5% 門檻","visual":"wantgoo.stock.technical.phone code=2330",
+ "learning":{"version":"2026-W47","decisions":[{"id":"P1","adopted":true,"reason":"限空令 2.0 是持有人這週正在意的事，CTA 請讀者換成自己那一檔查收盤跌幅"},{"id":"P2","adopted":true,"reason":"前兩句同時交付台積電已過門檻的結果與下一個交易日的影響，規則定義放第二段"}]}}

@@ -1,0 +1,9 @@
+08:02:05 step0 start
+08:02:17 step0 end ok
+08:02:26 step1 start
+08:02:31 step1 end ok (no dup)
+08:02:31 step2 start
+08:04:10 step3 precapture start
+08:04:25 step3 precapture end
+08:06:36 step3b claims-check exit=2 (external 3.5%) -> BLOCKED topic
+08:06:42 step8 report + commit
