@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 438318788,
+    "uuid": "-8849699521720136347",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-23T19:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-23T13:43:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "11/13 的觀察股是遠雄（5522）：元大一天買超 484 張，買超比 32.16%。這是主力券商雷達免費版看得到的一檔，同一天的名單上還有 35 檔，訂閱才看得到。\n\n研究分點最花時間的，往往不是看懂買賣超，而是從上千個分點裡，先找出哪幾個值得天天盯。\n\n主力券商雷達把順序反過來：先用過去 6 個月的飆股歷史回測，挑出在起漲前後明顯買超、又在不同強勢股裡反覆出現的分點，之後每個交易日盤後追蹤這批分點的最新買超。單日買超達到 25% 的監控門檻，就列進觀察名單。\n\n拿到名單之後，可以先看那個分點後面幾天是繼續買進，還是開始賣出，判斷是在吃貨還是出貨；成交量和分點買超同一天放大時，那根 K 棒的低點可以當作防守點，進場前先把停損想好。\n\n這份是研究名單，不是買賣訊號，每一檔還是要自己看過。免費版看得到的是約一週前的一檔，訂閱看的是每天盤後最新的完整名單。\n\n主力券商雷達：月訂 349 元，年訂 3,490 元，訂閱同時享有進階會員的完整權益。\n\n看方案與功能說明：\nhttps://www.wantgoo.com/event/broker-radar?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261123_radar\n\n以上為歷史紀錄與功能說明，不構成投資建議。",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-1676155481917952466.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
