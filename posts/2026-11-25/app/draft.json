@@ -1,0 +1,19 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_app:2026-11-25:post",
+  "lane": "fb_app",
+  "test_only": false,
+  "scheduled_at": "2026-11-25T09:30:00+08:00",
+  "content_type": "TOOL_FEATURE",
+  "publication_risk": "GREEN",
+  "evidence": [],
+  "visual": {
+    "source": "APP_EXPLORER_CAPTURE",
+    "thread_ts": "1795414049.663589",
+    "job_id": "exp_20261123_140730_235",
+    "screenshot": "01-塑膠漲跌幅排序.png",
+    "selection_reason": "塑膠類股詳細頁依漲跌幅排序，南亞漲停單獨排在最上面、其餘成分股漲幅明顯較小，上方同一列就是「市值」分頁，直接示範「點進類股看是一檔帶頭還是一群一起漲」",
+    "account_check": "NO_ACCOUNT_DETAILS"
+  },
+  "text": "類股排行上某個族群漲得特別多，很容易讀成「這整個產業都在漲」。在玩股網 App 點進那個類股、依漲跌幅排序，常會看到另一個畫面：以截圖的塑膠類股為例，排第一的南亞漲停，緊接在後的成分股漲幅都小得多；只看類股那一格的漲幅，就會漏掉這個落差。\n\n會這樣，是因為類股指數和加權指數一樣是依市值加權，市值越大的公司分量越重。切到同一頁的「市值」分頁，南亞一檔的市值就比台塑、台化加起來還大，它一漲停，類股的數字自然被拉高，其他成分股不一定跟上。\n\n所以看到類股漲幅特別大，先點進去依漲跌幅排序，看是一檔帶頭，還是多數成分股都有漲；再切到市值，確認帶頭的是不是族群裡最大的那檔。這裡只是拆解類股的數字怎麼來的，不代表對任何個股的看法。\n\nApp 裡的位置：股市 › 台股總覽 › 類股概況 › 點進類股（例如塑膠）› 上方切換「漲跌幅」與「市值」分頁。\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261125_post"
+}

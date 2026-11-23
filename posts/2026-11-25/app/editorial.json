@@ -1,0 +1,3 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_app:2026-11-25:post","category":"App 功能","objective":"帶動使用（類股詳細頁的漲跌幅排序與市值分頁）","opening":"讀者誤解：類股大漲不等於整個產業都在漲","visual":"App Explorer 截圖（類股詳細頁－塑膠，漲跌幅排序）",
+ "learning":{"version":"2026-W48","decisions":[
+  {"id":"P2","adopted":true,"reason":"前兩句同時交付結果（可能只是一檔大型股撐起類股）與只看類股那一格漲幅會漏掉的落差"}]}}
