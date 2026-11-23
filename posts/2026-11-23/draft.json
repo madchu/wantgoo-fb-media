@@ -1,0 +1,71 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-23",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-23T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "金管會「全面禁止平盤以下放空」今天上路：融券和借券放空上市櫃股票，價格不得低於前一營業日收盤價。換到手上那一檔，這條線就是上週五的收盤，以台積電（2330）來說，就是 11/20 收盤 2,000 元。\n\n「平盤」不是一個固定的價位，而是每一檔前一營業日的收盤價，所以每檔不同，每天也會跟著換。也要分清楚：規定限制的是融券和借券放空的價格，不是股價的下限；證券商、期貨商因業務避險需求的融券和借券放空，不在此限。同一批措施也調高了融券保證金成數，放空要準備的保證金變多。\n\n想知道自己那一檔今天的平盤在哪，看個股頁報價區前一個交易日的收盤就好。台積電的開高低收在這一頁，手上是別檔，換成自己的代號就能查：\nhttps://www.wantgoo.com/stock/2330/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261123",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/2330/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-20"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/6669819",
+   "role": "supporting",
+   "title": "第三波救市來了！金管會：23日起全面禁平盤下放空、籲法人停止出借股票",
+   "published_at": "2026-11-21T23:46:00+08:00"
+  },
+  {
+   "url": "https://www.ctee.com.tw/news/20261121700641-430301",
+   "role": "supporting",
+   "title": "台股跳水 金管會再出手！宣布「全面禁止平盤以下放空」等五項措施",
+   "published_at": "2026-11-21T15:42:00+08:00"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5613/9893390",
+   "role": "supporting",
+   "title": "台股崩跌 金管會11/23起祭全面平盤下禁空令5措施",
+   "published_at": "2026-11-21T16:21:00+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "金管會自 11/23 起實施全面禁止平盤以下放空",
+   "source": "https://www.ctee.com.tw/news/20261121700641-430301",
+   "quote": "自11月23日起祭出五項穩市措施，以全面禁止平盤以下放空為主"
+  },
+  {
+   "claim": "融券賣出及借券賣出上市櫃股票，賣出價格不得低於前一營業日收盤價",
+   "source": "https://money.udn.com/money/story/5613/9893390",
+   "quote": "賣出價格不得低於前一營業日收盤價"
+  },
+  {
+   "claim": "證券商及期貨商因業務避險需求的融券及借券賣出不在此限",
+   "source": "https://money.udn.com/money/story/5613/9893390",
+   "quote": "不在此限"
+  },
+  {
+   "claim": "同一批措施調高最低融券保證金成數",
+   "source": "https://news.cnyes.com/news/id/6669819",
+   "quote": "最低融券保證金成數"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/2330/technical-chart",
+  "https://news.cnyes.com/news/id/6669819",
+  "https://www.ctee.com.tw/news/20261121700641-430301",
+  "https://money.udn.com/money/story/5613/9893390"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical.phone",
+  "params": {
+   "code": "2330"
+  },
+  "selection_reason": "台積電手機版技術分析頁顯示 11/20 開高低收，收盤就是 11/23 的平盤，直接對應文中「平盤＝前一營業日收盤價」"
+ }
+}

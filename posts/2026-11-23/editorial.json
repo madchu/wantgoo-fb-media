@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-23","category":"市場數據、熱門話題","objective":"帶動網站使用","opening":"實用結論：禁空令今天上路，手上那一檔的平盤就是前一日收盤","visual":"wantgoo.stock.technical.phone code=2330",
+ "learning":{"version":"2026-W48","decisions":[{"id":"P1","adopted":true,"reason":"扣住持有人手上那一檔今天的平盤，承接頁是可換代號的個股技術分析頁，CTA 請讀者查自己那一檔"},{"id":"P2","adopted":true,"reason":"前兩句交付規定內容與它對手上那一檔的意義，定義放第二段"}]}}
