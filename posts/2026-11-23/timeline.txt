@@ -1,0 +1,10 @@
+08:02:02 step0 start
+08:02:27 step0 end / step1 start
+08:03:11 step1 end（今天 Metricool 無貼文、帳本無 fb_daily_growth:2026-11-23）/ step2 start
+08:03:55 step2 end 選定禁空令＋2330 / step3 pre-capture done
+08:04:45 step3b draft done / step4 start
+08:05:08 step4 end PASS/LIVE negatives 0 / step5 start
+08:05:17 step5 end evidence+claimed pushed / step6 start
+08:05:40 step6 createScheduledPost id=438110799 PENDING / step7 start
+08:05:59 step7 end readback / step8 start
+08:06:08 step8 office end + push sent / done
