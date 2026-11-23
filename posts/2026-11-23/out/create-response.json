@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 438110799,
+    "uuid": "3099912074449996723",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-23T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-23T08:05:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "金管會「全面禁止平盤以下放空」今天上路：融券和借券放空上市櫃股票，價格不得低於前一營業日收盤價。換到手上那一檔，這條線就是上週五的收盤，以台積電（2330）來說，就是 11/20 收盤 2,000 元。\n\n「平盤」不是一個固定的價位，而是每一檔前一營業日的收盤價，所以每檔不同，每天也會跟著換。也要分清楚：規定限制的是融券和借券放空的價格，不是股價的下限；證券商、期貨商因業務避險需求的融券和借券放空，不在此限。同一批措施也調高了融券保證金成數，放空要準備的保證金變多。\n\n想知道自己那一檔今天的平盤在哪，看個股頁報價區前一個交易日的收盤就好。台積電的開高低收在這一頁，手上是別檔，換成自己的代號就能查：\nhttps://www.wantgoo.com/stock/2330/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261123",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-15176598042363327706.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
