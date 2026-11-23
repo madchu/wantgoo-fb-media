@@ -79,3 +79,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1795154845.640719","reply_ts":"1795244939.227629","key":"result:exp_20261120_151656_583","at":"2026-11-21T07:08:59.281Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1795414049.663589","work_item_id":"fb_app:2026-11-25:post","at":"2026-11-23T06:07:29.701Z"}
 {"event":"PROPOSAL_REPLIED","thread_ts":"1795414049.663589","job_id":"exp_20261123_140730_235","turn":1,"decision":"同意","option":"A","reply_ts":"1795414545.554769","at":"2026-11-23T06:15:45.616Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1795414049.663589","message_ts":"1795414491.093989","outcome":"HANDLED","reason":"回覆第 1 輪提案：同意 A（塑膠類股漲幅與市值）","at":"2026-11-23T06:15:51.865Z"}
