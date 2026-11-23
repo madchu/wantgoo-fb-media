@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-23",
+  "poll_interval_min": 10,
+  "note": "玩股網兩頁第一次出現當日資料的時間區間（前一次未出現～第一次出現），+08:00",
+  "all_listed": {"last_missing": "20:45:16", "first_seen": "20:56:26"},
+  "excluding_etf": {"last_missing": "21:10:48", "first_seen": "21:20:44"},
+  "twse_mi_margn_missing_at": ["20:35", "20:45"]
+}
