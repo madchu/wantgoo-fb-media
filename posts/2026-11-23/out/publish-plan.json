@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-23",
+  "blogId": "6948585",
+  "date": "2026-11-23T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/d46e72a074270c36a86ce410e3cecb5bd544cbbf/posts/2026-11-23/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/20\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-23T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"金管會「全面禁止平盤以下放空」今天上路：融券和借券放空上市櫃股票，價格不得低於前一營業日收盤價。換到手上那一檔，這條線就是上週五的收盤，以台積電（2330）來說，就是 11/20 收盤 2,000 元。\\n\\n「平盤」不是一個固定的價位，而是每一檔前一營業日的收盤價，所以每檔不同，每天也會跟著換。也要分清楚：規定限制的是融券和借券放空的價格，不是股價的下限；證券商、期貨商因業務避險需求的融券和借券放空，不在此限。同一批措施也調高了融券保證金成數，放空要準備的保證金變多。\\n\\n想知道自己那一檔今天的平盤在哪，看個股頁報價區前一個交易日的收盤就好。台積電的開高低收在這一頁，手上是別檔，換成自己的代號就能查：\\nhttps://www.wantgoo.com/stock/2330/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261123\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/d46e72a074270c36a86ce410e3cecb5bd544cbbf/posts/2026-11-23/out/evidence.png",
+  "image_sha256": "11d47fc1f4d1d26f991e9f89d2d55999e2bb79d78142778b59c26e6be57799b2",
+  "plan_sha256": "60a253ca094c07ed46ad4568432a78030f535507ed1e198252022117275920c2",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-23T00:05:10.971Z"
+}
