@@ -1,0 +1,13 @@
+{
+  "work_item_id": "fb_margin:2026-11-23",
+  "blogId": "6948585",
+  "date": "2026-11-23T22:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/e61d88224bcff2187e32e32b1f4fca0a285b7964/posts/2026-11-23/margin/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/23\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-23T22:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"11/23 上市融資餘額 4,338.08 億，較前一交易日減少 14.19 億；扣除 ETF 後為 3,991.04 億，減少 33.18 億。\\n融資維持率：全體上市 148.46%，上升 8.03 個百分點；扣除 ETF 為 126.92%，上升 7.39 個百分點。\\n加權指數收 36,811.89，漲 2.16%。\\n\\n每天的融資餘額與維持率，在玩股網這一頁：\\nhttps://www.wantgoo.com/stock/margin-trading/market-price/taiex?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_margin_20261123\\n\\n資料來源：玩股網資券進出行情，僅供參考，不構成投資建議。\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/e61d88224bcff2187e32e32b1f4fca0a285b7964/posts/2026-11-23/margin/out/evidence.png",
+  "image_sha256": "85aa26d16c8717df35c0fde3eb48522ee91b0b086647d6425c25e8913aba1444",
+  "plan_sha256": "5e93a040b3079df31d07f9b9ca6cda4c8484683e991c96b341d34ca73bd91bbb",
+  "version": "3010e242ab58ee6012695bc42dbef36f3234117e89b65d662d6b68c76967f881",
+  "thread_ts": "1795440089.083599",
+  "lock_run": "20261123T135718Z-10080",
+  "claimed_at": "2026-11-23T13:57:29.875Z"
+}
