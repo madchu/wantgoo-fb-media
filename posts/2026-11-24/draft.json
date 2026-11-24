@@ -1,0 +1,42 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-24",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-24T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "11/23 加權指數漲 778.60 點、漲幅 2.16%，新聞寫台積電是這天指數的最大推手。但同一頁的「大盤扣除台積電」這天漲幅 2.65%，比加權指數還高。手上不是台積電的人，拿自己那一檔來比，後面這個數字更貼近。\n\n點數貢獻多，主要是因為台積電在指數裡的權重大，不等於它漲得比較多。扣掉它之後漲幅變高，只說明這天台積電的漲幅落後其餘股票的市值加權整體。「大盤扣除台積電」本身也是市值加權，一樣會被少數大型權值股牽動，看不出多數股票漲了多少。\n\n自己那一檔是跟上還是落後，可以拿它的漲跌幅和這兩個百分比放在一起看，兩個數字都在加權指數頁的報價區：\nhttps://www.wantgoo.com/index/0000?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261124",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/index/0000",
+   "role": "primary",
+   "data_as_of": "2026-11-23"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5607/9896497",
+   "role": "supporting",
+   "title": "三大法人不甩台股反彈778點！聯手再賣超511.77億元 外資占多少？",
+   "published_at": "2026-11-23T15:13:36+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "11/23 台積電為指數最大推手",
+   "source": "https://money.udn.com/money/story/5607/9896497",
+   "quote": "為指數最大推手"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/index/0000",
+  "https://money.udn.com/money/story/5607/9896497"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.index.technical",
+  "params": {
+   "code": "0000"
+  },
+  "selection_reason": "加權指數頁報價區同時顯示 11/23 加權指數與大盤扣除台積電的漲點、漲幅，直接支持兩個漲幅的對照"
+ }
+}

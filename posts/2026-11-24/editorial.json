@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-24","category":"市場數據、熱門話題","objective":"帶動網站使用","opening":"數字反差：台積電貢獻最多點數，但大盤扣除台積電漲幅 2.65% 高於加權 2.16%","visual":"wantgoo.index.technical code=0000",
+ "learning":{"version":"2026-W48","decisions":[{"id":"P1","adopted":false,"reason":"內文扣住持有人拿自己那一檔對照，但承接頁是大盤指數頁，依反例不算命中"},{"id":"P2","adopted":true,"reason":"前兩句交付反差，第三句點出只看加權漲幅會漏掉的對照基準"}]}}
