@@ -1,0 +1,11 @@
+{"at":"19:11:33","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"19:21:57","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"19:32:08","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"19:42:21","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"19:52:32","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"20:02:41","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"20:12:53","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"20:23:45","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"20:34:57","exit":0,"data_as_of":"2026-11-23","code":null,"message":null}
+{"at":"20:45:08","exit":3,"data_as_of":null,"code":"CONTENT_MISSING","message":"margin card: the two pages list different days (11/24 vs 11/23) (rows read: 20 all, 20 excluding ETFs)"}
+{"at":"20:55:17","exit":0,"data_as_of":"2026-11-24","code":null,"message":null}
