@@ -1,0 +1,25 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_promo:2026-11-24:member",
+  "lane": "fb_promo",
+  "test_only": false,
+  "scheduled_at": "2026-11-24T19:30:00+08:00",
+  "content_type": "PRODUCT_CLAIM",
+  "publication_risk": "YELLOW",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/event/advanced",
+      "role": "primary",
+      "data_as_of": "2026-11-24"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.event.advanced",
+    "params": {
+      "group": "chart"
+    },
+    "selection_reason": "進階會員 vs 免費會員比較表的個股指數線圖組（看盤組合自訂數量 15/4、主圖副圖自訂數量 6/4、技術指標開放數量 全開放/有限制、台股線圖分時 K 線 全開放/有限制、跨裝置雲端記憶 有/無）與方案頁價格，對應本文功能與價格"
+  },
+  "text": "同一檔股票，短線看分時 K 線配成交量，波段看日線配均線和 KD，長線再看週線。三種看法各要一套指標，免費會員的看盤組合最多存 4 組，手上的股票一多，就得常常拆掉重裝。\n\n分點、籌碼研究看得再細，最後還是要回到線圖上確認價量。真正卡住的，常常不是看不懂指標，而是每換一個角度，就得把版面重新排一次。\n\n進階會員的個股指數線圖，對應的是這幾件事：\n・看盤組合可以存 15 組，主圖副圖自訂到 6 個（免費會員是 4 組、4 個）\n・技術指標全開放，台股線圖分時 K 線全開放（免費會員都有限制）\n・跨裝置雲端記憶，電腦上排好的組合，換到手機打開還在\n\n比較實際的用法，是照持股週期各存一組：短線一組、波段一組、長線一組，看哪一檔就切到對應的組合，不用每次重來。指標是整理價量資訊的工具，不是買賣訊號，每一檔還是要自己看過。\n\n平常只看一兩個固定指標，免費版就夠用。想同時保留好幾套看盤組合隨時切換，進階會員月訂 199 元；年訂 1,990 元，平均每月約 166 元。\n\n看免費版跟進階會員的完整比較：\nhttps://www.wantgoo.com/event/advanced?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261124_member"
+}
