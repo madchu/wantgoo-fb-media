@@ -1,0 +1,11 @@
+08:02:06 step0 start
+08:02:18 step0 end ok
+08:02:45 step2 topic start
+08:03:44 step2 topic chosen: 加權 vs 大盤扣除台積電 11/23
+08:04:30 step3b write done
+08:04:37 step4 gate start
+08:04:50 step4 gate end
+08:04:54 step5 start
+08:05:01 step5 end; step6 start
+08:05:55 step6 created metricool id 439612427; step7 readback
+08:06:02 step7 readback ok; step8 report
