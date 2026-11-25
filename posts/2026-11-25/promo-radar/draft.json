@@ -1,0 +1,23 @@
+{
+  "schema": "wantgoo.fb_post.v1",
+  "work_item_id": "fb_promo:2026-11-25:radar",
+  "lane": "fb_promo",
+  "test_only": false,
+  "scheduled_at": "2026-11-25T19:30:00+08:00",
+  "content_type": "PRODUCT_CLAIM",
+  "publication_risk": "YELLOW",
+  "evidence": [
+    {
+      "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+      "role": "primary",
+      "data_as_of": "2026-11-25"
+    }
+  ],
+  "visual": {
+    "source": "FIRST_PARTY_SCREENSHOT",
+    "profile": "wantgoo.radar.watch",
+    "params": {},
+    "selection_reason": "主力券商雷達免費版觀察股（11/17：可成 2474 元大 +2,000 張 買超比 62.25%，還有 28 檔），與方案頁、監控規則，對應文中案例、門檻與價格；radar-fresh 確認這檔以前雷達文沒出現過"
+  },
+  "text": "11/17 的觀察股是可成（2474）：元大一天買超 2,000 張，買超比 62.25%。這是主力券商雷達免費版看得到的一檔，同一天的名單上還有 28 檔，要訂閱才看得到。\n\n自己研究分點，最常卡在第一步：上千個分點，到底該盯哪幾個？\n\n主力券商雷達的做法是把順序反過來。先拿過去 6 個月的飆股歷史回測，找出在起漲前後明顯買超、又在不同強勢股裡一再出現的分點，之後每個交易日盤後追蹤這批分點的最新動作。單日買超達到 25% 的監控門檻，就列進觀察名單。\n\n名單出來以後，選出來不等於馬上買。可以先看那個分點接下來幾天是繼續買、還是轉成賣，分辨是在吃貨還是出貨；成交量和分點買超同一天放大的話，那根 K 棒的低點可以當作防守點，進場前先把停損想好。\n\n這是一份研究名單，不是買賣訊號，每一檔還是要自己看過。免費版看得到約一週前的一檔，訂閱看的是每天盤後最新的完整名單。\n\n主力券商雷達：月訂 349 元，年訂 3,490 元，訂閱同時享有進階會員的完整權益。\n\n看方案與功能說明：\nhttps://www.wantgoo.com/event/broker-radar?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_promo_20261125_radar\n\n以上為歷史紀錄與功能說明，不構成投資建議。"
+}

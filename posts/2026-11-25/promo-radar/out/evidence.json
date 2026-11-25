@@ -1,0 +1,47 @@
+{
+  "tool": "fb-pipeline/capture@2",
+  "profile": "wantgoo.radar.watch",
+  "work_item_id": "fb_promo:2026-11-25:radar",
+  "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+  "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
+  "http_status": 200,
+  "captured_at": "2026-11-25T05:42:31.569Z",
+  "data_as_of": "2026-11-25",
+  "shown_date": "2026-11-17",
+  "data_date_source": "capture",
+  "extracted": {
+    "title": "11/17 觀察股",
+    "columns": "股票 券商分點 買超 買超比 成交量",
+    "rows": "可成 2474 元大 9800 +2,000 62.25% 3,213",
+    "gate": "免費會員看的是 11-17 的觀察股，訂閱主力券商雷達就能看每天最新的完整名單「還有 28 檔」",
+    "pricing": "訂閱方案 選擇適合你的方案 享有進階會員完整權益（價值$1,990/年）＋主力券商雷達本日觀察股完整名單 年訂方案 最推薦 $3,490 ／年 平均每月約 $291，相較月訂一年省 $698 每年自動續訂，可取消下期續訂 選擇年訂方案 月訂方案 $349 ／月 適合想先使用看看的人 每月自動續訂，可取消下期續訂 選擇月訂 不想自動續訂？ 也可以選擇單次購買 $4,188／13 個月（買 12 個月送 1 個月），一次付款，不自動續訂 單次購買",
+    "rules": "資料更新 每個交易日盤後 監控門檻 單日買超 ≥ 25% 回測基準 6 個月飆股歷史 驗證方式 可回測 · 可重現"
+  },
+  "also_read": {
+    "url": "https://www.wantgoo.com/event/broker-radar",
+    "final_url": "https://www.wantgoo.com/event/broker-radar",
+    "http_status": 200
+  },
+  "checks": [
+    {
+      "selector": "#screeningResultTable tbody tr",
+      "min": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "selector": ".today-watchlist .gate-block__text",
+      "min": 1,
+      "actual": 1,
+      "pass": true
+    }
+  ],
+  "stable_frames": 2,
+  "selector": ".today-watchlist",
+  "title": "主力券商雷達 - 績優券商 | 玩股網",
+  "file": "evidence.png",
+  "bytes": 75434,
+  "width": 800,
+  "height": 588,
+  "sha256": "08fcba4e1435fc622bcc35dba87c949f44218caf5fe53efdb7a50e20973f34ea"
+}
