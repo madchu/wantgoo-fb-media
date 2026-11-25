@@ -1,8 +1,8 @@
 {
   "schema": "wantgoo.fb_manifest.v1",
-  "generated_at": "2026-11-25T05:42:34.172Z",
+  "generated_at": "2026-11-25T05:47:07.848Z",
   "work_item_id": "fb_promo:2026-11-25:radar",
-  "draft_sha256": "a37d327fc41a7b427bb3d57705fb1511bf131611fe4f2f4df01a00cc69cb7043",
+  "draft_sha256": "637a0c80a97388f683549b5a6d436901c0f9b424109ca6d6c202bdb81a1fa3a8",
   "captures": {
     "wantgoo.radar.watch": {
       "tool": "fb-pipeline/capture@2",
@@ -11,7 +11,7 @@
       "url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "final_url": "https://www.wantgoo.com/stock/broker-radar/top-performers",
       "http_status": 200,
-      "captured_at": "2026-11-25T05:42:31.569Z",
+      "captured_at": "2026-11-25T05:47:05.923Z",
       "data_as_of": "2026-11-25",
       "shown_date": "2026-11-17",
       "data_date_source": "capture",
@@ -67,7 +67,7 @@
     }
   ],
   "publish_target": null,
-  "approval_version": "a9a0581ea98cff892387d52c7938aaec4ff4a7fac5ac270feebd2fba37923129",
+  "approval_version": "899f694c3fa696f5138397186dcf94575f81677911a652e975c5d077536d28dd",
   "image_sha256": "08fcba4e1435fc622bcc35dba87c949f44218caf5fe53efdb7a50e20973f34ea",
   "effective_risk": "YELLOW",
   "live_requirements": [
@@ -88,9 +88,9 @@
       "wantgoo.radar.watch"
     ],
     "data_claims": [
-      "11/17",
       "2,000 張",
       "62.25%",
+      "11/17",
       "25%",
       "349 元",
       "3,490 元"
