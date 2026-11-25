@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 441710353,
+    "uuid": "840092323606121487",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-25T21:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-25T21:04:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "11/25 上市融資餘額 4,341.38 億，較前一交易日減少 193.67 億；扣除 ETF 後為 3,933.31 億，減少 124.24 億。\n融資維持率：全體上市 151.61%，下降 10.46 個百分點；扣除 ETF 為 131.35%，下降 7.70 個百分點。\n加權指數收 38,195.43，跌 4.80%。\n\n每天的融資餘額與維持率，在玩股網這一頁：\nhttps://www.wantgoo.com/stock/margin-trading/market-price/taiex?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_margin_20261125\n\n資料來源：玩股網資券進出行情，僅供參考，不構成投資建議。",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-10696536716659151515.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
