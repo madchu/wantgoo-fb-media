@@ -1,0 +1,13 @@
+08:01:51 step0 start
+08:02:03 step0 end ok
+08:02:12 step1 start
+08:02:23 step1 end: no post today, no state; step2 start
+08:03:36 step3 pre-capture 0050 ok data_as_of=2026-11-25
+08:04:18 step2 topic chosen: 0050 跌幅與回到原價的落差
+08:04:57 step3b draft done, prechecks ok
+08:05:04 step4 start
+08:05:19 step4 end PASS LIVE, negatives 0; step5 start
+08:05:32 step5 end claimed pushed; step6 start
+08:06:23 step6 created id=442488309 PENDING; step7 readback
+08:06:29 step7 readback ok SCHEDULED; step8 report
+08:06:37 office end uploaded, push sent; done
