@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_daily_growth:2026-11-26",
+  "blogId": "6948585",
+  "date": "2026-11-26T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/e131661fa797d1f37735b06db4e38e6c9e654d9e/posts/2026-11-26/out/evidence.png\"],\"mediaAltText\":[\"玩股網截圖，資料日期 2026/11/25\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-26T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"0050 在 11/25 收盤 90.3 元，跌 5.4 元，跌幅 5.64%。手上有 0050 的人如果覺得之後漲回同樣的幅度就能回到原點，其實還差一點。\\n\\n原因是基數變了。要回到前一天的價位，得把跌掉的 5.4 元全部補回來；但補回來的起點是收盤 90.3 元，比前一天低。同樣的金額放在比較小的基數上，換算成漲幅一定比這天的跌幅 5.64% 還大，而且跌得越深，這個落差越明顯。\\n\\n所以估算自己那一檔要漲多少才回得去，與其記百分比，不如直接看技術分析頁報價列的「漲跌」金額和收盤：跌掉的金額要全部補回，才是回到原本的價位。這只是算術上的提醒，不代表接下來會漲或會跌。\\n\\n0050 的收盤和漲跌金額在這一頁，手上是別檔，換成自己的代號就能看：\\nhttps://www.wantgoo.com/stock/etf/0050/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261126\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/e131661fa797d1f37735b06db4e38e6c9e654d9e/posts/2026-11-26/out/evidence.png",
+  "image_sha256": "3c7b0d01a87f0b34bc6a3f7b4c4863fac9657a96402aef71b453e5b1621081c2",
+  "plan_sha256": "68bec5260007ee54a09d9e2ae597ac20f20e8ad12c7e49d49fdfae28123c619c",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-26T00:05:26.792Z"
+}
