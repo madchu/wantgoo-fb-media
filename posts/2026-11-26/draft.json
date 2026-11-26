@@ -1,0 +1,29 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-26",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-26T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "0050 在 11/25 收盤 90.3 元，跌 5.4 元，跌幅 5.64%。手上有 0050 的人如果覺得之後漲回同樣的幅度就能回到原點，其實還差一點。\n\n原因是基數變了。要回到前一天的價位，得把跌掉的 5.4 元全部補回來；但補回來的起點是收盤 90.3 元，比前一天低。同樣的金額放在比較小的基數上，換算成漲幅一定比這天的跌幅 5.64% 還大，而且跌得越深，這個落差越明顯。\n\n所以估算自己那一檔要漲多少才回得去，與其記百分比，不如直接看技術分析頁報價列的「漲跌」金額和收盤：跌掉的金額要全部補回，才是回到原本的價位。這只是算術上的提醒，不代表接下來會漲或會跌。\n\n0050 的收盤和漲跌金額在這一頁，手上是別檔，換成自己的代號就能看：\nhttps://www.wantgoo.com/stock/etf/0050/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261126",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/etf/0050/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-25"
+  }
+ ],
+ "claims": [],
+ "sources": [
+  "https://www.wantgoo.com/stock/etf/0050/technical-chart"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical.phone",
+  "params": {
+   "code": "0050"
+  },
+  "selection_reason": "0050 手機版技術分析頁的報價列顯示 11/25 收盤 90.3 與漲跌 -5.4（-5.64%），正是文中用來說明跌幅與補回金額落差的數字，也是讀者換代號查自己那一檔的同一個畫面"
+ }
+}
