@@ -1,0 +1,14 @@
+{
+  "schema": "wantgoo.fb_cta.v2",
+  "policy": "fb_cta_direct",
+  "work_item_id": "fb_margin:2026-11-27",
+  "lane": "fb_margin",
+  "scheduled_at": "2026-11-27T21:30:00+08:00",
+  "target_url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex",
+  "search_term": null,
+  "cta_mode": "direct_utm",
+  "reason": "DIRECT_DEFAULT",
+  "final_url": "https://www.wantgoo.com/stock/margin-trading/market-price/taiex?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_margin_20261127",
+  "utm_campaign": "fb_cta_direct",
+  "utm_content": "fb_margin_20261127"
+}

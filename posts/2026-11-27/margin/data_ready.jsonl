@@ -1,0 +1,4 @@
+{"at":"20:35:09","exit":0,"data_as_of":"2026-11-26","code":null,"message":null}
+{"at":"20:40:26","exit":3,"data_as_of":null,"code":"CONTENT_MISSING","message":"margin card: the two pages list different days (11/27 vs 11/26) (rows read: 20 all, 20 excluding ETFs)"}
+{"at":"20:45:44","exit":3,"data_as_of":null,"code":"CONTENT_MISSING","message":"margin card: the two pages list different days (11/27 vs 11/26) (rows read: 20 all, 20 excluding ETFs)"}
+{"at":"20:50:54","exit":0,"data_as_of":"2026-11-27","code":null,"message":null}
