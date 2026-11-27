@@ -82,3 +82,4 @@
 {"event":"TRIGGER_DONE","thread_ts":"1795414049.663589","message_ts":"1795414491.093989","outcome":"HANDLED","reason":"回覆第 1 輪提案：同意 A（塑膠類股漲幅與市值）","at":"2026-11-23T06:15:51.865Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1795414049.663589","message_ts":"1795414758.175179","outcome":"SKIPPED","reason":"App 文委託單交件，由 App 文 Routine 處理","at":"2026-11-23T06:20:05.997Z"}
 {"event":"NOTE_POSTED","thread_ts":"1795414049.663589","reply_ts":"1795414942.382929","key":"result:exp_20261123_140730_235","at":"2026-11-23T06:22:22.445Z"}
+{"event":"BRIEF_POSTED","thread_ts":"1795759640.381589","work_item_id":"fb_app:2026-11-29:post","at":"2026-11-27T06:07:20.424Z"}
