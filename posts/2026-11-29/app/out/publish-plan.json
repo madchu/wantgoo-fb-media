@@ -1,0 +1,11 @@
+{
+  "work_item_id": "fb_app:2026-11-29:post",
+  "blogId": "6948585",
+  "date": "2026-11-29T09:30:00+08:00",
+  "info": "{\"autoPublish\":true,\"draft\":false,\"descendants\":[],\"firstCommentText\":\"\",\"hasNotReadNotes\":false,\"media\":[\"https://raw.githubusercontent.com/madchu/wantgoo-fb-media/615901cafa0b6ea2ccf16015ef14c5b9dd2b3fdc/posts/2026-11-29/app/out/evidence.png\"],\"mediaAltText\":[\"玩股網 App 畫面截圖，擷取於 2026/11/27\"],\"providers\":[{\"network\":\"facebook\"}],\"publicationDate\":{\"dateTime\":\"2026-11-29T09:30:00\",\"timezone\":\"Asia/Taipei\"},\"shortener\":false,\"smartLinkData\":{\"ids\":[]},\"text\":\"在玩股網 App 看 ETF 的股利頁，上方「填息天數 五年平均」只有個位數天，很容易讀成「這檔配完息很快就漲回來」；但往下滑到除息表，以截圖這檔 ETF 為例，最近兩次配息的填息天數都顯示「--」，也就是還沒填息。只看那個平均數，會漏掉手上最近領的這幾次配息其實還沒補回來。\\n\\n差別出在算法：五年平均填息天數只平均「已經填息」的那幾次，顯示「--」的配息不算進去。所以平均天數短，不代表每一次都填得快；還沒填的那幾次，反而不會出現在平均裡。\\n\\n在意填息的話，看完上方的平均，再往下滑到除息表，逐列看填息天數那一欄有沒有「--」，以及「--」是不是連著好幾次。這裡只說明欄位怎麼算、怎麼讀，不代表對任何 ETF 的看法，填息與否也會隨股價變動。\\n\\nApp 裡的位置：搜尋代號 › 個股／ETF 詳細頁 › 股利分頁 › 點「除息」。\\nhttps://www.wantgoo.com/app?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_app_20261129_post\",\"facebookData\":{\"type\":\"POST\"}}",
+  "media_url": "https://raw.githubusercontent.com/madchu/wantgoo-fb-media/615901cafa0b6ea2ccf16015ef14c5b9dd2b3fdc/posts/2026-11-29/app/out/evidence.png",
+  "image_sha256": "2b0579fb60012d5756019c4e7cfe1b4d4708ffb86b70ca64aa37120dbef0f1e2",
+  "plan_sha256": "3dcc30f695d268a6a33b4cc72668d7caa9ca7e56cd57238b58d866eef499b9e8",
+  "cta_mode": "direct_utm",
+  "claimed_at": "2026-11-27T06:23:03.350Z"
+}
