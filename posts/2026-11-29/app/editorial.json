@@ -1,0 +1,3 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_app:2026-11-29:post","category":"App 功能","objective":"帶動使用（股利分頁的除息表與填息天數）","opening":"數字反差：平均填息天數很短，但最近兩次配息都還沒填息","visual":"App Explorer 截圖（00929 詳細頁 › 股利 › 除息）",
+ "learning":{"version":"2026-W48","decisions":[
+  {"id":"P2","adopted":true,"reason":"前兩句同時交付結果（最近兩次還沒填息）與只看平均填息天數會漏掉手上配息還沒補回來"}]}}
