@@ -85,3 +85,4 @@
 {"event":"BRIEF_POSTED","thread_ts":"1795759640.381589","work_item_id":"fb_app:2026-11-29:post","at":"2026-11-27T06:07:20.424Z"}
 {"event":"PROPOSAL_REPLIED","thread_ts":"1795759640.381589","job_id":"exp_20261127_140720_805","turn":1,"decision":"同意","option":"A","reply_ts":"1795760222.780199","at":"2026-11-27T06:17:02.838Z"}
 {"event":"TRIGGER_DONE","thread_ts":"1795759640.381589","message_ts":"1795760156.231149","outcome":"HANDLED","reason":"回提案：同意 A（第 1 輪）","at":"2026-11-27T06:17:07.967Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1795759640.381589","message_ts":"1795760469.653369","outcome":"SKIPPED","reason":"App 文委託單（fb_app:2026-11-29:post）的交件，由 App 文 Routine 處理","at":"2026-11-27T06:22:27.604Z"}
