@@ -84,3 +84,4 @@
 {"event":"NOTE_POSTED","thread_ts":"1795414049.663589","reply_ts":"1795414942.382929","key":"result:exp_20261123_140730_235","at":"2026-11-23T06:22:22.445Z"}
 {"event":"BRIEF_POSTED","thread_ts":"1795759640.381589","work_item_id":"fb_app:2026-11-29:post","at":"2026-11-27T06:07:20.424Z"}
 {"event":"PROPOSAL_REPLIED","thread_ts":"1795759640.381589","job_id":"exp_20261127_140720_805","turn":1,"decision":"同意","option":"A","reply_ts":"1795760222.780199","at":"2026-11-27T06:17:02.838Z"}
+{"event":"TRIGGER_DONE","thread_ts":"1795759640.381589","message_ts":"1795760156.231149","outcome":"HANDLED","reason":"回提案：同意 A（第 1 輪）","at":"2026-11-27T06:17:07.967Z"}
