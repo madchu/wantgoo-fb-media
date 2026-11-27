@@ -1,0 +1,17 @@
+08:02:02 step0 start
+08:02:14 step0 end ok
+08:02:21 step1 start
+08:02:42 step1 end ok (no slot conflict, not app day)
+08:02:42 step2 start
+08:03:56 step3 pre-capture start
+08:04:50 step3 pre-capture end ok data_as_of=2026-11-26
+08:04:50 step3b write start
+08:06:05 step3b write end ok
+08:06:12 step4 gate start
+08:06:26 step4 gate end PASS LIVE
+08:06:26 step5 start
+08:06:34 step5 end ok
+08:06:34 step6 schedule start
+08:06:56 step6 created id=443782934 PENDING
+08:07:24 step7 readback end
+08:07:29 step8 end SCHEDULED
