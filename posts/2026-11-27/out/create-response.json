@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 443782934,
+    "uuid": "-8785090197884812416",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-27T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-27T08:06:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "006208 的分割案今天開放電子投票。新聞寫的分割倍數只是預估，而且已經變過一次：投信當初公告時估的倍數，和這週新聞寫的不一樣。手上有 006208 的人，分割後單位數會變成幾倍，要等受益人會議通過當天的淨值才確定。\n\n規則是把每單位淨值拆回發行價以上的最大整數倍，淨值落在不同區間，就對應不同倍數，所以淨值一移動，預估倍數就跟著變。圖上是 006208 在 11/26 的報價，收盤 208.75 元；要注意倍數是用淨值算，不是用收盤價算，正式結果以投信公告為準。\n\n不管最後拆幾倍，分割後持有的單位數增加、每單位淨值下降，持有的基金資產總價值不會因此改變。\n\n006208 每天的報價和 K 線在這一頁，會議前想追蹤它的走勢，可以從這裡看：\nhttps://www.wantgoo.com/stock/etf/006208/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261127",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-7536261590212158471.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
