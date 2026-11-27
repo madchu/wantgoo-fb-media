@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-27","category":"市場數據、熱門話題","objective":"帶動網站使用","opening":"讀者問題：006208 分割投票開跑，拆幾倍其實還沒定","visual":"wantgoo.stock.technical.phone code=006208",
+ "learning":{"version":"2026-W48","decisions":[{"id":"P1","adopted":true,"reason":"結論直接影響 006208 持有人分割後單位數的解讀，承接頁是 006208 技術分析頁"},{"id":"P2","adopted":true,"reason":"前兩句交付投票開跑與只看新聞預估倍數會漏掉它還會變"}]}}

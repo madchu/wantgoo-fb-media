@@ -1,0 +1,93 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-27",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-27T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "006208 的分割案今天開放電子投票。新聞寫的分割倍數只是預估，而且已經變過一次：投信當初公告時估的倍數，和這週新聞寫的不一樣。手上有 006208 的人，分割後單位數會變成幾倍，要等受益人會議通過當天的淨值才確定。\n\n規則是把每單位淨值拆回發行價以上的最大整數倍，淨值落在不同區間，就對應不同倍數，所以淨值一移動，預估倍數就跟著變。圖上是 006208 在 11/26 的報價，收盤 208.75 元；要注意倍數是用淨值算，不是用收盤價算，正式結果以投信公告為準。\n\n不管最後拆幾倍，分割後持有的單位數增加、每單位淨值下降，持有的基金資產總價值不會因此改變。\n\n006208 每天的報價和 K 線在這一頁，會議前想追蹤它的走勢，可以從這裡看：\nhttps://www.wantgoo.com/stock/etf/006208/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261127",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/etf/006208/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-26"
+  },
+  {
+   "url": "https://news.cnyes.com/news/id/6673295",
+   "role": "supporting",
+   "title": "〈台股盤前要聞〉富邦006208分割投票開跑、華南金前10月獲利284億元超過去年",
+   "published_at": "2026-11-27T04:10:00+08:00"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5612/9903305",
+   "role": "supporting",
+   "title": "富邦006208分割 黃昭棠：投資降門檻、配置增彈性",
+   "published_at": "2026-11-26T12:31:06+08:00"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5618/9831733",
+   "role": "supporting",
+   "title": "分割再+1！ETF 006208有望1拆8、12月18日召開受益人會議",
+   "published_at": "2026-10-22T17:47:46+08:00"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5618/9831739",
+   "role": "supporting",
+   "title": "市場高度關注 006208將進行分割 12月18日召開書面受益人會議",
+   "published_at": "2026-10-22T17:51:51+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "006208 自 11/27 至 12/15 開放電子投票",
+   "source": "https://news.cnyes.com/news/id/6673295",
+   "quote": "自11月27日至12月15日開放電子投票"
+  },
+  {
+   "claim": "分割倍數目前暫估 1拆7",
+   "source": "https://news.cnyes.com/news/id/6673295",
+   "quote": "分割倍數暫估為1拆7"
+  },
+  {
+   "claim": "10/22 公告時預估分割倍數為 8 倍",
+   "source": "https://money.udn.com/money/story/5618/9831733",
+   "quote": "分割倍數目前預估為8倍"
+  },
+  {
+   "claim": "實際倍數依受益人會議通過當日淨值計算",
+   "source": "https://money.udn.com/money/story/5618/9831739",
+   "quote": "需依受益人會議通過當日之分割後淨值計算"
+  },
+  {
+   "claim": "倍數為回到發行價 30 元以上之最大整數倍",
+   "source": "https://money.udn.com/money/story/5612/9903305",
+   "quote": "採回到發行價30元以上之最大整數倍作為分割倍數"
+  },
+  {
+   "claim": "分割不影響持有的基金資產總價值",
+   "source": "https://money.udn.com/money/story/5612/9903305",
+   "quote": "不會影響持有的基金資產總價值"
+  },
+  {
+   "claim": "淨值落在不同區間對應不同分割倍數",
+   "source": "https://money.udn.com/money/story/5618/9831739",
+   "quote": "若淨值介於240.00至269.99元間，分割倍數為8倍"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/etf/006208/technical-chart",
+  "https://news.cnyes.com/news/id/6673295",
+  "https://money.udn.com/money/story/5612/9903305",
+  "https://money.udn.com/money/story/5618/9831733",
+  "https://money.udn.com/money/story/5618/9831739"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical.phone",
+  "params": {
+   "code": "006208"
+  },
+  "selection_reason": "006208 手機版技術分析頁報價列顯示 11/26 開高低收，是讀者在分割會議前追蹤 006208 的同一頁；文中提醒倍數以淨值而非收盤價計算"
+ }
+}
