@@ -154,3 +154,4 @@
 {"work_item_id":"fb_margin:2026-11-27","event":"READBACK_FOUND","status":"SCHEDULED","provider_id":"metricool:444337355","public_url":null,"at":"2026-11-27T12:52:15.185Z"}
 {"work_item_id":"fb_daily_growth:2026-11-28","event":"ATTEMPT_STARTED","at":"2026-11-28T00:06:06.801Z"}
 {"work_item_id":"fb_daily_growth:2026-11-28","event":"READBACK_FOUND","status":"SCHEDULED","provider_id":"metricool:445006977","public_url":null,"at":"2026-11-28T00:07:07.743Z"}
+{"work_item_id":"fb_daily_growth:2026-11-28","event":"READBACK_FOUND","status":"PUBLISHED","provider_id":"facebook:1645983507571851","public_url":"https://facebook.com/1564411292395740/posts/1645983507571851","at":"2026-11-28T01:51:05.151Z"}
