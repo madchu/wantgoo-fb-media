@@ -1,0 +1,2 @@
+{"schema":"wantgoo.fb_editorial.v1","work_item_id":"fb_daily_growth:2026-11-28","category":"網站實用功能","objective":"帶動網站使用","opening":"讀者問題：00662 持有人看一般日線會看到分割造成的價格斷層","visual":"wantgoo.stock.technical.phone.adjusted code=00662",
+ "learning":{"version":"2026-W48","decisions":[{"id":"P1","adopted":true,"reason":"結論改變持有人怎麼解讀自己那一檔的 K 線與指標，承接頁是可換代號的技術分析頁，CTA 請讀者換成自己那一檔"},{"id":"P2","adopted":true,"reason":"前兩句交付斷層是分割不是崩跌，以及只看未還原線會讓指標被扭曲"}]}}

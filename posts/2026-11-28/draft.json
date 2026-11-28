@@ -1,0 +1,54 @@
+{
+ "schema": "wantgoo.fb_post.v1",
+ "work_item_id": "fb_daily_growth:2026-11-28",
+ "lane": "fb_daily_growth",
+ "test_only": false,
+ "scheduled_at": "2026-11-28T09:30:00+08:00",
+ "content_type": "MARKET_DATA",
+ "publication_risk": "GREEN",
+ "text": "手上有 00662 的人，這陣子打開一般日線，會看到股價在分割那天突然少了一大截。那不是崩跌，是分割；但未還原的 K 線會把這段價格斷層算進去，均線、KD、MACD 也可能因此被扭曲，看起來像出現一段急跌。\n\n玩股網技術分析頁有「還原日線」，把分割前的價格依比例調整，接成連續的走勢。圖上就是 00662 的還原日線，11/27 收盤 22.64 元，K 線和均線沒有那道斷層。要注意，還原價是調整後的序列，不是當時真的成交在那些價格；它比較適合用來觀察連續趨勢。\n\n不只 00662 這檔，手上那一檔遇過分割或除權息，都可以在同一頁的週期按鈕切到「還原日線」，也有還原周線、還原月線。把代號換成自己那一檔：\nhttps://www.wantgoo.com/stock/etf/00662/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261128",
+ "evidence": [
+  {
+   "url": "https://www.wantgoo.com/stock/etf/00662/technical-chart",
+   "role": "primary",
+   "data_as_of": "2026-11-27"
+  },
+  {
+   "url": "https://money.udn.com/money/story/5618/9882640",
+   "role": "supporting",
+   "title": "00662一拆五 恢復交易",
+   "published_at": "2026-11-17T01:04:19+08:00"
+  },
+  {
+   "url": "https://tw.stock.yahoo.com/news/%E5%AF%8C%E9%82%A6nasdaq-etf%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E4%BA%A4%E6%98%93-%E5%88%86%E5%89%B2%E5%BE%8C%E6%AF%8F%E5%96%AE%E4%BD%8D%E5%8F%83%E8%80%83%E5%83%B923-56%E5%85%83-232030577.html",
+   "role": "supporting",
+   "title": "富邦NASDAQ ETF今日恢復交易，分割後每單位參考價23.56元",
+   "published_at": "2026-11-16T17:20:00+08:00"
+  }
+ ],
+ "claims": [
+  {
+   "claim": "00662 進行分割後恢復交易",
+   "source": "https://money.udn.com/money/story/5618/9882640",
+   "quote": "今（17）日以一拆五之姿恢復交易"
+  },
+  {
+   "claim": "00662 分割是一張變多張",
+   "source": "https://tw.stock.yahoo.com/news/%E5%AF%8C%E9%82%A6nasdaq-etf%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E4%BA%A4%E6%98%93-%E5%88%86%E5%89%B2%E5%BE%8C%E6%AF%8F%E5%96%AE%E4%BD%8D%E5%8F%83%E8%80%83%E5%83%B923-56%E5%85%83-232030577.html",
+   "quote": "00662此次採取一拆五分割，一張ETF變為五張"
+  }
+ ],
+ "sources": [
+  "https://www.wantgoo.com/stock/etf/00662/technical-chart",
+  "https://money.udn.com/money/story/5618/9882640",
+  "https://tw.stock.yahoo.com/news/%E5%AF%8C%E9%82%A6nasdaq-etf%E4%BB%8A%E6%97%A5%E6%81%A2%E5%BE%A9%E4%BA%A4%E6%98%93-%E5%88%86%E5%89%B2%E5%BE%8C%E6%AF%8F%E5%96%AE%E4%BD%8D%E5%8F%83%E8%80%83%E5%83%B923-56%E5%85%83-232030577.html"
+ ],
+ "visual": {
+  "source": "FIRST_PARTY_SCREENSHOT",
+  "profile": "wantgoo.stock.technical.phone.adjusted",
+  "params": {
+   "code": "00662"
+  },
+  "selection_reason": "00662 手機版技術分析頁切到還原日線，是本文要介紹的畫面；報價列為 11/27 開高低收，分割斷層用文字說明"
+ }
+}
