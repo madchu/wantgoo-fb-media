@@ -1,0 +1,11 @@
+08:02:18 step0 start
+08:02:51 step0 end (media repo shallow-clone fast-forwarded)
+08:03:00 step1 start
+08:03:54 step2 topic selected; step3 precapture start
+08:05:39 step3b draft done
+08:05:47 step4 gate start (write-step office status skipped)
+08:06:03 step5 start
+08:06:13 step5 end; step6 start
+08:06:37 step6 created metricool:445006977; step7 start
+08:07:09 step7 end; step8 start
+08:07:18 step8 office end + push sent; done
