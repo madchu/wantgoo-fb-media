@@ -1,0 +1,27 @@
+{
+  "data": {
+    "id": 445006977,
+    "uuid": "7678404468375177994",
+    "draft": false,
+    "autoPublish": true,
+    "publicationDate": {
+      "dateTime": "2026-11-28T09:30:00",
+      "timezone": "Asia/Taipei"
+    },
+    "creationDate": {
+      "dateTime": "2026-11-28T08:06:00",
+      "timezone": "Asia/Taipei"
+    },
+    "text": "手上有 00662 的人，這陣子打開一般日線，會看到股價在分割那天突然少了一大截。那不是崩跌，是分割；但未還原的 K 線會把這段價格斷層算進去，均線、KD、MACD 也可能因此被扭曲，看起來像出現一段急跌。\n\n玩股網技術分析頁有「還原日線」，把分割前的價格依比例調整，接成連續的走勢。圖上就是 00662 的還原日線，11/27 收盤 22.64 元，K 線和均線沒有那道斷層。要注意，還原價是調整後的序列，不是當時真的成交在那些價格；它比較適合用來觀察連續趨勢。\n\n不只 00662 這檔，手上那一檔遇過分割或除權息，都可以在同一頁的週期按鈕切到「還原日線」，也有還原周線、還原月線。把代號換成自己那一檔：\nhttps://www.wantgoo.com/stock/etf/00662/technical-chart?utm_source=facebook&utm_medium=organic_social&utm_campaign=fb_cta_direct&utm_content=fb_daily_growth_20261128",
+    "media": [
+      "https://static.metricool.com/planner/202611/6948585-file-8537897986002694935.png"
+    ],
+    "providers": [
+      {
+        "network": "facebook",
+        "status": "PENDING",
+        "detailedStatus": "Pending"
+      }
+    ]
+  }
+}
